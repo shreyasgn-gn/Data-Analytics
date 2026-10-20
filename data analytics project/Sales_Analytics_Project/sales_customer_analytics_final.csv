@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,Region,City,Category,Product,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method,Profit_Margin,Month,Quarter
+ORD100001,2025-05-06,CUST1337,Corporate,West,Pune,Electronics,Laptop,4,25456.99,0.1,91645.18,70344.27,21300.91,Debit Card,23.24,May,Q2
+ORD100002,2025-11-01,CUST1344,Consumer,East,Bhubaneswar,Electronics,Monitor,6,79316.12,0.05,452101.9,348234.0,103867.9,UPI,22.97,November,Q4
+ORD100003,2025-10-21,CUST1287,Consumer,South,Kochi,Electronics,Laptop,7,75602.93,0.05,502759.52,395912.32,106847.2,UPI,21.25,October,Q4
+ORD100004,2025-03-05,CUST1225,Corporate,West,Pune,Electronics,Monitor,6,24095.88,0.05,137346.51,115455.58,21890.93,Net Banking,15.94,March,Q1
+ORD100005,2025-11-21,CUST1286,Corporate,West,Surat,Electronics,Smartphone,5,38943.27,0.0,194716.35,133663.76,61052.59,UPI,31.35,November,Q4
+ORD100006,2025-06-25,CUST1204,Corporate,East,Bhubaneswar,Office Supplies,Pen Set,1,2077.88,0.0,2077.88,1587.1,490.78,Net Banking,23.62,June,Q2
+ORD100007,2025-04-26,CUST1172,Consumer,South,Bengaluru,Electronics,Smartphone,1,88148.76,0.2,70519.01,66606.31,3912.7,Debit Card,5.55,April,Q2
+ORD100008,2025-07-23,CUST1012,Consumer,South,Chennai,Furniture,Table,1,5750.96,0.05,5463.41,4280.35,1183.06,Debit Card,21.65,July,Q3
+ORD100009,2025-11-17,CUST1307,Consumer,West,Mumbai,Office Supplies,Pen Set,1,4005.83,0.05,3805.54,3093.08,712.46,UPI,18.72,November,Q4
+ORD100010,2025-01-31,CUST1121,Small Business,North,Lucknow,Clothing,Shoes,7,2873.28,0.0,20112.99,13231.02,6881.97,UPI,34.22,January,Q1
+ORD100011,2025-04-23,CUST1244,Corporate,West,Pune,Electronics,Headphones,3,67123.98,0.0,201371.94,121909.49,79462.45,Credit Card,39.46,April,Q2
+ORD100012,2025-12-31,CUST1152,Corporate,West,Pune,Clothing,Jacket,5,3534.08,0.1,15903.38,10881.12,5022.26,UPI,31.58,December,Q4
+ORD100013,2025-11-21,CUST1152,Consumer,West,Pune,Office Supplies,Pen Set,2,2912.88,0.05,5534.47,3771.45,1763.02,UPI,31.86,November,Q4
+ORD100014,2025-12-10,CUST1188,Corporate,West,Mumbai,Electronics,Headphones,5,75772.0,0.05,359917.0,276590.3,83326.7,UPI,23.15,December,Q4
+ORD100015,2025-03-08,CUST1013,Consumer,East,Bhubaneswar,Groceries,Cooking Oil,3,2030.0,0.0,6089.99,5067.68,1022.31,UPI,16.79,March,Q1
+ORD100016,2025-03-16,CUST1091,Consumer,South,Chennai,Groceries,Snacks,1,2179.42,0.1,1961.47,1722.58,238.89,UPI,12.18,March,Q1
+ORD100017,2025-02-14,CUST1200,Consumer,East,Ranchi,Electronics,Headphones,3,10067.47,0.0,30202.42,24666.68,5535.74,Debit Card,18.33,February,Q1
+ORD100018,2025-09-17,CUST1074,Corporate,East,Patna,Electronics,Smartphone,4,63824.3,0.0,255297.19,174953.3,80343.89,UPI,31.47,September,Q3
+ORD100019,2025-06-03,CUST1256,Consumer,East,Kolkata,Clothing,T-Shirt,4,1377.9,0.05,5236.03,3865.82,1370.21,UPI,26.17,June,Q2
+ORD100020,2025-06-04,CUST1276,Consumer,West,Surat,Clothing,T-Shirt,7,3501.8,0.0,24512.62,17112.37,7400.25,Credit Card,30.19,June,Q2
+ORD100021,2025-12-29,CUST1328,Small Business,North,Delhi,Electronics,Smartphone,5,51630.02,0.0,258150.08,164586.67,93563.41,Cash,36.24,December,Q4
+ORD100022,2025-08-22,CUST1329,Consumer,South,Kochi,Electronics,Smartphone,5,39232.86,0.1,176547.85,117377.84,59170.01,UPI,33.51,August,Q3
+ORD100023,2025-02-20,CUST1071,Consumer,North,Lucknow,Furniture,Table,2,13710.87,0.1,24679.57,20765.8,3913.77,UPI,15.86,February,Q1
+ORD100024,2025-11-02,CUST1078,Consumer,East,Ranchi,Office Supplies,Stapler,7,4982.81,0.15,29647.69,30581.24,-933.55,Credit Card,-3.15,November,Q4
+ORD100025,2025-09-19,CUST1284,Consumer,East,Kolkata,Office Supplies,Stapler,2,719.33,0.05,1366.72,906.42,460.3,Net Banking,33.68,September,Q3
+ORD100026,2025-11-11,CUST1130,Corporate,North,Jaipur,Furniture,Desk,4,17373.22,0.0,69492.87,41279.14,28213.73,Debit Card,40.6,November,Q4
+ORD100027,2025-05-05,CUST1043,Consumer,North,Jaipur,Office Supplies,Printer,1,2010.2,0.0,2010.2,1636.02,374.18,Credit Card,18.61,May,Q2
+ORD100028,2025-09-02,CUST1008,Consumer,North,Lucknow,Clothing,Jacket,3,1324.18,0.2,3178.02,2605.09,572.93,UPI,18.03,September,Q3
+ORD100029,2025-01-30,CUST1013,Corporate,East,Kolkata,Electronics,Monitor,2,18492.62,0.05,35135.99,30656.82,4479.17,Credit Card,12.75,January,Q1
+ORD100030,2025-05-02,CUST1213,Corporate,East,Kolkata,Electronics,Monitor,6,85688.21,0.1,462716.36,406769.32,55947.04,UPI,12.09,May,Q2
+ORD100031,2025-05-05,CUST1111,Corporate,South,Bengaluru,Clothing,Shoes,2,7072.93,0.0,14145.86,12217.81,1928.05,Debit Card,13.63,May,Q2
+ORD100032,2025-02-06,CUST1291,Consumer,South,Hyderabad,Groceries,Coffee,1,2276.9,0.05,2163.06,1599.93,563.13,Debit Card,26.03,February,Q1
+ORD100033,2025-06-19,CUST1023,Consumer,East,Bhubaneswar,Office Supplies,Pen Set,1,4958.09,0.0,4958.09,3860.32,1097.77,Cash,22.14,June,Q2
+ORD100034,2025-05-04,CUST1302,Corporate,North,Chandigarh,Office Supplies,Stapler,5,1081.16,0.05,5135.52,3889.24,1246.28,UPI,24.27,May,Q2
+ORD100035,2025-12-23,CUST1254,Corporate,North,Lucknow,Electronics,Monitor,3,35212.34,0.15,89791.48,81253.53,8537.95,UPI,9.51,December,Q4
+ORD100036,2025-02-04,CUST1015,Small Business,South,Kochi,Furniture,Table,1,17226.65,0.2,13781.32,12314.98,1466.34,Credit Card,10.64,February,Q1
+ORD100037,2025-03-28,CUST1130,Small Business,East,Bhubaneswar,Office Supplies,Notebook,7,2444.82,0.05,16258.07,10894.44,5363.63,Debit Card,32.99,March,Q1
+ORD100038,2025-05-14,CUST1061,Small Business,South,Hyderabad,Electronics,Laptop,2,40563.11,0.05,77069.91,59414.35,17655.56,Debit Card,22.91,May,Q2
+ORD100039,2025-07-15,CUST1115,Consumer,South,Chennai,Electronics,Smartphone,2,35413.96,0.15,60203.73,52311.74,7891.99,UPI,13.11,July,Q3
+ORD100040,2025-10-01,CUST1320,Consumer,West,Surat,Furniture,Bookshelf,4,15453.84,0.1,55633.84,50885.26,4748.58,UPI,8.54,October,Q4
+ORD100041,2025-07-20,CUST1308,Corporate,West,Mumbai,Electronics,Smartphone,1,53925.44,0.0,53925.44,43175.74,10749.7,Credit Card,19.93,July,Q3
+ORD100042,2025-10-12,CUST1325,Consumer,West,Mumbai,Furniture,Bookshelf,6,5294.26,0.05,30177.28,24749.73,5427.55,UPI,17.99,October,Q4
+ORD100043,2025-03-18,CUST1067,Consumer,North,Chandigarh,Electronics,Laptop,5,45097.89,0.0,225489.43,138454.15,87035.28,Net Banking,38.6,March,Q1
+ORD100044,2025-02-28,CUST1249,Small Business,East,Kolkata,Furniture,Table,3,14506.59,0.05,41343.77,34649.78,6693.99,Credit Card,16.19,February,Q1
+ORD100045,2025-05-06,CUST1175,Small Business,East,Ranchi,Electronics,Smartphone,6,53474.39,0.05,304804.02,234247.2,70556.82,Debit Card,23.15,May,Q2
+ORD100046,2025-04-19,CUST1339,Consumer,East,Patna,Groceries,Cooking Oil,5,604.26,0.05,2870.22,2562.75,307.47,Credit Card,10.71,April,Q2
+ORD100047,2025-08-12,CUST1002,Consumer,East,Patna,Office Supplies,Printer,2,3724.24,0.05,7076.06,6375.62,700.44,Debit Card,9.9,August,Q3
+ORD100048,2025-10-05,CUST1172,Consumer,West,Ahmedabad,Clothing,T-Shirt,6,494.03,0.0,2964.2,1768.28,1195.92,UPI,40.35,October,Q4
+ORD100049,2025-03-09,CUST1334,Small Business,North,Delhi,Clothing,T-Shirt,5,3032.21,0.05,14402.98,12525.93,1877.05,Net Banking,13.03,March,Q1
+ORD100050,2025-03-10,CUST1284,Small Business,North,Jaipur,Office Supplies,Notebook,2,3912.05,0.15,6650.49,4626.47,2024.02,UPI,30.43,March,Q1
+ORD100051,2025-06-14,CUST1054,Consumer,West,Mumbai,Electronics,Smartphone,2,52930.9,0.1,95275.62,73060.61,22215.01,Credit Card,23.32,June,Q2
+ORD100052,2025-11-01,CUST1067,Consumer,North,Delhi,Office Supplies,Pen Set,2,1342.75,0.0,2685.51,1994.5,691.01,UPI,25.73,November,Q4
+ORD100053,2025-06-11,CUST1102,Small Business,West,Pune,Office Supplies,Printer,2,3490.02,0.15,5933.03,4358.55,1574.48,Credit Card,26.54,June,Q2
+ORD100054,2025-12-31,CUST1120,Consumer,East,Bhubaneswar,Clothing,Jacket,7,4668.91,0.15,27780.02,26273.17,1506.85,UPI,5.42,December,Q4
+ORD100055,2025-12-08,CUST1191,Corporate,West,Pune,Furniture,Desk,2,20211.72,0.0,40423.45,23546.92,16876.53,UPI,41.75,December,Q4
+ORD100056,2025-11-05,CUST1304,Small Business,East,Bhubaneswar,Electronics,Smartphone,4,67477.14,0.0,269908.56,170198.86,99709.7,Cash,36.94,November,Q4
+ORD100057,2025-12-09,CUST1047,Consumer,East,Kolkata,Furniture,Office Chair,6,15837.54,0.1,85522.7,71671.73,13850.97,UPI,16.2,December,Q4
+ORD100058,2025-02-11,CUST1222,Corporate,South,Kochi,Furniture,Table,5,12972.18,0.15,55131.75,51520.05,3611.7,Debit Card,6.55,February,Q1
+ORD100059,2025-12-20,CUST1021,Consumer,West,Ahmedabad,Office Supplies,Stapler,4,709.25,0.2,2269.6,2425.62,-156.02,Cash,-6.87,December,Q4
+ORD100060,2025-04-19,CUST1158,Consumer,South,Kochi,Office Supplies,Pen Set,7,1343.6,0.15,7994.41,7445.61,548.8,UPI,6.86,April,Q2
+ORD100061,2025-02-20,CUST1348,Small Business,West,Mumbai,Furniture,Table,4,11348.84,0.1,40855.82,35478.0,5377.82,Debit Card,13.16,February,Q1
+ORD100062,2025-09-07,CUST1159,Consumer,West,Pune,Groceries,Rice,1,1538.32,0.05,1461.4,1074.21,387.19,UPI,26.49,September,Q3
+ORD100063,2025-12-07,CUST1235,Small Business,South,Hyderabad,Office Supplies,Printer,1,2592.85,0.0,2592.85,1504.85,1088.0,UPI,41.96,December,Q4
+ORD100064,2025-01-21,CUST1150,Corporate,South,Hyderabad,Electronics,Laptop,1,29495.68,0.0,29495.68,18170.75,11324.93,Credit Card,38.4,January,Q1
+ORD100065,2025-10-27,CUST1257,Consumer,West,Surat,Electronics,Laptop,3,5549.47,0.05,15815.99,12325.92,3490.07,Net Banking,22.07,October,Q4
+ORD100066,2025-05-19,CUST1165,Consumer,North,Delhi,Electronics,Monitor,1,47180.33,0.1,42462.3,36920.45,5541.85,UPI,13.05,May,Q2
+ORD100067,2025-12-25,CUST1077,Consumer,East,Kolkata,Electronics,Headphones,5,29278.21,0.05,139071.49,103240.01,35831.48,Credit Card,25.76,December,Q4
+ORD100068,2025-11-20,CUST1085,Consumer,South,Bengaluru,Electronics,Monitor,4,67441.71,0.1,242790.14,215598.64,27191.5,Credit Card,11.2,November,Q4
+ORD100069,2025-04-02,CUST1046,Consumer,East,Patna,Electronics,Monitor,5,7035.43,0.0,35177.16,25910.04,9267.12,Net Banking,26.34,April,Q2
+ORD100070,2025-10-07,CUST1047,Consumer,North,Chandigarh,Furniture,Table,6,15243.45,0.05,86887.69,55082.48,31805.21,UPI,36.6,October,Q4
+ORD100071,2025-05-05,CUST1213,Consumer,North,Lucknow,Electronics,Monitor,1,85025.31,0.0,85025.31,54212.55,30812.76,Debit Card,36.24,May,Q2
+ORD100072,2025-04-21,CUST1059,Corporate,North,Lucknow,Groceries,Rice,7,518.58,0.05,3448.57,3020.22,428.35,Debit Card,12.42,April,Q2
+ORD100073,2025-12-20,CUST1054,Corporate,South,Chennai,Electronics,Headphones,3,45090.21,0.1,121743.56,107874.78,13868.78,Debit Card,11.39,December,Q4
+ORD100074,2025-05-19,CUST1342,Corporate,North,Chandigarh,Office Supplies,Printer,6,502.54,0.1,2713.71,2558.21,155.5,Net Banking,5.73,May,Q2
+ORD100075,2025-09-30,CUST1012,Consumer,South,Chennai,Furniture,Bookshelf,7,16203.52,0.2,90739.74,69786.48,20953.26,Net Banking,23.09,September,Q3
+ORD100076,2025-04-09,CUST1192,Consumer,North,Delhi,Groceries,Coffee,3,1421.28,0.0,4263.83,3739.66,524.17,UPI,12.29,April,Q2
+ORD100077,2025-09-09,CUST1006,Corporate,East,Patna,Electronics,Monitor,6,39626.07,0.05,225868.6,152835.06,73033.54,Credit Card,32.33,September,Q3
+ORD100078,2025-12-04,CUST1309,Consumer,East,Ranchi,Furniture,Desk,4,13752.36,0.0,55009.44,32099.88,22909.56,Credit Card,41.65,December,Q4
+ORD100079,2025-04-14,CUST1144,Consumer,West,Mumbai,Groceries,Snacks,5,2251.78,0.05,10695.95,9899.12,796.83,UPI,7.45,April,Q2
+ORD100080,2025-08-02,CUST1346,Small Business,East,Ranchi,Groceries,Coffee,2,571.11,0.15,970.88,758.8,212.08,Credit Card,21.84,August,Q3
+ORD100081,2025-09-06,CUST1261,Corporate,West,Ahmedabad,Clothing,T-Shirt,5,473.75,0.1,2131.86,1848.57,283.29,Credit Card,13.29,September,Q3
+ORD100082,2025-06-01,CUST1073,Corporate,East,Ranchi,Electronics,Monitor,1,78241.52,0.15,66505.29,49527.25,16978.04,Credit Card,25.53,June,Q2
+ORD100083,2025-09-07,CUST1174,Consumer,South,Bengaluru,Electronics,Headphones,7,54054.95,0.0,378384.66,285327.98,93056.68,Cash,24.59,September,Q3
+ORD100084,2025-10-02,CUST1232,Corporate,East,Bhubaneswar,Clothing,Jeans,2,7158.07,0.15,12168.72,12186.05,-17.33,UPI,-0.14,October,Q4
+ORD100085,2025-06-14,CUST1270,Corporate,West,Ahmedabad,Groceries,Cooking Oil,3,1532.67,0.0,4598.01,3108.5,1489.51,Net Banking,32.39,June,Q2
+ORD100086,2025-12-07,CUST1222,Corporate,West,Pune,Office Supplies,Printer,4,4060.3,0.15,13805.01,12685.61,1119.4,Credit Card,8.11,December,Q4
+ORD100087,2025-01-08,CUST1052,Corporate,North,Lucknow,Office Supplies,Notebook,4,2176.88,0.0,8707.53,5541.22,3166.31,Credit Card,36.36,January,Q1
+ORD100088,2025-10-11,CUST1116,Small Business,South,Bengaluru,Electronics,Smartphone,3,68738.09,0.0,206214.28,158256.8,47957.48,Net Banking,23.26,October,Q4
+ORD100089,2025-01-05,CUST1026,Consumer,East,Patna,Clothing,Jeans,1,7330.42,0.05,6963.9,4991.54,1972.36,UPI,28.32,January,Q1
+ORD100090,2025-05-25,CUST1053,Consumer,North,Jaipur,Electronics,Monitor,3,53630.45,0.15,136757.65,103511.46,33246.19,Credit Card,24.31,May,Q2
+ORD100091,2025-04-11,CUST1029,Corporate,East,Patna,Furniture,Desk,6,5748.45,0.0,34490.71,23245.17,11245.54,Credit Card,32.6,April,Q2
+ORD100092,2025-06-13,CUST1019,Corporate,East,Kolkata,Furniture,Table,7,7816.74,0.05,51981.35,34671.69,17309.66,UPI,33.3,June,Q2
+ORD100093,2025-05-27,CUST1303,Corporate,North,Lucknow,Office Supplies,Notebook,7,1033.29,0.15,6148.08,6152.24,-4.16,Net Banking,-0.07,May,Q2
+ORD100094,2025-03-05,CUST1279,Consumer,North,Jaipur,Electronics,Monitor,1,25982.85,0.05,24683.7,18166.07,6517.63,Net Banking,26.4,March,Q1
+ORD100095,2025-04-01,CUST1117,Consumer,North,Delhi,Electronics,Monitor,2,31045.31,0.0,62090.63,40581.43,21509.2,UPI,34.64,April,Q2
+ORD100096,2025-04-27,CUST1106,Small Business,North,Jaipur,Office Supplies,Pen Set,3,2797.91,0.05,7974.05,5997.51,1976.54,UPI,24.79,April,Q2
+ORD100097,2025-12-20,CUST1309,Corporate,North,Lucknow,Furniture,Desk,1,15317.8,0.05,14551.91,10357.3,4194.61,Credit Card,28.83,December,Q4
+ORD100098,2025-09-24,CUST1227,Small Business,East,Ranchi,Office Supplies,Notebook,7,2161.17,0.15,12858.98,12152.89,706.09,UPI,5.49,September,Q3
+ORD100099,2025-11-06,CUST1186,Corporate,North,Jaipur,Electronics,Monitor,2,57310.77,0.1,103159.38,99877.3,3282.08,Credit Card,3.18,November,Q4
+ORD100100,2025-06-22,CUST1261,Corporate,South,Hyderabad,Office Supplies,Notebook,3,453.8,0.05,1293.32,968.5,324.82,UPI,25.12,June,Q2
+ORD100101,2025-02-16,CUST1016,Corporate,West,Surat,Office Supplies,Pen Set,4,484.55,0.2,1550.57,1624.82,-74.25,Credit Card,-4.79,February,Q1
+ORD100102,2025-05-20,CUST1273,Small Business,North,Chandigarh,Electronics,Smartphone,3,19605.5,0.05,55875.69,44098.2,11777.49,UPI,21.08,May,Q2
+ORD100103,2025-09-03,CUST1160,Corporate,North,Delhi,Furniture,Table,5,13674.82,0.0,68374.11,42882.24,25491.87,UPI,37.28,September,Q3
+ORD100104,2025-05-29,CUST1250,Corporate,East,Ranchi,Electronics,Smartphone,3,23189.55,0.0,69568.64,54763.52,14805.12,Debit Card,21.28,May,Q2
+ORD100105,2025-09-03,CUST1224,Consumer,North,Jaipur,Electronics,Headphones,5,29079.17,0.05,138126.08,106724.98,31401.1,Credit Card,22.73,September,Q3
+ORD100106,2025-01-05,CUST1256,Consumer,North,Jaipur,Groceries,Snacks,2,1060.75,0.0,2121.5,1644.55,476.95,Cash,22.48,January,Q1
+ORD100107,2025-07-03,CUST1180,Corporate,North,Chandigarh,Furniture,Office Chair,3,20578.85,0.15,52476.08,52285.08,191.0,Net Banking,0.36,July,Q3
+ORD100108,2025-01-20,CUST1020,Consumer,East,Patna,Clothing,Shoes,2,406.74,0.1,732.13,579.3,152.83,UPI,20.87,January,Q1
+ORD100109,2025-02-15,CUST1112,Consumer,North,Jaipur,Electronics,Laptop,2,60197.2,0.0,120394.4,102377.77,18016.63,UPI,14.96,February,Q1
+ORD100110,2025-01-12,CUST1120,Consumer,West,Pune,Clothing,Jacket,7,5450.35,0.05,36244.82,30720.38,5524.44,Net Banking,15.24,January,Q1
+ORD100111,2025-03-11,CUST1194,Consumer,East,Kolkata,Clothing,Jeans,1,6449.65,0.1,5804.68,4686.2,1118.48,Net Banking,19.27,March,Q1
+ORD100112,2025-01-17,CUST1111,Consumer,West,Ahmedabad,Office Supplies,Notebook,2,4667.13,0.15,7934.12,7103.06,831.06,Net Banking,10.47,January,Q1
+ORD100113,2025-05-27,CUST1210,Consumer,East,Ranchi,Office Supplies,Notebook,2,149.68,0.15,254.46,202.87,51.59,UPI,20.27,May,Q2
+ORD100114,2025-06-03,CUST1001,Small Business,North,Lucknow,Furniture,Desk,7,5113.92,0.05,34007.55,31325.58,2681.97,Cash,7.89,June,Q2
+ORD100115,2025-10-31,CUST1058,Consumer,West,Mumbai,Furniture,Office Chair,7,22325.03,0.1,140647.66,121926.73,18720.93,UPI,13.31,October,Q4
+ORD100116,2025-04-18,CUST1093,Consumer,East,Kolkata,Groceries,Rice,3,1200.44,0.05,3421.27,2136.15,1285.12,Debit Card,37.56,April,Q2
+ORD100117,2025-08-24,CUST1221,Consumer,South,Hyderabad,Groceries,Cooking Oil,7,1455.02,0.05,9675.87,6905.38,2770.49,Net Banking,28.63,August,Q3
+ORD100118,2025-11-04,CUST1211,Corporate,North,Delhi,Groceries,Rice,3,1691.27,0.0,5073.8,3891.57,1182.23,UPI,23.3,November,Q4
+ORD100119,2025-12-18,CUST1232,Consumer,East,Kolkata,Electronics,Monitor,4,62720.66,0.0,250882.65,149751.85,101130.8,Net Banking,40.31,December,Q4
+ORD100120,2025-03-11,CUST1262,Small Business,South,Bengaluru,Clothing,Jeans,7,7474.4,0.05,49704.77,30720.96,18983.81,UPI,38.19,March,Q1
+ORD100121,2025-07-02,CUST1103,Corporate,East,Patna,Groceries,Snacks,1,2492.68,0.0,2492.68,1782.28,710.4,Cash,28.5,July,Q3
+ORD100122,2025-09-07,CUST1050,Corporate,South,Bengaluru,Electronics,Headphones,2,66213.38,0.0,132426.77,90024.65,42402.12,UPI,32.02,September,Q3
+ORD100123,2025-08-16,CUST1110,Consumer,North,Chandigarh,Electronics,Monitor,1,29413.8,0.1,26472.42,20927.61,5544.81,Cash,20.95,August,Q3
+ORD100124,2025-04-12,CUST1088,Corporate,West,Surat,Clothing,Shoes,5,7074.09,0.0,35370.47,23302.35,12068.12,UPI,34.12,April,Q2
+ORD100125,2025-03-16,CUST1020,Consumer,South,Chennai,Office Supplies,Pen Set,7,293.64,0.05,1952.73,1293.77,658.96,Debit Card,33.75,March,Q1
+ORD100126,2025-08-04,CUST1014,Small Business,East,Ranchi,Groceries,Cooking Oil,2,654.59,0.05,1243.73,1029.99,213.74,Credit Card,17.19,August,Q3
+ORD100127,2025-07-22,CUST1133,Corporate,North,Jaipur,Electronics,Smartphone,1,81277.79,0.2,65022.23,59688.08,5334.15,Credit Card,8.2,July,Q3
+ORD100128,2025-07-11,CUST1296,Consumer,South,Hyderabad,Clothing,Jeans,7,2272.67,0.05,15113.29,10182.32,4930.97,UPI,32.63,July,Q3
+ORD100129,2025-09-06,CUST1034,Consumer,East,Kolkata,Electronics,Headphones,7,23755.34,0.0,166287.38,112389.79,53897.59,Debit Card,32.41,September,Q3
+ORD100130,2025-08-30,CUST1208,Consumer,East,Ranchi,Electronics,Laptop,4,16740.65,0.05,63614.47,50727.01,12887.46,UPI,20.26,August,Q3
+ORD100131,2025-06-28,CUST1301,Corporate,East,Bhubaneswar,Electronics,Smartphone,4,78024.5,0.15,265283.3,187779.63,77503.67,Credit Card,29.22,June,Q2
+ORD100132,2025-08-07,CUST1199,Consumer,South,Hyderabad,Clothing,Shoes,2,4150.45,0.2,6640.72,5181.72,1459.0,UPI,21.97,August,Q3
+ORD100133,2025-03-23,CUST1080,Corporate,South,Chennai,Clothing,T-Shirt,5,5496.68,0.05,26109.22,16544.28,9564.94,Cash,36.63,March,Q1
+ORD100134,2025-04-02,CUST1071,Consumer,South,Bengaluru,Office Supplies,Notebook,4,1233.38,0.0,4933.51,4063.71,869.8,UPI,17.63,April,Q2
+ORD100135,2025-06-24,CUST1155,Corporate,West,Surat,Furniture,Desk,4,19313.95,0.15,65667.43,62246.76,3420.67,UPI,5.21,June,Q2
+ORD100136,2025-08-27,CUST1078,Small Business,South,Hyderabad,Groceries,Rice,5,1924.01,0.0,9620.07,7753.71,1866.36,UPI,19.4,August,Q3
+ORD100137,2025-09-17,CUST1078,Corporate,South,Chennai,Furniture,Office Chair,1,8846.05,0.1,7961.45,7031.71,929.74,Credit Card,11.68,September,Q3
+ORD100138,2025-12-31,CUST1172,Corporate,South,Hyderabad,Clothing,T-Shirt,4,3462.26,0.05,13156.57,10813.54,2343.03,UPI,17.81,December,Q4
+ORD100139,2025-06-12,CUST1289,Consumer,West,Pune,Furniture,Bookshelf,3,6427.72,0.0,19283.16,13943.61,5339.55,Credit Card,27.69,June,Q2
+ORD100140,2025-02-17,CUST1033,Consumer,South,Chennai,Furniture,Table,6,24449.18,0.0,146695.1,113348.88,33346.22,Net Banking,22.73,February,Q1
+ORD100141,2025-11-25,CUST1300,Corporate,East,Kolkata,Office Supplies,Pen Set,6,3245.73,0.0,19474.4,11519.27,7955.13,Debit Card,40.85,November,Q4
+ORD100142,2025-11-24,CUST1276,Consumer,South,Bengaluru,Furniture,Desk,4,23461.78,0.1,84462.41,71928.13,12534.28,Credit Card,14.84,November,Q4
+ORD100143,2025-04-26,CUST1007,Consumer,East,Bhubaneswar,Clothing,Jacket,1,2636.07,0.15,2240.66,2144.08,96.58,UPI,4.31,April,Q2
+ORD100144,2025-12-03,CUST1160,Consumer,East,Ranchi,Office Supplies,Pen Set,7,3920.36,0.0,27442.52,20035.99,7406.53,Debit Card,26.99,December,Q4
+ORD100145,2025-12-03,CUST1240,Consumer,East,Patna,Electronics,Headphones,1,70097.98,0.15,59583.29,48175.12,11408.17,UPI,19.15,December,Q4
+ORD100146,2025-08-13,CUST1024,Consumer,West,Ahmedabad,Groceries,Snacks,2,1759.97,0.0,3519.95,2334.53,1185.42,Debit Card,33.68,August,Q3
+ORD100147,2025-12-18,CUST1214,Small Business,West,Mumbai,Furniture,Table,3,24192.52,0.05,68948.67,56090.88,12857.79,UPI,18.65,December,Q4
+ORD100148,2025-11-24,CUST1070,Consumer,West,Surat,Office Supplies,Stapler,1,1998.1,0.0,1998.1,1574.18,423.92,Credit Card,21.22,November,Q4
+ORD100149,2025-05-27,CUST1216,Corporate,South,Chennai,Groceries,Coffee,5,413.72,0.15,1758.32,1740.3,18.02,UPI,1.02,May,Q2
+ORD100150,2025-03-04,CUST1104,Consumer,East,Kolkata,Office Supplies,Printer,3,3374.96,0.1,9112.39,6912.26,2200.13,Net Banking,24.14,March,Q1
+ORD100151,2025-10-21,CUST1215,Corporate,West,Pune,Electronics,Headphones,6,66991.33,0.1,361753.2,325952.37,35800.83,UPI,9.9,October,Q4
+ORD100152,2025-11-19,CUST1054,Consumer,West,Pune,Groceries,Coffee,3,1480.15,0.15,3774.37,3323.25,451.12,Credit Card,11.95,November,Q4
+ORD100153,2025-11-21,CUST1294,Small Business,South,Bengaluru,Office Supplies,Notebook,5,1073.75,0.1,4831.87,4535.79,296.08,UPI,6.13,November,Q4
+ORD100154,2025-01-13,CUST1330,Small Business,West,Surat,Furniture,Office Chair,4,13354.71,0.2,42735.09,39441.47,3293.62,Debit Card,7.71,January,Q1
+ORD100155,2025-07-08,CUST1336,Consumer,South,Hyderabad,Electronics,Monitor,5,31536.13,0.1,141912.57,115940.83,25971.74,Net Banking,18.3,July,Q3
+ORD100156,2025-10-14,CUST1203,Small Business,North,Delhi,Clothing,Jacket,5,3591.49,0.15,15263.84,13528.49,1735.35,Credit Card,11.37,October,Q4
+ORD100157,2025-07-27,CUST1288,Small Business,West,Surat,Office Supplies,Pen Set,4,3243.83,0.05,12326.56,10442.47,1884.09,Credit Card,15.28,July,Q3
+ORD100158,2025-04-24,CUST1045,Small Business,North,Jaipur,Office Supplies,Printer,4,3738.81,0.0,14955.25,13002.2,1953.05,Net Banking,13.06,April,Q2
+ORD100159,2025-01-22,CUST1317,Small Business,South,Bengaluru,Groceries,Snacks,4,657.34,0.05,2497.89,1583.05,914.84,Credit Card,36.62,January,Q1
+ORD100160,2025-12-15,CUST1198,Consumer,East,Patna,Clothing,Jacket,4,3421.01,0.0,13684.02,8156.09,5527.93,Credit Card,40.4,December,Q4
+ORD100161,2025-08-02,CUST1216,Corporate,West,Ahmedabad,Electronics,Laptop,4,27878.73,0.05,105939.19,96043.92,9895.27,Credit Card,9.34,August,Q3
+ORD100162,2025-06-20,CUST1309,Consumer,South,Chennai,Furniture,Desk,5,6167.84,0.05,29297.25,22789.03,6508.22,Debit Card,22.21,June,Q2
+ORD100163,2025-11-19,CUST1332,Consumer,East,Kolkata,Electronics,Headphones,2,71587.91,0.1,128858.24,109453.75,19404.49,UPI,15.06,November,Q4
+ORD100164,2025-02-23,CUST1184,Small Business,East,Patna,Clothing,Shoes,2,7301.25,0.0,14602.49,10582.82,4019.67,Net Banking,27.53,February,Q1
+ORD100165,2025-10-25,CUST1027,Consumer,North,Delhi,Electronics,Headphones,1,36469.74,0.0,36469.74,22177.15,14292.59,Credit Card,39.19,October,Q4
+ORD100166,2025-11-16,CUST1166,Corporate,South,Hyderabad,Office Supplies,Notebook,2,3768.83,0.05,7160.78,6108.72,1052.06,UPI,14.69,November,Q4
+ORD100167,2025-05-06,CUST1318,Small Business,East,Bhubaneswar,Clothing,Shoes,6,7206.86,0.2,34592.95,34773.15,-180.2,Debit Card,-0.52,May,Q2
+ORD100168,2025-10-04,CUST1274,Small Business,West,Pune,Groceries,Coffee,2,2130.7,0.05,4048.33,2870.1,1178.23,UPI,29.1,October,Q4
+ORD100169,2025-07-23,CUST1103,Small Business,West,Mumbai,Furniture,Bookshelf,5,5796.11,0.05,27531.54,19471.23,8060.31,UPI,29.28,July,Q3
+ORD100170,2025-07-13,CUST1333,Consumer,North,Chandigarh,Groceries,Cooking Oil,4,2395.1,0.1,8622.36,7964.69,657.67,Debit Card,7.63,July,Q3
+ORD100171,2025-06-18,CUST1104,Consumer,East,Ranchi,Electronics,Smartphone,4,37017.5,0.1,133262.99,89094.78,44168.21,Net Banking,33.14,June,Q2
+ORD100172,2025-06-01,CUST1245,Consumer,South,Chennai,Groceries,Rice,7,914.18,0.0,6399.24,5403.08,996.16,Net Banking,15.57,June,Q2
+ORD100173,2025-02-04,CUST1305,Consumer,West,Ahmedabad,Electronics,Monitor,7,10306.66,0.05,68539.31,47400.23,21139.08,Cash,30.84,February,Q1
+ORD100174,2025-07-03,CUST1169,Consumer,East,Ranchi,Furniture,Table,7,12925.08,0.0,90475.57,68571.02,21904.55,Net Banking,24.21,July,Q3
+ORD100175,2025-10-13,CUST1116,Consumer,East,Bhubaneswar,Clothing,T-Shirt,5,1139.4,0.2,4557.62,4903.99,-346.37,UPI,-7.6,October,Q4
+ORD100176,2025-02-26,CUST1141,Corporate,North,Lucknow,Electronics,Monitor,6,26125.88,0.0,156755.31,122807.87,33947.44,Credit Card,21.66,February,Q1
+ORD100177,2025-08-10,CUST1125,Corporate,West,Ahmedabad,Electronics,Laptop,2,31940.12,0.05,60686.23,44992.71,15693.52,Net Banking,25.86,August,Q3
+ORD100178,2025-10-30,CUST1025,Consumer,West,Surat,Clothing,Jacket,5,6527.96,0.0,32639.81,25682.97,6956.84,UPI,21.31,October,Q4
+ORD100179,2025-06-12,CUST1194,Corporate,South,Chennai,Clothing,T-Shirt,1,7041.26,0.0,7041.26,4810.55,2230.71,Credit Card,31.68,June,Q2
+ORD100180,2025-01-19,CUST1100,Consumer,West,Ahmedabad,Office Supplies,Stapler,4,1547.21,0.1,5569.95,4104.3,1465.65,Credit Card,26.31,January,Q1
+ORD100181,2025-09-21,CUST1005,Consumer,South,Hyderabad,Clothing,Shoes,7,6911.98,0.0,48383.83,42529.63,5854.2,UPI,12.1,September,Q3
+ORD100182,2025-10-09,CUST1019,Corporate,West,Mumbai,Office Supplies,Pen Set,3,4293.29,0.0,12879.88,10371.36,2508.52,Net Banking,19.48,October,Q4
+ORD100183,2025-04-23,CUST1170,Corporate,North,Delhi,Electronics,Monitor,1,69995.33,0.05,66495.56,54135.51,12360.05,Credit Card,18.59,April,Q2
+ORD100184,2025-11-23,CUST1274,Corporate,West,Surat,Furniture,Table,7,4947.34,0.0,34631.35,23777.43,10853.92,Credit Card,31.34,November,Q4
+ORD100185,2025-01-30,CUST1254,Consumer,South,Bengaluru,Electronics,Smartphone,6,63677.44,0.0,382064.65,227232.28,154832.37,Cash,40.53,January,Q1
+ORD100186,2025-05-15,CUST1121,Small Business,South,Chennai,Groceries,Rice,1,2368.06,0.15,2012.85,1395.54,617.31,Credit Card,30.67,May,Q2
+ORD100187,2025-03-08,CUST1032,Corporate,North,Chandigarh,Office Supplies,Pen Set,5,3428.58,0.1,15428.59,12792.95,2635.64,UPI,17.08,March,Q1
+ORD100188,2025-03-06,CUST1149,Corporate,West,Surat,Furniture,Office Chair,2,9293.0,0.15,15798.09,15028.82,769.27,Credit Card,4.87,March,Q1
+ORD100189,2025-10-19,CUST1266,Corporate,West,Mumbai,Office Supplies,Printer,4,2527.87,0.15,8594.75,7494.76,1099.99,Net Banking,12.8,October,Q4
+ORD100190,2025-01-25,CUST1037,Small Business,North,Lucknow,Groceries,Coffee,6,1649.74,0.1,8908.6,8237.83,670.77,Debit Card,7.53,January,Q1
+ORD100191,2025-02-06,CUST1177,Corporate,West,Pune,Electronics,Monitor,6,48398.48,0.0,290390.91,171338.76,119052.15,Debit Card,41.0,February,Q1
+ORD100192,2025-01-01,CUST1342,Corporate,West,Pune,Office Supplies,Printer,3,643.77,0.1,1738.17,1332.65,405.52,Debit Card,23.33,January,Q1
+ORD100193,2025-02-06,CUST1013,Small Business,South,Chennai,Office Supplies,Pen Set,1,1594.72,0.15,1355.51,1038.35,317.16,UPI,23.4,February,Q1
+ORD100194,2025-05-21,CUST1183,Corporate,West,Surat,Office Supplies,Pen Set,3,4021.86,0.1,10859.02,8617.02,2242.0,Net Banking,20.65,May,Q2
+ORD100195,2025-08-20,CUST1145,Consumer,West,Pune,Electronics,Headphones,2,78220.53,0.05,148619.01,94132.61,54486.4,Net Banking,36.66,August,Q3
+ORD100196,2025-05-16,CUST1265,Corporate,North,Lucknow,Groceries,Rice,7,429.52,0.0,3006.64,2604.47,402.17,UPI,13.38,May,Q2
+ORD100197,2025-07-07,CUST1088,Consumer,North,Lucknow,Groceries,Coffee,2,2385.73,0.15,4055.74,3087.02,968.72,UPI,23.89,July,Q3
+ORD100198,2025-05-08,CUST1046,Consumer,East,Kolkata,Office Supplies,Stapler,7,1677.67,0.1,10569.33,10060.74,508.59,Cash,4.81,May,Q2
+ORD100199,2025-07-20,CUST1119,Corporate,South,Chennai,Clothing,T-Shirt,3,5399.82,0.2,12959.56,11465.45,1494.11,Net Banking,11.53,July,Q3
+ORD100200,2025-05-07,CUST1019,Small Business,West,Surat,Groceries,Coffee,4,1904.38,0.0,7617.52,6670.34,947.18,Net Banking,12.43,May,Q2
+ORD100201,2025-09-14,CUST1220,Small Business,West,Mumbai,Clothing,Shoes,2,6551.99,0.0,13103.97,9778.41,3325.56,Net Banking,25.38,September,Q3
+ORD100202,2025-06-13,CUST1233,Consumer,East,Patna,Electronics,Monitor,3,85388.72,0.0,256166.17,220110.75,36055.42,Credit Card,14.08,June,Q2
+ORD100203,2025-02-04,CUST1094,Corporate,West,Pune,Office Supplies,Printer,1,1598.95,0.1,1439.06,929.96,509.1,Debit Card,35.38,February,Q1
+ORD100204,2025-07-13,CUST1251,Consumer,South,Hyderabad,Office Supplies,Printer,3,4299.61,0.0,12898.82,10376.74,2522.08,Credit Card,19.55,July,Q3
+ORD100205,2025-07-10,CUST1250,Small Business,East,Kolkata,Furniture,Desk,3,4594.64,0.0,13783.93,11728.95,2054.98,UPI,14.91,July,Q3
+ORD100206,2025-04-14,CUST1282,Small Business,South,Hyderabad,Clothing,Jeans,5,5728.81,0.2,22915.26,17814.21,5101.05,Debit Card,22.26,April,Q2
+ORD100207,2025-01-23,CUST1232,Corporate,East,Bhubaneswar,Groceries,Rice,2,1880.75,0.0,3761.49,2290.14,1471.35,Credit Card,39.12,January,Q1
+ORD100208,2025-09-22,CUST1046,Small Business,East,Bhubaneswar,Groceries,Cooking Oil,4,1726.54,0.15,5870.22,4885.21,985.01,Debit Card,16.78,September,Q3
+ORD100209,2025-10-17,CUST1046,Corporate,North,Delhi,Furniture,Office Chair,4,7429.4,0.05,28231.71,25560.2,2671.51,Credit Card,9.46,October,Q4
+ORD100210,2025-09-17,CUST1014,Corporate,South,Chennai,Electronics,Smartphone,5,79208.67,0.15,336636.84,294147.71,42489.13,Credit Card,12.62,September,Q3
+ORD100211,2025-12-24,CUST1085,Consumer,West,Ahmedabad,Groceries,Rice,7,505.26,0.05,3359.98,2611.01,748.97,UPI,22.29,December,Q4
+ORD100212,2025-03-16,CUST1319,Consumer,West,Ahmedabad,Groceries,Coffee,6,228.72,0.15,1166.49,854.06,312.43,UPI,26.78,March,Q1
+ORD100213,2025-12-21,CUST1328,Corporate,South,Kochi,Electronics,Smartphone,7,65984.52,0.15,392607.92,268006.57,124601.35,UPI,31.74,December,Q4
+ORD100214,2025-03-13,CUST1003,Corporate,West,Surat,Groceries,Coffee,4,1241.14,0.0,4964.57,4086.05,878.52,UPI,17.7,March,Q1
+ORD100215,2025-09-16,CUST1028,Consumer,West,Surat,Groceries,Coffee,3,2137.84,0.0,6413.51,3888.33,2525.18,Cash,39.37,September,Q3
+ORD100216,2025-07-07,CUST1157,Small Business,South,Hyderabad,Office Supplies,Stapler,5,1947.82,0.0,9739.08,7500.6,2238.48,UPI,22.98,July,Q3
+ORD100217,2025-06-22,CUST1343,Consumer,East,Patna,Office Supplies,Pen Set,1,882.98,0.1,794.68,754.4,40.28,UPI,5.07,June,Q2
+ORD100218,2025-10-17,CUST1333,Consumer,South,Bengaluru,Furniture,Table,2,21156.39,0.15,35965.87,27190.01,8775.86,Credit Card,24.4,October,Q4
+ORD100219,2025-02-14,CUST1332,Corporate,East,Ranchi,Electronics,Headphones,2,51657.32,0.05,98148.91,80542.22,17606.69,Credit Card,17.94,February,Q1
+ORD100220,2025-03-02,CUST1175,Corporate,West,Ahmedabad,Furniture,Bookshelf,2,5946.1,0.1,10702.98,7178.25,3524.73,UPI,32.93,March,Q1
+ORD100221,2025-03-24,CUST1114,Corporate,West,Mumbai,Clothing,Jacket,3,5846.96,0.0,17540.87,13350.82,4190.05,Debit Card,23.89,March,Q1
+ORD100222,2025-05-03,CUST1331,Consumer,West,Ahmedabad,Electronics,Smartphone,1,48444.66,0.15,41177.96,30480.39,10697.57,Debit Card,25.98,May,Q2
+ORD100223,2025-12-24,CUST1250,Consumer,North,Delhi,Furniture,Table,5,15701.36,0.2,62805.42,62867.13,-61.71,UPI,-0.1,December,Q4
+ORD100224,2025-01-16,CUST1059,Corporate,East,Ranchi,Furniture,Bookshelf,5,12331.11,0.0,61655.55,41332.0,20323.55,UPI,32.96,January,Q1
+ORD100225,2025-03-07,CUST1203,Corporate,North,Chandigarh,Office Supplies,Notebook,2,4152.11,0.05,7889.01,5970.88,1918.13,Net Banking,24.31,March,Q1
+ORD100226,2025-05-25,CUST1315,Consumer,North,Chandigarh,Groceries,Rice,1,2090.95,0.0,2090.95,1588.77,502.18,Net Banking,24.02,May,Q2
+ORD100227,2025-06-11,CUST1239,Corporate,South,Hyderabad,Furniture,Table,1,18170.64,0.05,17262.11,11472.61,5789.5,Debit Card,33.54,June,Q2
+ORD100228,2025-08-22,CUST1234,Consumer,North,Lucknow,Furniture,Bookshelf,1,3976.93,0.05,3778.09,3191.45,586.64,UPI,15.53,August,Q3
+ORD100229,2025-05-24,CUST1303,Corporate,South,Bengaluru,Clothing,T-Shirt,4,6759.17,0.0,27036.7,18136.0,8900.7,Credit Card,32.92,May,Q2
+ORD100230,2025-12-24,CUST1095,Small Business,South,Chennai,Furniture,Table,4,17268.81,0.05,65621.46,53789.67,11831.79,Credit Card,18.03,December,Q4
+ORD100231,2025-07-07,CUST1141,Consumer,North,Jaipur,Electronics,Monitor,2,64247.05,0.0,128494.11,80628.11,47866.0,UPI,37.25,July,Q3
+ORD100232,2025-11-18,CUST1334,Consumer,East,Ranchi,Furniture,Desk,1,10030.1,0.05,9528.59,7888.02,1640.57,Credit Card,17.22,November,Q4
+ORD100233,2025-01-13,CUST1113,Corporate,East,Bhubaneswar,Electronics,Monitor,6,79738.76,0.05,454510.94,295889.7,158621.24,Credit Card,34.9,January,Q1
+ORD100234,2025-07-03,CUST1109,Corporate,East,Ranchi,Electronics,Smartphone,1,66656.59,0.0,66656.59,47166.66,19489.93,UPI,29.24,July,Q3
+ORD100235,2025-04-21,CUST1345,Corporate,East,Kolkata,Office Supplies,Pen Set,5,607.32,0.1,2732.95,1986.44,746.51,Debit Card,27.32,April,Q2
+ORD100236,2025-10-17,CUST1289,Small Business,East,Bhubaneswar,Furniture,Desk,5,11082.78,0.1,49872.53,44581.19,5291.34,Net Banking,10.61,October,Q4
+ORD100237,2025-10-22,CUST1097,Small Business,North,Jaipur,Groceries,Coffee,2,2227.31,0.05,4231.89,2933.86,1298.03,UPI,30.67,October,Q4
+ORD100238,2025-08-03,CUST1335,Small Business,North,Chandigarh,Furniture,Desk,6,2609.12,0.0,15654.73,13220.66,2434.07,Net Banking,15.55,August,Q3
+ORD100239,2025-04-30,CUST1016,Corporate,West,Mumbai,Office Supplies,Notebook,1,4809.01,0.1,4328.11,4075.86,252.25,UPI,5.83,April,Q2
+ORD100240,2025-02-24,CUST1044,Consumer,East,Bhubaneswar,Office Supplies,Printer,7,3411.85,0.2,19106.39,15259.61,3846.78,Net Banking,20.13,February,Q1
+ORD100241,2025-01-27,CUST1230,Consumer,North,Jaipur,Electronics,Monitor,6,58666.96,0.0,352001.75,268983.47,83018.28,UPI,23.58,January,Q1
+ORD100242,2025-04-28,CUST1108,Consumer,West,Pune,Clothing,Jacket,2,2383.31,0.0,4766.61,2890.07,1876.54,UPI,39.37,April,Q2
+ORD100243,2025-08-09,CUST1217,Corporate,East,Kolkata,Electronics,Laptop,5,26147.3,0.0,130736.51,91183.63,39552.88,Debit Card,30.25,August,Q3
+ORD100244,2025-08-19,CUST1260,Consumer,South,Bengaluru,Groceries,Rice,7,2360.94,0.05,15700.25,13122.05,2578.2,Credit Card,16.42,August,Q3
+ORD100245,2025-02-22,CUST1312,Small Business,West,Pune,Electronics,Smartphone,5,30353.16,0.0,151765.79,118047.53,33718.26,Net Banking,22.22,February,Q1
+ORD100246,2025-10-22,CUST1320,Corporate,North,Chandigarh,Furniture,Desk,4,19724.37,0.05,74952.62,60546.74,14405.88,UPI,19.22,October,Q4
+ORD100247,2025-11-17,CUST1196,Corporate,South,Kochi,Electronics,Monitor,2,38415.35,0.1,69147.64,51074.15,18073.49,UPI,26.14,November,Q4
+ORD100248,2025-08-21,CUST1095,Consumer,South,Chennai,Groceries,Cooking Oil,2,434.21,0.05,825.0,602.17,222.83,Credit Card,27.01,August,Q3
+ORD100249,2025-06-07,CUST1056,Consumer,South,Bengaluru,Office Supplies,Notebook,1,103.04,0.05,97.89,62.95,34.94,Credit Card,35.69,June,Q2
+ORD100250,2025-09-26,CUST1032,Consumer,West,Pune,Office Supplies,Notebook,1,2744.07,0.05,2606.87,2183.48,423.39,UPI,16.24,September,Q3
+ORD100251,2025-01-21,CUST1231,Consumer,North,Delhi,Electronics,Monitor,4,87941.2,0.05,334176.56,257198.69,76977.87,Debit Card,23.04,January,Q1
+ORD100252,2025-02-22,CUST1009,Consumer,South,Chennai,Clothing,T-Shirt,7,3142.35,0.0,21996.44,17435.03,4561.41,Debit Card,20.74,February,Q1
+ORD100253,2025-10-02,CUST1191,Corporate,East,Kolkata,Electronics,Headphones,3,35361.35,0.0,106084.05,69451.43,36632.62,Net Banking,34.53,October,Q4
+ORD100254,2025-11-09,CUST1200,Small Business,South,Hyderabad,Groceries,Snacks,6,925.82,0.15,4721.68,3762.52,959.16,Cash,20.31,November,Q4
+ORD100255,2025-10-08,CUST1334,Small Business,South,Kochi,Electronics,Monitor,3,49246.23,0.0,147738.68,100501.39,47237.29,UPI,31.97,October,Q4
+ORD100256,2025-08-02,CUST1161,Corporate,West,Ahmedabad,Electronics,Laptop,3,42456.52,0.1,114632.59,74857.98,39774.61,Debit Card,34.7,August,Q3
+ORD100257,2025-01-31,CUST1087,Consumer,West,Surat,Electronics,Smartphone,2,79792.74,0.15,135647.66,108887.47,26760.19,Credit Card,19.73,January,Q1
+ORD100258,2025-12-03,CUST1021,Small Business,North,Delhi,Office Supplies,Pen Set,6,2552.33,0.0,15313.97,12572.64,2741.33,Debit Card,17.9,December,Q4
+ORD100259,2025-07-02,CUST1311,Small Business,East,Patna,Office Supplies,Stapler,2,2563.4,0.05,4870.46,4353.63,516.83,Credit Card,10.61,July,Q3
+ORD100260,2025-01-23,CUST1076,Consumer,West,Surat,Electronics,Laptop,6,16761.59,0.05,95541.04,73965.41,21575.63,Cash,22.58,January,Q1
+ORD100261,2025-02-01,CUST1141,Corporate,South,Chennai,Clothing,Shoes,5,7867.09,0.15,33435.15,28189.79,5245.36,Debit Card,15.69,February,Q1
+ORD100262,2025-03-15,CUST1126,Consumer,North,Delhi,Furniture,Desk,2,7374.36,0.15,12536.42,8690.65,3845.77,Cash,30.68,March,Q1
+ORD100263,2025-01-10,CUST1251,Small Business,South,Bengaluru,Office Supplies,Pen Set,2,413.15,0.1,743.67,697.2,46.47,Net Banking,6.25,January,Q1
+ORD100264,2025-02-23,CUST1084,Small Business,South,Chennai,Furniture,Table,2,17083.94,0.0,34167.87,19950.73,14217.14,Net Banking,41.61,February,Q1
+ORD100265,2025-02-21,CUST1048,Consumer,West,Pune,Furniture,Table,7,15491.11,0.1,97593.99,93627.88,3966.11,Net Banking,4.06,February,Q1
+ORD100266,2025-05-28,CUST1078,Small Business,North,Chandigarh,Office Supplies,Stapler,4,2104.97,0.05,7998.89,6119.28,1879.61,Credit Card,23.5,May,Q2
+ORD100267,2025-06-09,CUST1030,Corporate,East,Kolkata,Electronics,Smartphone,2,40886.34,0.05,77684.05,55816.42,21867.63,UPI,28.15,June,Q2
+ORD100268,2025-01-14,CUST1285,Small Business,East,Ranchi,Electronics,Monitor,1,71730.43,0.0,71730.43,61492.03,10238.4,UPI,14.27,January,Q1
+ORD100269,2025-06-27,CUST1136,Consumer,West,Pune,Groceries,Rice,1,569.71,0.0,569.71,334.6,235.11,UPI,41.27,June,Q2
+ORD100270,2025-02-22,CUST1140,Small Business,West,Mumbai,Groceries,Rice,6,2068.61,0.1,11170.48,9363.69,1806.79,Credit Card,16.17,February,Q1
+ORD100271,2025-12-01,CUST1041,Consumer,North,Jaipur,Furniture,Desk,5,16745.56,0.05,79541.4,62350.39,17191.01,Credit Card,21.61,December,Q4
+ORD100272,2025-01-22,CUST1282,Consumer,East,Ranchi,Electronics,Headphones,4,40612.43,0.0,162449.72,104909.4,57540.32,Credit Card,35.42,January,Q1
+ORD100273,2025-01-30,CUST1050,Consumer,East,Ranchi,Office Supplies,Pen Set,7,2317.24,0.05,15409.66,11495.06,3914.6,Cash,25.4,January,Q1
+ORD100274,2025-07-10,CUST1258,Small Business,East,Ranchi,Furniture,Table,6,7531.21,0.15,38409.17,35050.81,3358.36,Net Banking,8.74,July,Q3
+ORD100275,2025-09-17,CUST1311,Small Business,South,Bengaluru,Electronics,Monitor,1,68929.72,0.1,62036.75,55015.52,7021.23,UPI,11.32,September,Q3
+ORD100276,2025-07-24,CUST1270,Small Business,East,Bhubaneswar,Electronics,Headphones,4,48594.35,0.0,194377.41,112780.7,81596.71,UPI,41.98,July,Q3
+ORD100277,2025-02-28,CUST1134,Small Business,South,Chennai,Clothing,T-Shirt,4,2770.58,0.0,11082.32,9542.5,1539.82,Credit Card,13.89,February,Q1
+ORD100278,2025-09-21,CUST1234,Consumer,North,Chandigarh,Office Supplies,Pen Set,5,3000.45,0.0,15002.24,9441.77,5560.47,UPI,37.06,September,Q3
+ORD100279,2025-01-12,CUST1128,Consumer,South,Kochi,Electronics,Smartphone,4,89637.43,0.15,304767.26,233083.89,71683.37,Debit Card,23.52,January,Q1
+ORD100280,2025-04-29,CUST1104,Consumer,North,Chandigarh,Electronics,Headphones,2,41997.29,0.05,79794.86,55355.96,24438.9,Credit Card,30.63,April,Q2
+ORD100281,2025-10-17,CUST1254,Consumer,East,Ranchi,Electronics,Smartphone,4,83258.77,0.05,316383.32,196938.97,119444.35,Credit Card,37.75,October,Q4
+ORD100282,2025-12-04,CUST1095,Consumer,East,Patna,Clothing,Shoes,5,2956.63,0.05,14043.99,9119.96,4924.03,Net Banking,35.06,December,Q4
+ORD100283,2025-09-05,CUST1337,Consumer,North,Lucknow,Electronics,Laptop,6,9652.28,0.05,55018.0,50726.88,4291.12,Debit Card,7.8,September,Q3
+ORD100284,2025-12-20,CUST1217,Consumer,West,Ahmedabad,Electronics,Monitor,5,22360.58,0.15,95032.46,75418.32,19614.14,UPI,20.64,December,Q4
+ORD100285,2025-05-07,CUST1061,Consumer,North,Chandigarh,Clothing,Jeans,7,3523.95,0.05,23434.28,15160.51,8273.77,Debit Card,35.31,May,Q2
+ORD100286,2025-03-16,CUST1268,Consumer,West,Surat,Electronics,Smartphone,5,23668.97,0.0,118344.84,72438.57,45906.27,Credit Card,38.79,March,Q1
+ORD100287,2025-12-27,CUST1241,Consumer,South,Chennai,Office Supplies,Printer,1,51.12,0.0,51.12,40.69,10.43,UPI,20.4,December,Q4
+ORD100288,2025-07-23,CUST1013,Small Business,South,Bengaluru,Electronics,Laptop,2,82775.13,0.05,157272.75,138461.37,18811.38,UPI,11.96,July,Q3
+ORD100289,2025-02-18,CUST1147,Corporate,South,Chennai,Electronics,Headphones,1,76729.75,0.15,65220.29,50418.02,14802.27,Credit Card,22.7,February,Q1
+ORD100290,2025-03-20,CUST1240,Small Business,East,Patna,Electronics,Monitor,6,68094.84,0.0,408569.04,239532.94,169036.1,UPI,41.37,March,Q1
+ORD100291,2025-08-29,CUST1089,Consumer,South,Chennai,Clothing,Shoes,3,1592.17,0.15,4060.04,3090.06,969.98,UPI,23.89,August,Q3
+ORD100292,2025-12-15,CUST1095,Consumer,West,Surat,Groceries,Snacks,6,388.87,0.1,2099.91,1392.84,707.07,Debit Card,33.67,December,Q4
+ORD100293,2025-06-03,CUST1315,Corporate,South,Hyderabad,Groceries,Cooking Oil,2,262.25,0.0,524.5,320.48,204.02,Debit Card,38.9,June,Q2
+ORD100294,2025-10-01,CUST1293,Consumer,North,Lucknow,Furniture,Office Chair,4,18514.69,0.0,74058.74,52541.16,21517.58,UPI,29.05,October,Q4
+ORD100295,2025-04-06,CUST1025,Consumer,North,Delhi,Clothing,Shoes,5,7451.82,0.0,37259.11,24180.25,13078.86,UPI,35.1,April,Q2
+ORD100296,2025-08-02,CUST1272,Consumer,East,Kolkata,Electronics,Smartphone,3,41595.54,0.1,112307.97,91691.19,20616.78,Net Banking,18.36,August,Q3
+ORD100297,2025-10-21,CUST1166,Consumer,North,Lucknow,Furniture,Bookshelf,2,4299.81,0.0,8599.61,5641.76,2957.85,UPI,34.4,October,Q4
+ORD100298,2025-07-28,CUST1250,Consumer,West,Ahmedabad,Groceries,Coffee,1,1329.74,0.05,1263.26,1146.45,116.81,Net Banking,9.25,July,Q3
+ORD100299,2025-12-09,CUST1087,Consumer,South,Chennai,Electronics,Headphones,5,34650.71,0.05,164590.88,147574.47,17016.41,Credit Card,10.34,December,Q4
+ORD100300,2025-03-29,CUST1142,Corporate,East,Patna,Electronics,Laptop,6,36860.12,0.1,199044.64,165879.79,33164.85,UPI,16.66,March,Q1
+ORD100301,2025-11-02,CUST1134,Consumer,South,Kochi,Electronics,Smartphone,1,57813.1,0.0,57813.1,39678.71,18134.39,UPI,31.37,November,Q4
+ORD100302,2025-09-21,CUST1279,Consumer,South,Chennai,Electronics,Headphones,2,66091.04,0.05,125572.98,91779.84,33793.14,UPI,26.91,September,Q3
+ORD100303,2025-11-21,CUST1126,Small Business,West,Surat,Electronics,Monitor,2,14401.31,0.05,27362.48,20264.24,7098.24,UPI,25.94,November,Q4
+ORD100304,2025-11-16,CUST1316,Consumer,North,Chandigarh,Office Supplies,Notebook,6,226.17,0.05,1289.18,1083.28,205.9,UPI,15.97,November,Q4
+ORD100305,2025-06-06,CUST1141,Consumer,North,Chandigarh,Furniture,Bookshelf,3,24866.76,0.15,63410.24,53375.89,10034.35,Credit Card,15.82,June,Q2
+ORD100306,2025-06-05,CUST1103,Small Business,South,Hyderabad,Groceries,Cooking Oil,6,658.55,0.0,3951.29,3307.3,643.99,UPI,16.3,June,Q2
+ORD100307,2025-05-19,CUST1226,Consumer,East,Kolkata,Clothing,Jacket,4,714.5,0.15,2429.28,2467.09,-37.81,Credit Card,-1.56,May,Q2
+ORD100308,2025-05-01,CUST1063,Consumer,North,Delhi,Furniture,Bookshelf,1,5962.07,0.1,5365.86,4058.88,1306.98,Credit Card,24.36,May,Q2
+ORD100309,2025-03-06,CUST1294,Consumer,East,Ranchi,Electronics,Headphones,3,8311.42,0.05,23687.54,18656.01,5031.53,UPI,21.24,March,Q1
+ORD100310,2025-04-17,CUST1306,Consumer,North,Lucknow,Furniture,Office Chair,5,10707.56,0.1,48184.0,32578.65,15605.35,UPI,32.39,April,Q2
+ORD100311,2025-05-27,CUST1254,Corporate,East,Bhubaneswar,Office Supplies,Stapler,7,4021.89,0.05,26745.56,18022.02,8723.54,UPI,32.62,May,Q2
+ORD100312,2025-05-17,CUST1180,Small Business,West,Surat,Electronics,Smartphone,4,34005.78,0.0,136023.11,95765.68,40257.43,UPI,29.6,May,Q2
+ORD100313,2025-06-11,CUST1040,Consumer,East,Bhubaneswar,Office Supplies,Notebook,3,2248.71,0.1,6071.51,4330.07,1741.44,Debit Card,28.68,June,Q2
+ORD100314,2025-04-10,CUST1264,Corporate,West,Pune,Furniture,Office Chair,7,17376.29,0.05,115552.32,102533.61,13018.71,UPI,11.27,April,Q2
+ORD100315,2025-12-04,CUST1189,Consumer,West,Ahmedabad,Office Supplies,Notebook,7,2569.03,0.1,16184.86,11284.19,4900.67,Debit Card,30.28,December,Q4
+ORD100316,2025-11-03,CUST1008,Consumer,East,Patna,Furniture,Desk,1,21743.97,0.0,21743.97,15583.87,6160.1,Credit Card,28.33,November,Q4
+ORD100317,2025-05-21,CUST1104,Corporate,West,Mumbai,Furniture,Table,2,21851.84,0.15,37148.13,33289.52,3858.61,Credit Card,10.39,May,Q2
+ORD100318,2025-03-24,CUST1225,Consumer,South,Bengaluru,Groceries,Cooking Oil,5,123.79,0.05,587.98,487.44,100.54,Credit Card,17.1,March,Q1
+ORD100319,2025-06-26,CUST1034,Consumer,West,Ahmedabad,Clothing,Shoes,6,6290.96,0.0,37745.74,26230.3,11515.44,Debit Card,30.51,June,Q2
+ORD100320,2025-07-17,CUST1236,Consumer,North,Chandigarh,Electronics,Headphones,1,44162.36,0.05,41954.24,37128.61,4825.63,UPI,11.5,July,Q3
+ORD100321,2025-04-22,CUST1228,Consumer,East,Kolkata,Groceries,Snacks,4,2473.22,0.1,8903.58,7424.56,1479.02,UPI,16.61,April,Q2
+ORD100322,2025-02-25,CUST1188,Consumer,South,Chennai,Office Supplies,Pen Set,7,2442.0,0.1,15384.59,12168.4,3216.19,Credit Card,20.91,February,Q1
+ORD100323,2025-06-28,CUST1313,Small Business,East,Ranchi,Groceries,Rice,4,2468.55,0.05,9380.49,5926.22,3454.27,UPI,36.82,June,Q2
+ORD100324,2025-07-05,CUST1022,Consumer,North,Jaipur,Clothing,Jacket,7,6110.18,0.15,36355.6,30769.96,5585.64,Credit Card,15.36,July,Q3
+ORD100325,2025-08-06,CUST1343,Consumer,North,Lucknow,Furniture,Desk,2,7342.21,0.0,14684.43,12132.58,2551.85,Debit Card,17.38,August,Q3
+ORD100326,2025-11-12,CUST1040,Consumer,North,Jaipur,Electronics,Monitor,2,50763.57,0.05,96450.79,77603.52,18847.27,Credit Card,19.54,November,Q4
+ORD100327,2025-08-05,CUST1173,Corporate,West,Surat,Electronics,Headphones,5,89331.53,0.15,379659.0,370568.95,9090.05,Credit Card,2.39,August,Q3
+ORD100328,2025-04-30,CUST1179,Corporate,West,Ahmedabad,Office Supplies,Pen Set,6,4294.78,0.15,21903.36,18764.83,3138.53,Credit Card,14.33,April,Q2
+ORD100329,2025-06-24,CUST1086,Corporate,East,Ranchi,Office Supplies,Notebook,5,531.97,0.1,2393.85,1637.23,756.62,Debit Card,31.61,June,Q2
+ORD100330,2025-01-23,CUST1133,Corporate,East,Bhubaneswar,Electronics,Smartphone,2,65041.62,0.15,110570.75,75980.57,34590.18,Debit Card,31.28,January,Q1
+ORD100331,2025-08-01,CUST1013,Small Business,South,Kochi,Electronics,Monitor,2,34374.26,0.0,68748.53,46127.92,22620.61,Credit Card,32.9,August,Q3
+ORD100332,2025-08-23,CUST1028,Consumer,South,Hyderabad,Groceries,Coffee,4,116.76,0.15,396.98,368.67,28.31,Debit Card,7.13,August,Q3
+ORD100333,2025-01-13,CUST1084,Corporate,East,Bhubaneswar,Groceries,Coffee,2,1068.35,0.0,2136.71,1745.86,390.85,Net Banking,18.29,January,Q1
+ORD100334,2025-04-11,CUST1318,Small Business,West,Pune,Office Supplies,Stapler,3,1212.03,0.0,3636.1,2431.56,1204.54,Credit Card,33.13,April,Q2
+ORD100335,2025-01-24,CUST1349,Small Business,North,Delhi,Electronics,Laptop,7,74603.89,0.0,522227.22,380544.98,141682.24,Credit Card,27.13,January,Q1
+ORD100336,2025-12-30,CUST1343,Small Business,East,Kolkata,Electronics,Smartphone,1,33673.1,0.05,31989.45,23784.51,8204.94,Debit Card,25.65,December,Q4
+ORD100337,2025-01-11,CUST1280,Consumer,South,Kochi,Electronics,Smartphone,2,75339.51,0.0,150679.03,105950.99,44728.04,Credit Card,29.68,January,Q1
+ORD100338,2025-09-30,CUST1263,Consumer,West,Mumbai,Groceries,Snacks,5,101.44,0.0,507.18,329.36,177.82,UPI,35.06,September,Q3
+ORD100339,2025-10-08,CUST1166,Consumer,East,Kolkata,Electronics,Laptop,6,31164.63,0.0,186987.77,116102.82,70884.95,Net Banking,37.91,October,Q4
+ORD100340,2025-04-04,CUST1293,Corporate,East,Kolkata,Office Supplies,Pen Set,7,1243.77,0.0,8706.37,5563.43,3142.94,UPI,36.1,April,Q2
+ORD100341,2025-07-20,CUST1068,Consumer,West,Mumbai,Electronics,Laptop,7,24853.23,0.05,165273.95,103791.99,61481.96,Debit Card,37.2,July,Q3
+ORD100342,2025-01-21,CUST1226,Consumer,East,Patna,Office Supplies,Printer,6,387.52,0.05,2208.89,1486.79,722.1,Debit Card,32.69,January,Q1
+ORD100343,2025-12-06,CUST1170,Small Business,West,Ahmedabad,Office Supplies,Printer,6,976.27,0.0,5857.59,3413.57,2444.02,Cash,41.72,December,Q4
+ORD100344,2025-07-30,CUST1086,Consumer,North,Delhi,Groceries,Rice,7,1433.32,0.1,9029.91,7707.3,1322.61,UPI,14.65,July,Q3
+ORD100345,2025-05-20,CUST1133,Small Business,West,Surat,Electronics,Laptop,3,29765.69,0.15,75902.51,60267.72,15634.79,Credit Card,20.6,May,Q2
+ORD100346,2025-10-20,CUST1178,Consumer,West,Ahmedabad,Electronics,Smartphone,5,40478.56,0.1,182153.5,176475.05,5678.45,Credit Card,3.12,October,Q4
+ORD100347,2025-10-25,CUST1343,Consumer,West,Mumbai,Electronics,Laptop,3,37033.68,0.0,111101.05,70895.26,40205.79,UPI,36.19,October,Q4
+ORD100348,2025-04-11,CUST1252,Consumer,East,Patna,Groceries,Snacks,2,2202.17,0.1,3963.91,3011.46,952.45,UPI,24.03,April,Q2
+ORD100349,2025-10-31,CUST1015,Corporate,East,Bhubaneswar,Groceries,Coffee,1,2272.72,0.0,2272.72,1562.16,710.56,Credit Card,31.26,October,Q4
+ORD100350,2025-12-25,CUST1223,Consumer,West,Ahmedabad,Office Supplies,Pen Set,6,2490.14,0.0,14940.82,8703.56,6237.26,Credit Card,41.75,December,Q4
+ORD100351,2025-01-28,CUST1201,Consumer,East,Patna,Office Supplies,Notebook,5,1684.27,0.0,8421.36,7004.57,1416.79,UPI,16.82,January,Q1
+ORD100352,2025-02-10,CUST1107,Small Business,South,Kochi,Clothing,Jacket,6,1122.37,0.15,5724.06,3970.47,1753.59,Credit Card,30.64,February,Q1
+ORD100353,2025-12-21,CUST1250,Consumer,South,Hyderabad,Electronics,Smartphone,3,86039.24,0.0,258117.73,222511.41,35606.32,Debit Card,13.79,December,Q4
+ORD100354,2025-10-30,CUST1089,Corporate,East,Ranchi,Groceries,Snacks,4,244.54,0.0,978.18,829.13,149.05,Debit Card,15.24,October,Q4
+ORD100355,2025-05-26,CUST1125,Corporate,East,Bhubaneswar,Furniture,Desk,2,8494.78,0.0,16989.56,12583.43,4406.13,Net Banking,25.93,May,Q2
+ORD100356,2025-09-13,CUST1113,Consumer,West,Mumbai,Furniture,Desk,1,8504.56,0.15,7228.87,6319.55,909.32,Credit Card,12.58,September,Q3
+ORD100357,2025-08-15,CUST1137,Corporate,North,Chandigarh,Office Supplies,Pen Set,2,1635.99,0.1,2944.78,2539.49,405.29,Cash,13.76,August,Q3
+ORD100358,2025-08-24,CUST1247,Consumer,East,Patna,Electronics,Laptop,4,18964.38,0.0,75857.53,52805.56,23051.97,Net Banking,30.39,August,Q3
+ORD100359,2025-12-27,CUST1166,Corporate,South,Hyderabad,Electronics,Laptop,1,71568.72,0.05,67990.29,55406.12,12584.17,UPI,18.51,December,Q4
+ORD100360,2025-01-13,CUST1150,Consumer,West,Surat,Clothing,Shoes,4,1243.23,0.05,4724.29,2951.09,1773.2,UPI,37.53,January,Q1
+ORD100361,2025-07-29,CUST1343,Corporate,East,Bhubaneswar,Electronics,Laptop,2,58967.07,0.1,106140.72,70314.01,35826.71,Credit Card,33.75,July,Q3
+ORD100362,2025-08-17,CUST1068,Consumer,South,Bengaluru,Office Supplies,Stapler,3,663.04,0.0,1989.11,1426.53,562.58,Credit Card,28.28,August,Q3
+ORD100363,2025-04-10,CUST1221,Corporate,South,Hyderabad,Electronics,Laptop,7,10995.53,0.15,65423.4,57332.96,8090.44,Credit Card,12.37,April,Q2
+ORD100364,2025-01-31,CUST1271,Consumer,North,Jaipur,Furniture,Office Chair,2,22871.59,0.0,45743.19,38714.53,7028.66,Credit Card,15.37,January,Q1
+ORD100365,2025-01-16,CUST1321,Consumer,West,Mumbai,Furniture,Desk,2,5968.03,0.1,10742.45,7297.68,3444.77,Debit Card,32.07,January,Q1
+ORD100366,2025-05-17,CUST1310,Consumer,West,Mumbai,Furniture,Table,2,20799.38,0.0,41598.76,34393.62,7205.14,Credit Card,17.32,May,Q2
+ORD100367,2025-11-25,CUST1349,Consumer,North,Lucknow,Clothing,T-Shirt,5,4493.66,0.05,21344.87,14447.43,6897.44,UPI,32.31,November,Q4
+ORD100368,2025-06-15,CUST1020,Small Business,North,Chandigarh,Furniture,Table,4,3329.63,0.05,12652.59,9299.32,3353.27,Net Banking,26.5,June,Q2
+ORD100369,2025-11-06,CUST1289,Consumer,West,Ahmedabad,Office Supplies,Printer,4,4779.47,0.05,18161.98,12904.2,5257.78,UPI,28.95,November,Q4
+ORD100370,2025-04-10,CUST1100,Small Business,West,Ahmedabad,Office Supplies,Printer,6,1272.46,0.0,7634.75,5344.68,2290.07,Cash,30.0,April,Q2
+ORD100371,2025-04-19,CUST1252,Small Business,East,Patna,Clothing,Shoes,4,6919.27,0.1,24909.37,17302.29,7607.08,UPI,30.54,April,Q2
+ORD100372,2025-12-09,CUST1077,Corporate,East,Bhubaneswar,Groceries,Rice,6,505.14,0.0,3030.86,2215.78,815.08,Cash,26.89,December,Q4
+ORD100373,2025-06-22,CUST1135,Consumer,North,Chandigarh,Clothing,Jacket,5,6875.36,0.1,30939.12,28205.92,2733.2,UPI,8.83,June,Q2
+ORD100374,2025-08-25,CUST1173,Consumer,East,Bhubaneswar,Electronics,Headphones,3,6124.45,0.15,15617.35,13090.28,2527.07,UPI,16.18,August,Q3
+ORD100375,2025-06-11,CUST1201,Corporate,South,Hyderabad,Electronics,Smartphone,6,48501.34,0.05,276457.63,211616.41,64841.22,UPI,23.45,June,Q2
+ORD100376,2025-08-04,CUST1217,Consumer,East,Ranchi,Electronics,Headphones,2,70402.62,0.1,126724.71,117520.32,9204.39,Debit Card,7.26,August,Q3
+ORD100377,2025-09-21,CUST1208,Consumer,East,Kolkata,Office Supplies,Notebook,3,4677.24,0.1,12628.54,11110.56,1517.98,Net Banking,12.02,September,Q3
+ORD100378,2025-09-20,CUST1074,Corporate,South,Kochi,Electronics,Monitor,7,82282.18,0.05,547176.51,418812.54,128363.97,Credit Card,23.46,September,Q3
+ORD100379,2025-10-19,CUST1011,Small Business,North,Lucknow,Office Supplies,Notebook,5,4107.14,0.15,17455.36,13498.3,3957.06,Net Banking,22.67,October,Q4
+ORD100380,2025-10-01,CUST1287,Corporate,South,Kochi,Office Supplies,Stapler,4,4446.55,0.0,17786.19,15037.83,2748.36,Credit Card,15.45,October,Q4
+ORD100381,2025-01-03,CUST1256,Consumer,East,Kolkata,Furniture,Desk,6,6181.66,0.05,35235.48,27932.69,7302.79,Debit Card,20.73,January,Q1
+ORD100382,2025-01-28,CUST1012,Corporate,North,Delhi,Clothing,T-Shirt,2,2488.22,0.1,4478.79,3216.49,1262.3,Net Banking,28.18,January,Q1
+ORD100383,2025-11-22,CUST1078,Consumer,East,Ranchi,Electronics,Smartphone,1,29562.32,0.05,28084.21,19532.89,8551.32,UPI,30.45,November,Q4
+ORD100384,2025-05-29,CUST1172,Consumer,South,Bengaluru,Electronics,Smartphone,7,37049.58,0.0,259347.09,212908.38,46438.71,UPI,17.91,May,Q2
+ORD100385,2025-01-28,CUST1096,Small Business,South,Chennai,Clothing,Shoes,1,3328.57,0.05,3162.14,1974.65,1187.49,Net Banking,37.55,January,Q1
+ORD100386,2025-11-06,CUST1306,Consumer,East,Ranchi,Office Supplies,Stapler,3,2745.55,0.15,7001.15,7228.71,-227.56,Net Banking,-3.25,November,Q4
+ORD100387,2025-03-06,CUST1273,Consumer,West,Mumbai,Clothing,Shoes,4,1531.07,0.15,5205.65,3791.59,1414.06,Cash,27.16,March,Q1
+ORD100388,2025-12-22,CUST1179,Consumer,West,Mumbai,Furniture,Office Chair,1,17744.3,0.05,16857.08,14529.39,2327.69,Net Banking,13.81,December,Q4
+ORD100389,2025-01-21,CUST1064,Small Business,South,Kochi,Electronics,Headphones,3,19243.16,0.1,51956.52,40320.14,11636.38,UPI,22.4,January,Q1
+ORD100390,2025-09-09,CUST1132,Corporate,South,Chennai,Clothing,Shoes,5,2689.38,0.15,11429.85,9784.82,1645.03,Net Banking,14.39,September,Q3
+ORD100391,2025-08-23,CUST1343,Corporate,West,Surat,Clothing,Shoes,3,4175.76,0.0,12527.27,10575.46,1951.81,Credit Card,15.58,August,Q3
+ORD100392,2025-08-15,CUST1272,Corporate,West,Mumbai,Clothing,T-Shirt,7,6432.59,0.0,45028.15,31694.11,13334.04,Cash,29.61,August,Q3
+ORD100393,2025-01-13,CUST1319,Consumer,East,Ranchi,Electronics,Monitor,3,67854.88,0.1,183208.19,150891.92,32316.27,Credit Card,17.64,January,Q1
+ORD100394,2025-11-09,CUST1332,Consumer,East,Kolkata,Office Supplies,Notebook,7,3245.4,0.15,19310.1,13512.3,5797.8,Credit Card,30.02,November,Q4
+ORD100395,2025-02-18,CUST1341,Consumer,West,Ahmedabad,Furniture,Desk,3,5160.67,0.15,13159.71,8990.47,4169.24,Credit Card,31.68,February,Q1
+ORD100396,2025-04-28,CUST1109,Consumer,East,Ranchi,Electronics,Monitor,2,51498.85,0.05,97847.82,67302.82,30545.0,UPI,31.22,April,Q2
+ORD100397,2025-02-23,CUST1273,Consumer,East,Ranchi,Groceries,Cooking Oil,3,309.87,0.0,929.61,728.98,200.63,UPI,21.58,February,Q1
+ORD100398,2025-05-18,CUST1168,Small Business,North,Delhi,Electronics,Smartphone,6,37075.87,0.05,211332.46,137116.83,74215.63,Net Banking,35.12,May,Q2
+ORD100399,2025-02-22,CUST1180,Consumer,East,Kolkata,Groceries,Rice,3,1092.44,0.0,3277.32,2012.7,1264.62,Debit Card,38.59,February,Q1
+ORD100400,2025-02-13,CUST1058,Consumer,South,Bengaluru,Furniture,Desk,2,2435.57,0.0,4871.14,3425.81,1445.33,UPI,29.67,February,Q1
+ORD100401,2025-10-30,CUST1079,Consumer,East,Kolkata,Electronics,Monitor,2,28288.99,0.1,50920.18,43811.22,7108.96,Debit Card,13.96,October,Q4
+ORD100402,2025-02-22,CUST1061,Consumer,East,Ranchi,Office Supplies,Pen Set,5,4780.46,0.0,23902.32,18969.4,4932.92,Credit Card,20.64,February,Q1
+ORD100403,2025-03-15,CUST1121,Small Business,West,Mumbai,Groceries,Snacks,7,2388.72,0.15,14212.87,10593.36,3619.51,Credit Card,25.47,March,Q1
+ORD100404,2025-02-15,CUST1207,Consumer,South,Kochi,Clothing,Jacket,4,3012.92,0.05,11449.09,7277.72,4171.37,UPI,36.43,February,Q1
+ORD100405,2025-01-13,CUST1034,Consumer,East,Bhubaneswar,Clothing,Shoes,1,631.87,0.05,600.28,544.75,55.53,Net Banking,9.25,January,Q1
+ORD100406,2025-06-14,CUST1070,Corporate,East,Ranchi,Office Supplies,Printer,1,936.52,0.0,936.52,616.42,320.1,Debit Card,34.18,June,Q2
+ORD100407,2025-04-12,CUST1017,Consumer,North,Delhi,Clothing,Shoes,3,3320.08,0.0,9960.23,8326.79,1633.44,Credit Card,16.4,April,Q2
+ORD100408,2025-10-07,CUST1020,Consumer,East,Kolkata,Groceries,Rice,5,2374.67,0.0,11873.36,9962.31,1911.05,Credit Card,16.1,October,Q4
+ORD100409,2025-09-15,CUST1315,Consumer,East,Bhubaneswar,Electronics,Monitor,3,17001.92,0.2,40804.61,41404.27,-599.66,UPI,-1.47,September,Q3
+ORD100410,2025-12-03,CUST1069,Corporate,North,Chandigarh,Office Supplies,Stapler,1,3829.4,0.15,3254.99,2415.01,839.98,Credit Card,25.81,December,Q4
+ORD100411,2025-12-22,CUST1215,Small Business,West,Pune,Electronics,Smartphone,7,14238.02,0.05,94682.81,82378.07,12304.74,UPI,13.0,December,Q4
+ORD100412,2025-05-18,CUST1161,Corporate,East,Ranchi,Groceries,Snacks,7,2455.02,0.0,17185.13,13933.27,3251.86,UPI,18.92,May,Q2
+ORD100413,2025-06-12,CUST1102,Consumer,North,Delhi,Groceries,Rice,7,1015.88,0.15,6044.48,5397.49,646.99,Debit Card,10.7,June,Q2
+ORD100414,2025-04-21,CUST1206,Small Business,South,Kochi,Electronics,Laptop,2,70894.94,0.0,141789.87,96581.68,45208.19,Net Banking,31.88,April,Q2
+ORD100415,2025-04-12,CUST1145,Consumer,West,Mumbai,Clothing,T-Shirt,4,2937.95,0.0,11751.81,7741.53,4010.28,Credit Card,34.12,April,Q2
+ORD100416,2025-01-17,CUST1057,Consumer,South,Bengaluru,Groceries,Rice,5,1606.41,0.05,7630.43,4952.28,2678.15,UPI,35.1,January,Q1
+ORD100417,2025-09-25,CUST1083,Consumer,South,Hyderabad,Electronics,Monitor,2,21321.37,0.15,36246.32,31254.02,4992.3,Debit Card,13.77,September,Q3
+ORD100418,2025-07-01,CUST1269,Consumer,North,Lucknow,Office Supplies,Notebook,4,772.8,0.0,3091.22,2335.66,755.56,Net Banking,24.44,July,Q3
+ORD100419,2025-01-24,CUST1187,Consumer,East,Ranchi,Groceries,Coffee,5,2351.35,0.0,11756.77,8086.33,3670.44,Debit Card,31.22,January,Q1
+ORD100420,2025-01-29,CUST1006,Corporate,North,Delhi,Electronics,Monitor,5,83000.02,0.15,352750.08,299882.27,52867.81,Net Banking,14.99,January,Q1
+ORD100421,2025-06-20,CUST1350,Small Business,North,Jaipur,Clothing,Shoes,1,7133.51,0.0,7133.51,4915.38,2218.13,Credit Card,31.09,June,Q2
+ORD100422,2025-08-16,CUST1110,Consumer,North,Delhi,Furniture,Bookshelf,2,16197.69,0.0,32395.37,25019.0,7376.37,Debit Card,22.77,August,Q3
+ORD100423,2025-07-07,CUST1138,Consumer,North,Jaipur,Groceries,Cooking Oil,5,2039.84,0.05,9689.26,8673.19,1016.07,UPI,10.49,July,Q3
+ORD100424,2025-12-12,CUST1051,Consumer,West,Surat,Groceries,Rice,6,265.69,0.15,1355.01,1002.99,352.02,UPI,25.98,December,Q4
+ORD100425,2025-08-18,CUST1051,Consumer,East,Ranchi,Groceries,Rice,7,903.49,0.05,6008.23,4391.85,1616.38,Credit Card,26.9,August,Q3
+ORD100426,2025-11-17,CUST1087,Corporate,South,Chennai,Office Supplies,Pen Set,5,1602.83,0.2,6411.32,4986.89,1424.43,Credit Card,22.22,November,Q4
+ORD100427,2025-12-06,CUST1068,Consumer,South,Chennai,Groceries,Coffee,4,1625.55,0.1,5851.98,4990.33,861.65,Net Banking,14.72,December,Q4
+ORD100428,2025-04-29,CUST1084,Small Business,East,Kolkata,Groceries,Coffee,1,954.3,0.0,954.3,762.16,192.14,Net Banking,20.13,April,Q2
+ORD100429,2025-06-05,CUST1042,Consumer,South,Kochi,Furniture,Table,3,4989.91,0.2,11975.78,12867.59,-891.81,UPI,-7.45,June,Q2
+ORD100430,2025-09-29,CUST1219,Consumer,East,Kolkata,Groceries,Rice,7,1531.52,0.05,10184.61,7114.88,3069.73,UPI,30.14,September,Q3
+ORD100431,2025-06-24,CUST1057,Consumer,South,Chennai,Electronics,Laptop,1,74222.63,0.0,74222.63,64207.28,10015.35,UPI,13.49,June,Q2
+ORD100432,2025-04-14,CUST1226,Consumer,North,Lucknow,Office Supplies,Pen Set,3,1941.51,0.05,5533.31,3488.77,2044.54,UPI,36.95,April,Q2
+ORD100433,2025-04-02,CUST1196,Consumer,South,Hyderabad,Electronics,Headphones,2,16242.84,0.0,32485.68,24718.49,7767.19,Credit Card,23.91,April,Q2
+ORD100434,2025-07-05,CUST1248,Corporate,East,Patna,Electronics,Smartphone,2,21718.5,0.0,43436.99,25937.96,17499.03,Net Banking,40.29,July,Q3
+ORD100435,2025-10-10,CUST1166,Consumer,East,Bhubaneswar,Electronics,Headphones,5,25186.08,0.0,125930.4,106805.64,19124.76,Cash,15.19,October,Q4
+ORD100436,2025-06-30,CUST1062,Corporate,East,Kolkata,Clothing,Jacket,6,2609.21,0.05,14872.51,11568.35,3304.16,Debit Card,22.22,June,Q2
+ORD100437,2025-06-19,CUST1263,Consumer,East,Ranchi,Furniture,Desk,2,16605.68,0.15,28229.66,25931.59,2298.07,Net Banking,8.14,June,Q2
+ORD100438,2025-07-06,CUST1112,Consumer,East,Bhubaneswar,Clothing,Shoes,5,4927.28,0.05,23404.58,20435.21,2969.37,Credit Card,12.69,July,Q3
+ORD100439,2025-06-24,CUST1253,Consumer,West,Ahmedabad,Electronics,Monitor,7,64166.79,0.2,359334.01,280771.55,78562.46,UPI,21.86,June,Q2
+ORD100440,2025-08-10,CUST1199,Small Business,West,Mumbai,Furniture,Bookshelf,1,10018.8,0.0,10018.8,5926.89,4091.91,Credit Card,40.84,August,Q3
+ORD100441,2025-08-21,CUST1178,Consumer,South,Kochi,Office Supplies,Stapler,2,4128.79,0.0,8257.58,6966.62,1290.96,Credit Card,15.63,August,Q3
+ORD100442,2025-06-11,CUST1026,Corporate,East,Ranchi,Clothing,Shoes,1,1871.47,0.0,1871.47,1262.27,609.2,Debit Card,32.55,June,Q2
+ORD100443,2025-05-14,CUST1246,Consumer,South,Chennai,Furniture,Bookshelf,1,12522.46,0.0,12522.46,7747.57,4774.89,UPI,38.13,May,Q2
+ORD100444,2025-08-12,CUST1019,Corporate,East,Bhubaneswar,Office Supplies,Stapler,6,4014.65,0.0,24087.88,17356.24,6731.64,UPI,27.95,August,Q3
+ORD100445,2025-06-02,CUST1265,Consumer,East,Ranchi,Groceries,Snacks,2,532.38,0.1,958.29,808.68,149.61,UPI,15.61,June,Q2
+ORD100446,2025-02-02,CUST1317,Corporate,West,Surat,Office Supplies,Notebook,1,593.82,0.15,504.75,349.93,154.82,Cash,30.67,February,Q1
+ORD100447,2025-02-24,CUST1020,Corporate,West,Ahmedabad,Electronics,Smartphone,6,80113.14,0.2,384543.06,318434.67,66108.39,Credit Card,17.19,February,Q1
+ORD100448,2025-01-07,CUST1106,Small Business,North,Chandigarh,Electronics,Smartphone,6,34149.02,0.0,204894.13,120854.74,84039.39,Debit Card,41.02,January,Q1
+ORD100449,2025-09-01,CUST1237,Consumer,West,Pune,Groceries,Cooking Oil,2,1741.29,0.15,2960.19,2459.05,501.14,Debit Card,16.93,September,Q3
+ORD100450,2025-11-09,CUST1306,Consumer,North,Delhi,Electronics,Monitor,6,7154.63,0.0,42927.79,36425.52,6502.27,UPI,15.15,November,Q4
+ORD100451,2025-05-06,CUST1246,Consumer,North,Lucknow,Groceries,Cooking Oil,2,1756.11,0.0,3512.23,3072.48,439.75,Credit Card,12.52,May,Q2
+ORD100452,2025-01-12,CUST1081,Small Business,North,Lucknow,Office Supplies,Printer,2,1614.7,0.15,2744.99,2490.24,254.75,Net Banking,9.28,January,Q1
+ORD100453,2025-01-16,CUST1150,Corporate,North,Chandigarh,Groceries,Coffee,3,233.78,0.1,631.2,440.78,190.42,Credit Card,30.17,January,Q1
+ORD100454,2025-07-27,CUST1010,Corporate,North,Delhi,Clothing,T-Shirt,1,4995.56,0.0,4995.56,4254.99,740.57,Net Banking,14.82,July,Q3
+ORD100455,2025-02-12,CUST1321,Consumer,South,Hyderabad,Groceries,Rice,4,677.93,0.05,2576.13,1992.77,583.36,UPI,22.64,February,Q1
+ORD100456,2025-05-15,CUST1224,Consumer,West,Pune,Furniture,Office Chair,2,10589.97,0.0,21179.94,13261.29,7918.65,UPI,37.39,May,Q2
+ORD100457,2025-08-16,CUST1264,Consumer,North,Chandigarh,Clothing,Jeans,1,920.47,0.1,828.43,788.4,40.03,Net Banking,4.83,August,Q3
+ORD100458,2025-04-21,CUST1149,Small Business,East,Bhubaneswar,Furniture,Office Chair,7,4958.34,0.05,32972.94,28018.0,4954.94,Net Banking,15.03,April,Q2
+ORD100459,2025-11-03,CUST1278,Corporate,West,Surat,Office Supplies,Pen Set,6,1524.99,0.2,7319.94,7315.47,4.47,Cash,0.06,November,Q4
+ORD100460,2025-06-09,CUST1274,Small Business,West,Ahmedabad,Office Supplies,Pen Set,5,494.31,0.0,2471.55,1959.33,512.22,Debit Card,20.72,June,Q2
+ORD100461,2025-11-27,CUST1194,Consumer,North,Chandigarh,Groceries,Rice,2,2285.98,0.05,4343.37,2926.52,1416.85,Net Banking,32.62,November,Q4
+ORD100462,2025-09-21,CUST1172,Corporate,South,Bengaluru,Groceries,Coffee,6,114.51,0.05,652.72,442.0,210.72,Net Banking,32.28,September,Q3
+ORD100463,2025-08-13,CUST1265,Corporate,North,Jaipur,Clothing,Shoes,6,4025.72,0.05,22946.63,18997.1,3949.53,Net Banking,17.21,August,Q3
+ORD100464,2025-08-05,CUST1310,Consumer,South,Bengaluru,Furniture,Office Chair,6,4396.32,0.0,26377.89,17037.92,9339.97,Credit Card,35.41,August,Q3
+ORD100465,2025-02-14,CUST1026,Small Business,East,Bhubaneswar,Furniture,Bookshelf,6,8730.46,0.1,47144.48,37275.65,9868.83,Credit Card,20.93,February,Q1
+ORD100466,2025-08-02,CUST1350,Small Business,West,Pune,Clothing,Jacket,6,7430.66,0.15,37896.36,36318.11,1578.25,Net Banking,4.16,August,Q3
+ORD100467,2025-02-28,CUST1026,Small Business,East,Ranchi,Electronics,Laptop,2,18744.04,0.15,31864.86,30559.74,1305.12,Credit Card,4.1,February,Q1
+ORD100468,2025-05-12,CUST1034,Corporate,South,Hyderabad,Electronics,Laptop,7,87095.75,0.15,518219.7,436510.8,81708.9,Credit Card,15.77,May,Q2
+ORD100469,2025-04-14,CUST1264,Consumer,South,Hyderabad,Furniture,Table,4,6336.17,0.15,21542.97,20723.25,819.72,Credit Card,3.81,April,Q2
+ORD100470,2025-07-14,CUST1138,Consumer,East,Kolkata,Furniture,Table,3,18926.8,0.05,53941.39,47217.83,6723.56,Credit Card,12.46,July,Q3
+ORD100471,2025-06-06,CUST1304,Small Business,South,Kochi,Furniture,Office Chair,6,14346.92,0.15,73169.27,66836.49,6332.78,Credit Card,8.65,June,Q2
+ORD100472,2025-04-08,CUST1183,Consumer,East,Patna,Electronics,Laptop,6,80180.69,0.0,481084.15,311996.42,169087.73,UPI,35.15,April,Q2
+ORD100473,2025-08-14,CUST1242,Corporate,West,Pune,Electronics,Laptop,3,52089.43,0.05,148454.87,103481.41,44973.46,Net Banking,30.29,August,Q3
+ORD100474,2025-07-24,CUST1054,Corporate,East,Bhubaneswar,Electronics,Laptop,7,50437.53,0.0,353062.74,238123.99,114938.75,Credit Card,32.55,July,Q3
+ORD100475,2025-03-20,CUST1168,Corporate,West,Surat,Groceries,Rice,7,569.1,0.05,3784.51,2450.14,1334.37,Credit Card,35.26,March,Q1
+ORD100476,2025-05-04,CUST1119,Small Business,East,Kolkata,Furniture,Office Chair,2,5406.39,0.0,10812.78,7157.5,3655.28,UPI,33.81,May,Q2
+ORD100477,2025-08-06,CUST1143,Consumer,South,Kochi,Furniture,Table,1,23037.5,0.2,18430.0,14809.79,3620.21,UPI,19.64,August,Q3
+ORD100478,2025-01-04,CUST1081,Consumer,East,Kolkata,Clothing,Jacket,5,2824.35,0.0,14121.77,10119.64,4002.13,UPI,28.34,January,Q1
+ORD100479,2025-03-31,CUST1245,Consumer,South,Kochi,Electronics,Smartphone,5,36626.99,0.0,183134.96,156128.28,27006.68,Debit Card,14.75,March,Q1
+ORD100480,2025-04-14,CUST1062,Consumer,East,Bhubaneswar,Groceries,Coffee,1,1923.58,0.05,1827.4,1175.97,651.43,UPI,35.65,April,Q2
+ORD100481,2025-04-29,CUST1046,Consumer,East,Ranchi,Clothing,Jacket,2,2908.94,0.0,5817.88,4631.5,1186.38,Net Banking,20.39,April,Q2
+ORD100482,2025-05-13,CUST1087,Consumer,North,Lucknow,Electronics,Smartphone,5,85925.31,0.0,429626.54,337765.9,91860.64,UPI,21.38,May,Q2
+ORD100483,2025-11-08,CUST1099,Small Business,South,Hyderabad,Furniture,Bookshelf,7,18841.3,0.0,131889.12,80284.37,51604.75,UPI,39.13,November,Q4
+ORD100484,2025-04-06,CUST1295,Small Business,North,Chandigarh,Groceries,Coffee,3,1533.83,0.05,4371.42,3942.43,428.99,UPI,9.81,April,Q2
+ORD100485,2025-11-27,CUST1053,Consumer,South,Bengaluru,Groceries,Coffee,1,2214.15,0.05,2103.44,1661.81,441.63,UPI,21.0,November,Q4
+ORD100486,2025-05-23,CUST1192,Consumer,North,Delhi,Office Supplies,Stapler,7,295.55,0.1,1861.96,1425.68,436.28,Debit Card,23.43,May,Q2
+ORD100487,2025-10-15,CUST1080,Small Business,West,Pune,Office Supplies,Notebook,4,1322.46,0.1,4760.86,4268.7,492.16,Net Banking,10.34,October,Q4
+ORD100488,2025-01-28,CUST1016,Consumer,East,Bhubaneswar,Electronics,Laptop,2,44528.09,0.05,84603.37,58528.58,26074.79,Credit Card,30.82,January,Q1
+ORD100489,2025-10-05,CUST1326,Consumer,South,Bengaluru,Groceries,Rice,1,644.75,0.0,644.75,508.1,136.65,UPI,21.19,October,Q4
+ORD100490,2025-08-21,CUST1194,Consumer,South,Kochi,Electronics,Monitor,5,68231.94,0.0,341159.7,201936.99,139222.71,UPI,40.81,August,Q3
+ORD100491,2025-01-17,CUST1141,Corporate,East,Bhubaneswar,Groceries,Rice,2,2306.1,0.1,4150.98,3836.53,314.45,Credit Card,7.58,January,Q1
+ORD100492,2025-02-28,CUST1108,Consumer,South,Bengaluru,Office Supplies,Pen Set,3,2147.66,0.0,6442.99,4603.2,1839.79,Cash,28.55,February,Q1
+ORD100493,2025-03-31,CUST1303,Small Business,South,Bengaluru,Office Supplies,Notebook,2,1743.56,0.0,3487.11,2688.59,798.52,UPI,22.9,March,Q1
+ORD100494,2025-07-18,CUST1265,Consumer,North,Chandigarh,Office Supplies,Pen Set,2,4809.68,0.1,8657.42,6217.67,2439.75,Debit Card,28.18,July,Q3
+ORD100495,2025-12-28,CUST1290,Consumer,South,Hyderabad,Electronics,Smartphone,3,42812.46,0.05,122015.5,100582.14,21433.36,Credit Card,17.57,December,Q4
+ORD100496,2025-01-26,CUST1209,Consumer,West,Mumbai,Electronics,Laptop,6,46569.11,0.0,279414.68,226793.1,52621.58,UPI,18.83,January,Q1
+ORD100497,2025-01-25,CUST1165,Consumer,West,Pune,Electronics,Laptop,3,34890.24,0.0,104670.72,75568.49,29102.23,Credit Card,27.8,January,Q1
+ORD100498,2025-10-28,CUST1342,Corporate,East,Ranchi,Electronics,Smartphone,7,82311.62,0.15,489754.14,440962.0,48792.14,UPI,9.96,October,Q4
+ORD100499,2025-12-05,CUST1320,Corporate,South,Kochi,Clothing,Jeans,2,4680.96,0.15,7957.63,6711.54,1246.09,Debit Card,15.66,December,Q4
+ORD100500,2025-09-24,CUST1152,Corporate,East,Ranchi,Furniture,Desk,3,19411.1,0.1,52409.98,49395.09,3014.89,UPI,5.75,September,Q3
+ORD100501,2025-06-30,CUST1290,Corporate,West,Ahmedabad,Electronics,Smartphone,6,74003.57,0.05,421820.36,323851.8,97968.56,Debit Card,23.23,June,Q2
+ORD100502,2025-12-26,CUST1268,Small Business,South,Hyderabad,Groceries,Rice,7,920.44,0.05,6120.91,5364.13,756.78,UPI,12.36,December,Q4
+ORD100503,2025-03-09,CUST1151,Small Business,South,Chennai,Groceries,Coffee,1,1140.87,0.2,912.69,935.97,-23.28,Cash,-2.55,March,Q1
+ORD100504,2025-12-17,CUST1207,Corporate,East,Bhubaneswar,Groceries,Rice,3,2136.33,0.2,5127.2,4506.5,620.7,UPI,12.11,December,Q4
+ORD100505,2025-11-17,CUST1255,Consumer,West,Surat,Groceries,Coffee,3,971.81,0.0,2915.44,1892.19,1023.25,Net Banking,35.1,November,Q4
+ORD100506,2025-02-18,CUST1141,Consumer,South,Chennai,Electronics,Laptop,2,72484.49,0.15,123223.63,101742.8,21480.83,Debit Card,17.43,February,Q1
+ORD100507,2025-06-24,CUST1343,Consumer,East,Kolkata,Furniture,Desk,7,23613.32,0.0,165293.24,136840.52,28452.72,Cash,17.21,June,Q2
+ORD100508,2025-02-21,CUST1096,Corporate,West,Ahmedabad,Clothing,Jeans,1,5098.72,0.0,5098.72,3305.45,1793.27,Credit Card,35.17,February,Q1
+ORD100509,2025-04-12,CUST1227,Consumer,East,Ranchi,Clothing,Shoes,4,6010.53,0.1,21637.91,17727.0,3910.91,Debit Card,18.07,April,Q2
+ORD100510,2025-08-04,CUST1193,Consumer,North,Chandigarh,Electronics,Laptop,4,73433.27,0.05,279046.43,241398.38,37648.05,UPI,13.49,August,Q3
+ORD100511,2025-07-07,CUST1303,Small Business,South,Bengaluru,Clothing,Jeans,5,6806.81,0.15,28928.92,23348.81,5580.11,UPI,19.29,July,Q3
+ORD100512,2025-02-26,CUST1314,Small Business,North,Delhi,Electronics,Smartphone,3,38579.53,0.0,115738.6,89426.92,26311.68,Credit Card,22.73,February,Q1
+ORD100513,2025-02-16,CUST1118,Small Business,West,Mumbai,Electronics,Smartphone,3,9357.39,0.05,26668.57,18350.49,8318.08,UPI,31.19,February,Q1
+ORD100514,2025-06-08,CUST1005,Consumer,North,Delhi,Office Supplies,Stapler,1,2039.29,0.15,1733.39,1249.64,483.75,Cash,27.91,June,Q2
+ORD100515,2025-06-23,CUST1243,Corporate,North,Chandigarh,Office Supplies,Stapler,6,3385.09,0.15,17263.98,16620.44,643.54,UPI,3.73,June,Q2
+ORD100516,2025-08-30,CUST1021,Consumer,West,Ahmedabad,Office Supplies,Pen Set,4,2279.23,0.0,9116.94,5558.51,3558.43,Credit Card,39.03,August,Q3
+ORD100517,2025-10-09,CUST1152,Consumer,East,Patna,Electronics,Laptop,5,68661.87,0.05,326143.87,227069.75,99074.12,Credit Card,30.38,October,Q4
+ORD100518,2025-08-29,CUST1128,Consumer,North,Delhi,Groceries,Snacks,1,956.76,0.1,861.08,800.36,60.72,Credit Card,7.05,August,Q3
+ORD100519,2025-01-05,CUST1124,Consumer,East,Bhubaneswar,Electronics,Smartphone,3,58953.25,0.0,176859.76,120961.6,55898.16,Debit Card,31.61,January,Q1
+ORD100520,2025-03-25,CUST1146,Consumer,North,Chandigarh,Electronics,Monitor,4,20845.68,0.2,66706.19,72702.54,-5996.35,UPI,-8.99,March,Q1
+ORD100521,2025-11-04,CUST1277,Small Business,East,Patna,Groceries,Cooking Oil,7,1898.49,0.15,11296.0,11613.88,-317.88,Credit Card,-2.81,November,Q4
+ORD100522,2025-12-27,CUST1310,Consumer,West,Mumbai,Groceries,Snacks,5,1409.67,0.0,7048.35,4655.32,2393.03,UPI,33.95,December,Q4
+ORD100523,2025-09-05,CUST1152,Corporate,North,Jaipur,Groceries,Cooking Oil,2,589.75,0.0,1179.51,698.62,480.89,Net Banking,40.77,September,Q3
+ORD100524,2025-02-23,CUST1111,Corporate,West,Pune,Clothing,Jeans,4,2547.72,0.0,10190.86,8066.26,2124.6,Debit Card,20.85,February,Q1
+ORD100525,2025-06-10,CUST1116,Consumer,North,Delhi,Office Supplies,Stapler,5,3755.61,0.15,15961.36,13431.87,2529.49,Cash,15.85,June,Q2
+ORD100526,2025-08-14,CUST1188,Consumer,West,Surat,Office Supplies,Pen Set,1,2438.88,0.0,2438.88,1488.27,950.61,UPI,38.98,August,Q3
+ORD100527,2025-01-15,CUST1057,Consumer,West,Ahmedabad,Electronics,Smartphone,2,23362.67,0.05,44389.08,37018.47,7370.61,UPI,16.6,January,Q1
+ORD100528,2025-08-12,CUST1251,Corporate,North,Jaipur,Furniture,Bookshelf,5,24230.87,0.05,115096.65,71402.62,43694.03,UPI,37.96,August,Q3
+ORD100529,2025-03-02,CUST1150,Consumer,North,Lucknow,Furniture,Table,5,18305.44,0.05,86950.83,76979.77,9971.06,UPI,11.47,March,Q1
+ORD100530,2025-05-02,CUST1162,Consumer,North,Lucknow,Electronics,Headphones,3,86356.46,0.0,259069.38,161036.43,98032.95,UPI,37.84,May,Q2
+ORD100531,2025-10-04,CUST1120,Consumer,South,Chennai,Clothing,Jacket,6,3588.71,0.0,21532.25,13311.1,8221.15,Debit Card,38.18,October,Q4
+ORD100532,2025-02-15,CUST1070,Corporate,East,Kolkata,Office Supplies,Notebook,4,2401.75,0.15,8165.94,6078.36,2087.58,UPI,25.56,February,Q1
+ORD100533,2025-10-21,CUST1099,Small Business,South,Chennai,Electronics,Monitor,3,81326.19,0.15,207381.79,211792.9,-4411.11,Credit Card,-2.13,October,Q4
+ORD100534,2025-03-03,CUST1167,Consumer,South,Chennai,Electronics,Monitor,7,49629.19,0.1,312663.92,273737.54,38926.38,Net Banking,12.45,March,Q1
+ORD100535,2025-03-27,CUST1298,Corporate,West,Surat,Clothing,Jacket,2,5746.05,0.0,11492.1,9428.25,2063.85,Debit Card,17.96,March,Q1
+ORD100536,2025-07-29,CUST1151,Corporate,North,Lucknow,Electronics,Laptop,6,26434.69,0.0,158608.17,110913.18,47694.99,Credit Card,30.07,July,Q3
+ORD100537,2025-03-19,CUST1326,Small Business,East,Kolkata,Groceries,Cooking Oil,5,1172.14,0.1,5274.65,3990.53,1284.12,UPI,24.35,March,Q1
+ORD100538,2025-07-21,CUST1002,Small Business,West,Ahmedabad,Office Supplies,Printer,3,661.08,0.0,1983.23,1289.78,693.45,Credit Card,34.97,July,Q3
+ORD100539,2025-10-29,CUST1152,Corporate,South,Chennai,Office Supplies,Pen Set,6,1069.6,0.15,5454.97,4647.6,807.37,UPI,14.8,October,Q4
+ORD100540,2025-08-11,CUST1065,Corporate,North,Delhi,Office Supplies,Stapler,7,54.67,0.1,344.42,285.31,59.11,Debit Card,17.16,August,Q3
+ORD100541,2025-08-10,CUST1326,Small Business,West,Mumbai,Groceries,Rice,4,194.24,0.0,776.94,597.88,179.06,UPI,23.05,August,Q3
+ORD100542,2025-01-03,CUST1069,Consumer,North,Delhi,Furniture,Table,7,24466.17,0.15,145573.71,112543.13,33030.58,Net Banking,22.69,January,Q1
+ORD100543,2025-01-06,CUST1121,Consumer,West,Mumbai,Clothing,Jeans,2,2166.12,0.2,3465.8,3745.64,-279.84,Debit Card,-8.07,January,Q1
+ORD100544,2025-04-03,CUST1109,Consumer,North,Chandigarh,Office Supplies,Pen Set,1,3333.39,0.0,3333.39,2103.13,1230.26,Credit Card,36.91,April,Q2
+ORD100545,2025-01-08,CUST1316,Small Business,South,Bengaluru,Electronics,Monitor,3,76323.47,0.05,217521.9,199134.65,18387.25,UPI,8.45,January,Q1
+ORD100546,2025-08-23,CUST1247,Small Business,East,Bhubaneswar,Groceries,Cooking Oil,2,1421.59,0.0,2843.17,1661.71,1181.46,UPI,41.55,August,Q3
+ORD100547,2025-04-18,CUST1093,Consumer,South,Kochi,Clothing,T-Shirt,1,1479.21,0.05,1405.25,1071.45,333.8,Debit Card,23.75,April,Q2
+ORD100548,2025-06-10,CUST1268,Corporate,East,Bhubaneswar,Office Supplies,Pen Set,3,3654.18,0.0,10962.53,7454.63,3507.9,Credit Card,32.0,June,Q2
+ORD100549,2025-07-28,CUST1103,Consumer,North,Jaipur,Groceries,Rice,2,1540.6,0.05,2927.15,2202.25,724.9,UPI,24.76,July,Q3
+ORD100550,2025-08-28,CUST1112,Consumer,West,Ahmedabad,Groceries,Cooking Oil,7,1855.0,0.2,10388.01,9754.33,633.68,UPI,6.1,August,Q3
+ORD100551,2025-11-27,CUST1321,Small Business,South,Bengaluru,Clothing,Shoes,2,6227.05,0.05,11831.39,8850.84,2980.55,UPI,25.19,November,Q4
+ORD100552,2025-11-29,CUST1304,Consumer,East,Kolkata,Groceries,Rice,6,2440.98,0.0,14645.91,10317.37,4328.54,Debit Card,29.55,November,Q4
+ORD100553,2025-02-19,CUST1344,Consumer,South,Chennai,Clothing,Jacket,7,4716.44,0.1,29713.55,26406.01,3307.54,UPI,11.13,February,Q1
+ORD100554,2025-01-11,CUST1062,Corporate,East,Kolkata,Clothing,T-Shirt,3,2930.64,0.0,8791.91,6908.36,1883.55,Credit Card,21.42,January,Q1
+ORD100555,2025-12-17,CUST1300,Corporate,South,Kochi,Office Supplies,Notebook,2,3259.9,0.15,5541.83,5411.31,130.52,Credit Card,2.36,December,Q4
+ORD100556,2025-06-05,CUST1136,Consumer,East,Patna,Clothing,Shoes,5,826.99,0.05,3928.22,2708.35,1219.87,Credit Card,31.05,June,Q2
+ORD100557,2025-03-11,CUST1055,Corporate,East,Kolkata,Electronics,Smartphone,3,81278.77,0.0,243836.32,186012.62,57823.7,Net Banking,23.71,March,Q1
+ORD100558,2025-06-18,CUST1108,Corporate,North,Delhi,Groceries,Cooking Oil,2,386.51,0.0,773.03,584.07,188.96,Net Banking,24.44,June,Q2
+ORD100559,2025-09-29,CUST1303,Consumer,East,Ranchi,Groceries,Rice,6,886.82,0.1,4788.84,3676.35,1112.49,Credit Card,23.23,September,Q3
+ORD100560,2025-03-09,CUST1258,Consumer,North,Lucknow,Electronics,Laptop,1,74338.36,0.0,74338.36,53956.06,20382.3,UPI,27.42,March,Q1
+ORD100561,2025-12-21,CUST1253,Corporate,East,Ranchi,Groceries,Snacks,1,1533.55,0.1,1380.19,1033.82,346.37,Credit Card,25.1,December,Q4
+ORD100562,2025-09-09,CUST1222,Consumer,West,Pune,Electronics,Smartphone,5,38459.02,0.0,192295.1,119713.95,72581.15,Credit Card,37.74,September,Q3
+ORD100563,2025-02-17,CUST1167,Small Business,West,Pune,Furniture,Office Chair,3,12625.74,0.0,37877.21,24398.24,13478.97,Credit Card,35.59,February,Q1
+ORD100564,2025-07-03,CUST1160,Small Business,West,Mumbai,Clothing,Shoes,6,6880.01,0.05,39216.09,25249.14,13966.95,Debit Card,35.62,July,Q3
+ORD100565,2025-11-16,CUST1166,Small Business,East,Patna,Electronics,Smartphone,2,33900.37,0.15,57630.63,53218.22,4412.41,UPI,7.66,November,Q4
+ORD100566,2025-07-06,CUST1205,Consumer,North,Jaipur,Clothing,Jacket,2,6996.3,0.15,11893.71,10889.3,1004.41,Debit Card,8.44,July,Q3
+ORD100567,2025-03-31,CUST1267,Small Business,North,Chandigarh,Groceries,Cooking Oil,1,311.52,0.0,311.52,269.52,42.0,UPI,13.48,March,Q1
+ORD100568,2025-11-28,CUST1138,Consumer,East,Bhubaneswar,Office Supplies,Stapler,6,3895.15,0.05,22202.37,18671.11,3531.26,Debit Card,15.9,November,Q4
+ORD100569,2025-05-19,CUST1346,Consumer,West,Pune,Electronics,Laptop,7,77041.55,0.0,539290.84,321209.04,218081.8,UPI,40.44,May,Q2
+ORD100570,2025-12-23,CUST1248,Consumer,West,Surat,Furniture,Desk,5,5772.71,0.05,27420.4,24397.62,3022.78,Debit Card,11.02,December,Q4
+ORD100571,2025-03-30,CUST1055,Consumer,North,Delhi,Office Supplies,Stapler,1,2180.22,0.05,2071.2,1828.77,242.43,UPI,11.7,March,Q1
+ORD100572,2025-10-01,CUST1209,Corporate,West,Ahmedabad,Groceries,Snacks,1,497.2,0.15,422.62,354.5,68.12,Credit Card,16.12,October,Q4
+ORD100573,2025-01-19,CUST1017,Consumer,South,Bengaluru,Office Supplies,Printer,5,3547.69,0.15,15077.68,13405.99,1671.69,Debit Card,11.09,January,Q1
+ORD100574,2025-11-07,CUST1068,Consumer,North,Chandigarh,Electronics,Headphones,3,50504.56,0.05,143938.0,132244.7,11693.3,UPI,8.12,November,Q4
+ORD100575,2025-12-24,CUST1133,Corporate,West,Pune,Office Supplies,Stapler,2,3194.85,0.05,6070.22,4726.41,1343.81,Debit Card,22.14,December,Q4
+ORD100576,2025-06-03,CUST1188,Consumer,North,Lucknow,Office Supplies,Pen Set,3,1022.61,0.15,2607.66,2612.55,-4.89,Debit Card,-0.19,June,Q2
+ORD100577,2025-09-17,CUST1308,Corporate,South,Bengaluru,Clothing,T-Shirt,6,1930.44,0.15,9845.26,7006.48,2838.78,Credit Card,28.83,September,Q3
+ORD100578,2025-04-18,CUST1138,Consumer,North,Chandigarh,Electronics,Headphones,7,8527.27,0.0,59690.91,38041.94,21648.97,UPI,36.27,April,Q2
+ORD100579,2025-10-12,CUST1174,Small Business,North,Jaipur,Clothing,Jeans,4,2779.92,0.0,11119.68,7919.73,3199.95,Credit Card,28.78,October,Q4
+ORD100580,2025-02-28,CUST1097,Small Business,North,Jaipur,Office Supplies,Pen Set,4,2820.74,0.05,10718.8,8523.44,2195.36,Credit Card,20.48,February,Q1
+ORD100581,2025-05-05,CUST1171,Consumer,North,Delhi,Groceries,Snacks,4,2159.04,0.0,8636.18,7123.71,1512.47,Credit Card,17.51,May,Q2
+ORD100582,2025-12-20,CUST1154,Consumer,South,Kochi,Furniture,Office Chair,5,17172.8,0.0,85863.98,75257.94,10606.04,Debit Card,12.35,December,Q4
+ORD100583,2025-09-30,CUST1183,Consumer,East,Bhubaneswar,Office Supplies,Pen Set,1,2205.21,0.0,2205.21,1536.27,668.94,Credit Card,30.33,September,Q3
+ORD100584,2025-04-17,CUST1242,Small Business,North,Jaipur,Groceries,Snacks,7,2387.49,0.1,15041.18,9930.93,5110.25,UPI,33.98,April,Q2
+ORD100585,2025-10-26,CUST1304,Consumer,North,Lucknow,Electronics,Monitor,3,66135.84,0.0,198407.53,162763.9,35643.63,UPI,17.96,October,Q4
+ORD100586,2025-09-02,CUST1285,Consumer,West,Pune,Groceries,Cooking Oil,2,2332.4,0.0,4664.79,3551.37,1113.42,UPI,23.87,September,Q3
+ORD100587,2025-12-02,CUST1027,Consumer,North,Delhi,Clothing,Jeans,4,4362.43,0.0,17449.71,11160.19,6289.52,UPI,36.04,December,Q4
+ORD100588,2025-09-04,CUST1060,Consumer,West,Surat,Electronics,Monitor,3,27006.86,0.15,68867.5,59019.33,9848.17,Debit Card,14.3,September,Q3
+ORD100589,2025-01-08,CUST1202,Consumer,East,Ranchi,Furniture,Table,4,2741.43,0.15,9320.85,8802.1,518.75,Debit Card,5.57,January,Q1
+ORD100590,2025-05-21,CUST1250,Small Business,South,Hyderabad,Clothing,Shoes,7,5890.85,0.05,39174.17,33447.47,5726.7,UPI,14.62,May,Q2
+ORD100591,2025-12-28,CUST1069,Consumer,South,Kochi,Electronics,Monitor,4,15310.75,0.05,58180.87,44700.39,13480.48,Cash,23.17,December,Q4
+ORD100592,2025-01-08,CUST1021,Consumer,East,Kolkata,Office Supplies,Notebook,2,1548.74,0.2,2477.98,2080.15,397.83,Credit Card,16.05,January,Q1
+ORD100593,2025-12-18,CUST1152,Small Business,South,Chennai,Furniture,Table,6,14013.07,0.0,84078.4,73326.69,10751.71,Net Banking,12.79,December,Q4
+ORD100594,2025-04-04,CUST1102,Small Business,East,Patna,Office Supplies,Notebook,6,2843.86,0.0,17063.17,13292.36,3770.81,Debit Card,22.1,April,Q2
+ORD100595,2025-11-17,CUST1095,Consumer,East,Ranchi,Electronics,Laptop,7,56049.57,0.0,392347.0,275612.49,116734.51,Debit Card,29.75,November,Q4
+ORD100596,2025-02-08,CUST1229,Consumer,East,Patna,Groceries,Cooking Oil,6,499.01,0.0,2994.08,1988.48,1005.6,UPI,33.59,February,Q1
+ORD100597,2025-03-22,CUST1125,Consumer,South,Hyderabad,Groceries,Snacks,5,1011.37,0.05,4804.01,4042.1,761.91,UPI,15.86,March,Q1
+ORD100598,2025-07-06,CUST1258,Small Business,West,Surat,Groceries,Coffee,1,1581.27,0.15,1344.08,1032.02,312.06,UPI,23.22,July,Q3
+ORD100599,2025-03-25,CUST1322,Consumer,East,Patna,Clothing,Jacket,5,7767.61,0.1,34954.22,24526.72,10427.5,Debit Card,29.83,March,Q1
+ORD100600,2025-03-29,CUST1236,Small Business,North,Chandigarh,Electronics,Headphones,3,66848.65,0.05,190518.64,148193.46,42325.18,UPI,22.22,March,Q1
+ORD100601,2025-08-30,CUST1162,Corporate,South,Bengaluru,Clothing,Shoes,5,7404.05,0.15,31467.21,24692.36,6774.85,Debit Card,21.53,August,Q3
+ORD100602,2025-12-08,CUST1042,Corporate,East,Ranchi,Electronics,Smartphone,3,69788.02,0.0,209364.07,160932.21,48431.86,UPI,23.13,December,Q4
+ORD100603,2025-04-03,CUST1276,Consumer,East,Bhubaneswar,Electronics,Monitor,3,55295.94,0.0,165887.83,102084.32,63803.51,Net Banking,38.46,April,Q2
+ORD100604,2025-03-27,CUST1068,Consumer,North,Chandigarh,Furniture,Desk,1,6012.55,0.05,5711.92,4668.64,1043.28,UPI,18.26,March,Q1
+ORD100605,2025-02-13,CUST1173,Consumer,West,Pune,Office Supplies,Printer,2,3350.09,0.1,6030.17,4455.55,1574.62,UPI,26.11,February,Q1
+ORD100606,2025-05-17,CUST1331,Consumer,West,Ahmedabad,Clothing,Shoes,7,5100.02,0.0,35700.16,20708.69,14991.47,UPI,41.99,May,Q2
+ORD100607,2025-03-15,CUST1125,Corporate,West,Surat,Clothing,Shoes,1,4939.01,0.05,4692.06,3052.71,1639.35,Credit Card,34.94,March,Q1
+ORD100608,2025-02-05,CUST1170,Small Business,East,Bhubaneswar,Furniture,Desk,7,13009.97,0.1,81962.8,78327.71,3635.09,UPI,4.44,February,Q1
+ORD100609,2025-04-11,CUST1047,Corporate,East,Ranchi,Electronics,Monitor,6,49935.81,0.1,269653.38,251738.33,17915.05,Debit Card,6.64,April,Q2
+ORD100610,2025-06-05,CUST1261,Corporate,East,Ranchi,Groceries,Rice,6,902.66,0.1,4874.38,3520.83,1353.55,UPI,27.77,June,Q2
+ORD100611,2025-09-12,CUST1217,Consumer,South,Kochi,Furniture,Bookshelf,5,13703.85,0.0,68519.24,55741.2,12778.04,UPI,18.65,September,Q3
+ORD100612,2025-06-20,CUST1305,Consumer,North,Delhi,Furniture,Table,3,6142.56,0.0,18427.69,14052.43,4375.26,Net Banking,23.74,June,Q2
+ORD100613,2025-08-04,CUST1124,Consumer,East,Bhubaneswar,Electronics,Headphones,4,73439.82,0.05,279071.33,255944.08,23127.25,UPI,8.29,August,Q3
+ORD100614,2025-06-19,CUST1293,Corporate,North,Delhi,Clothing,T-Shirt,4,1730.48,0.0,6921.93,4790.54,2131.39,Net Banking,30.79,June,Q2
+ORD100615,2025-09-09,CUST1162,Small Business,North,Delhi,Clothing,Jacket,7,954.24,0.15,5677.73,5239.8,437.93,Cash,7.71,September,Q3
+ORD100616,2025-12-26,CUST1201,Corporate,West,Pune,Electronics,Headphones,3,42080.91,0.05,119930.6,75627.06,44303.54,UPI,36.94,December,Q4
+ORD100617,2025-11-18,CUST1275,Consumer,South,Kochi,Electronics,Smartphone,7,60956.13,0.0,426692.93,298204.68,128488.25,UPI,30.11,November,Q4
+ORD100618,2025-02-24,CUST1206,Consumer,East,Kolkata,Clothing,Jacket,1,3670.42,0.1,3303.38,3190.13,113.25,UPI,3.43,February,Q1
+ORD100619,2025-04-01,CUST1040,Corporate,West,Mumbai,Office Supplies,Stapler,2,1419.93,0.05,2697.87,2106.31,591.56,Debit Card,21.93,April,Q2
+ORD100620,2025-10-05,CUST1273,Consumer,West,Mumbai,Electronics,Smartphone,1,52444.55,0.0,52444.55,34947.15,17497.4,Credit Card,33.36,October,Q4
+ORD100621,2025-04-11,CUST1188,Small Business,East,Ranchi,Groceries,Coffee,3,932.81,0.15,2378.65,1724.05,654.6,Debit Card,27.52,April,Q2
+ORD100622,2025-06-04,CUST1093,Small Business,North,Delhi,Electronics,Monitor,3,84293.75,0.15,214949.07,200043.87,14905.2,Debit Card,6.93,June,Q2
+ORD100623,2025-12-15,CUST1042,Corporate,West,Ahmedabad,Furniture,Office Chair,2,23182.16,0.1,41727.89,35860.8,5867.09,UPI,14.06,December,Q4
+ORD100624,2025-12-30,CUST1107,Consumer,North,Jaipur,Groceries,Snacks,7,1305.69,0.0,9139.85,6326.43,2813.42,Net Banking,30.78,December,Q4
+ORD100625,2025-05-21,CUST1328,Consumer,South,Hyderabad,Furniture,Table,5,9205.27,0.05,43725.05,39825.81,3899.24,Debit Card,8.92,May,Q2
+ORD100626,2025-06-22,CUST1065,Consumer,North,Chandigarh,Office Supplies,Stapler,5,3698.81,0.1,16644.62,10849.72,5794.9,Credit Card,34.82,June,Q2
+ORD100627,2025-01-10,CUST1309,Consumer,South,Bengaluru,Furniture,Office Chair,2,2362.75,0.0,4725.51,3171.37,1554.14,Net Banking,32.89,January,Q1
+ORD100628,2025-08-16,CUST1135,Consumer,North,Jaipur,Electronics,Monitor,5,45355.37,0.0,226776.83,194193.72,32583.11,Debit Card,14.37,August,Q3
+ORD100629,2025-09-22,CUST1024,Corporate,West,Mumbai,Groceries,Cooking Oil,4,907.18,0.15,3084.4,2454.02,630.38,UPI,20.44,September,Q3
+ORD100630,2025-09-05,CUST1028,Corporate,West,Surat,Furniture,Table,5,23132.59,0.0,115662.97,75837.41,39825.56,Credit Card,34.43,September,Q3
+ORD100631,2025-09-04,CUST1062,Consumer,South,Chennai,Groceries,Snacks,5,128.81,0.1,579.63,476.76,102.87,Credit Card,17.75,September,Q3
+ORD100632,2025-06-04,CUST1273,Consumer,East,Patna,Electronics,Laptop,5,51989.26,0.05,246949.01,215012.14,31936.87,UPI,12.93,June,Q2
+ORD100633,2025-02-03,CUST1229,Consumer,South,Chennai,Electronics,Monitor,4,67956.4,0.05,258234.34,166070.24,92164.1,Cash,35.69,February,Q1
+ORD100634,2025-05-09,CUST1020,Consumer,South,Bengaluru,Electronics,Smartphone,7,46226.53,0.0,323585.7,279224.11,44361.59,UPI,13.71,May,Q2
+ORD100635,2025-06-09,CUST1003,Small Business,North,Jaipur,Office Supplies,Printer,5,472.74,0.15,2009.17,1934.76,74.41,Debit Card,3.7,June,Q2
+ORD100636,2025-03-30,CUST1218,Consumer,North,Chandigarh,Furniture,Desk,6,24352.84,0.05,138811.2,92693.02,46118.18,Credit Card,33.22,March,Q1
+ORD100637,2025-04-03,CUST1307,Consumer,South,Kochi,Groceries,Rice,4,1343.23,0.05,5104.26,4263.95,840.31,UPI,16.46,April,Q2
+ORD100638,2025-11-23,CUST1136,Consumer,West,Pune,Office Supplies,Pen Set,2,3090.22,0.1,5562.4,4298.42,1263.98,Net Banking,22.72,November,Q4
+ORD100639,2025-08-29,CUST1003,Small Business,North,Chandigarh,Groceries,Cooking Oil,1,667.86,0.1,601.08,467.96,133.12,Net Banking,22.15,August,Q3
+ORD100640,2025-11-19,CUST1193,Corporate,East,Ranchi,Electronics,Laptop,2,46097.34,0.2,73755.74,75137.46,-1381.72,Credit Card,-1.87,November,Q4
+ORD100641,2025-04-27,CUST1073,Consumer,North,Chandigarh,Groceries,Cooking Oil,1,1129.96,0.05,1073.46,981.75,91.71,UPI,8.54,April,Q2
+ORD100642,2025-04-04,CUST1118,Consumer,North,Lucknow,Clothing,Jacket,2,876.7,0.05,1665.73,1083.59,582.14,UPI,34.95,April,Q2
+ORD100643,2025-06-12,CUST1154,Corporate,East,Kolkata,Clothing,Jeans,6,1117.43,0.2,5363.69,4734.72,628.97,UPI,11.73,June,Q2
+ORD100644,2025-04-09,CUST1209,Small Business,South,Kochi,Groceries,Snacks,1,2109.93,0.1,1898.94,1528.19,370.75,UPI,19.52,April,Q2
+ORD100645,2025-04-23,CUST1034,Consumer,East,Bhubaneswar,Clothing,Shoes,1,2146.61,0.0,2146.61,1487.37,659.24,Credit Card,30.71,April,Q2
+ORD100646,2025-12-25,CUST1137,Small Business,South,Kochi,Office Supplies,Notebook,3,1015.04,0.0,3045.13,2097.96,947.17,Cash,31.1,December,Q4
+ORD100647,2025-04-01,CUST1318,Small Business,South,Hyderabad,Electronics,Headphones,1,47917.47,0.15,40729.85,28543.51,12186.34,Credit Card,29.92,April,Q2
+ORD100648,2025-12-12,CUST1120,Small Business,South,Chennai,Electronics,Laptop,1,70343.51,0.05,66826.33,55266.19,11560.14,Net Banking,17.3,December,Q4
+ORD100649,2025-07-25,CUST1115,Corporate,East,Kolkata,Groceries,Snacks,3,248.67,0.1,671.41,530.32,141.09,Debit Card,21.01,July,Q3
+ORD100650,2025-01-17,CUST1013,Corporate,South,Chennai,Office Supplies,Notebook,5,2905.2,0.05,13799.7,9273.95,4525.75,Credit Card,32.8,January,Q1
+ORD100651,2025-10-01,CUST1069,Consumer,West,Pune,Clothing,T-Shirt,5,1217.92,0.0,6089.6,5022.76,1066.84,Net Banking,17.52,October,Q4
+ORD100652,2025-06-22,CUST1333,Corporate,East,Bhubaneswar,Office Supplies,Printer,3,230.48,0.1,622.3,567.52,54.78,Credit Card,8.8,June,Q2
+ORD100653,2025-04-26,CUST1257,Corporate,West,Pune,Electronics,Laptop,4,9483.24,0.0,37932.94,27536.19,10396.75,Net Banking,27.41,April,Q2
+ORD100654,2025-12-15,CUST1089,Corporate,South,Kochi,Electronics,Smartphone,1,75903.95,0.05,72108.75,50820.37,21288.38,UPI,29.52,December,Q4
+ORD100655,2025-06-30,CUST1047,Consumer,North,Delhi,Clothing,Shoes,1,1208.39,0.05,1147.97,932.18,215.79,UPI,18.8,June,Q2
+ORD100656,2025-04-01,CUST1260,Corporate,South,Kochi,Furniture,Table,3,2561.06,0.05,7299.01,5120.42,2178.59,Net Banking,29.85,April,Q2
+ORD100657,2025-03-23,CUST1228,Small Business,West,Ahmedabad,Electronics,Smartphone,3,42221.49,0.1,113998.02,82433.54,31564.48,Credit Card,27.69,March,Q1
+ORD100658,2025-11-20,CUST1180,Consumer,West,Ahmedabad,Office Supplies,Printer,4,4227.77,0.15,14374.41,13514.56,859.85,Net Banking,5.98,November,Q4
+ORD100659,2025-04-24,CUST1010,Small Business,East,Bhubaneswar,Electronics,Headphones,6,27304.71,0.1,147445.44,97002.32,50443.12,Net Banking,34.21,April,Q2
+ORD100660,2025-09-14,CUST1284,Corporate,North,Chandigarh,Office Supplies,Pen Set,5,2137.48,0.0,10687.39,6502.53,4184.86,UPI,39.16,September,Q3
+ORD100661,2025-02-27,CUST1126,Small Business,East,Ranchi,Electronics,Headphones,2,8393.42,0.0,16786.83,9770.55,7016.28,Credit Card,41.8,February,Q1
+ORD100662,2025-06-03,CUST1134,Consumer,West,Mumbai,Clothing,Shoes,6,3757.9,0.05,21420.06,14112.05,7308.01,UPI,34.12,June,Q2
+ORD100663,2025-12-31,CUST1155,Consumer,South,Bengaluru,Furniture,Bookshelf,7,15073.91,0.15,89689.75,63383.96,26305.79,Credit Card,29.33,December,Q4
+ORD100664,2025-04-26,CUST1248,Small Business,North,Delhi,Furniture,Office Chair,5,14916.32,0.15,63394.34,65537.87,-2143.53,Debit Card,-3.38,April,Q2
+ORD100665,2025-12-09,CUST1140,Consumer,South,Kochi,Electronics,Laptop,1,33256.27,0.15,28267.83,22170.06,6097.77,UPI,21.57,December,Q4
+ORD100666,2025-09-23,CUST1318,Small Business,South,Bengaluru,Electronics,Headphones,7,31820.32,0.0,222742.24,139164.99,83577.25,Credit Card,37.52,September,Q3
+ORD100667,2025-11-11,CUST1176,Consumer,North,Delhi,Furniture,Office Chair,6,4005.66,0.05,22832.23,15677.31,7154.92,Debit Card,31.34,November,Q4
+ORD100668,2025-07-22,CUST1323,Consumer,East,Kolkata,Office Supplies,Stapler,3,1865.65,0.05,5317.11,4818.07,499.04,UPI,9.39,July,Q3
+ORD100669,2025-02-10,CUST1174,Consumer,South,Chennai,Office Supplies,Notebook,4,542.5,0.0,2169.99,1597.22,572.77,Net Banking,26.4,February,Q1
+ORD100670,2025-04-15,CUST1074,Corporate,West,Ahmedabad,Furniture,Table,5,19515.0,0.0,97575.02,67272.65,30302.37,Credit Card,31.06,April,Q2
+ORD100671,2025-07-12,CUST1143,Consumer,South,Hyderabad,Clothing,Jeans,4,7740.31,0.15,26317.06,26069.91,247.15,Net Banking,0.94,July,Q3
+ORD100672,2025-10-05,CUST1292,Consumer,North,Chandigarh,Groceries,Rice,7,2428.18,0.0,16997.25,11872.53,5124.72,UPI,30.15,October,Q4
+ORD100673,2025-12-20,CUST1112,Consumer,North,Chandigarh,Clothing,Jeans,5,6961.05,0.0,34805.24,23685.05,11120.19,UPI,31.95,December,Q4
+ORD100674,2025-08-25,CUST1206,Consumer,North,Jaipur,Electronics,Smartphone,6,56067.33,0.0,336404.0,216033.52,120370.48,Credit Card,35.78,August,Q3
+ORD100675,2025-08-09,CUST1131,Small Business,East,Patna,Office Supplies,Notebook,1,3519.29,0.15,2991.39,2440.06,551.33,UPI,18.43,August,Q3
+ORD100676,2025-03-09,CUST1110,Small Business,South,Bengaluru,Electronics,Headphones,2,29242.49,0.05,55560.74,39477.68,16083.06,Cash,28.95,March,Q1
+ORD100677,2025-07-16,CUST1067,Consumer,East,Kolkata,Electronics,Laptop,4,58615.49,0.1,211015.75,183628.53,27387.22,UPI,12.98,July,Q3
+ORD100678,2025-09-13,CUST1086,Corporate,East,Ranchi,Groceries,Cooking Oil,4,1193.56,0.15,4058.1,3183.82,874.28,Debit Card,21.54,September,Q3
+ORD100679,2025-05-19,CUST1275,Consumer,North,Lucknow,Electronics,Laptop,2,45971.47,0.0,91942.95,69247.74,22695.21,Credit Card,24.68,May,Q2
+ORD100680,2025-11-08,CUST1227,Corporate,North,Chandigarh,Office Supplies,Notebook,4,3800.99,0.1,13683.58,9118.85,4564.73,UPI,33.36,November,Q4
+ORD100681,2025-05-29,CUST1325,Small Business,East,Ranchi,Office Supplies,Stapler,4,1445.5,0.0,5781.98,3685.36,2096.62,UPI,36.26,May,Q2
+ORD100682,2025-04-09,CUST1010,Small Business,South,Bengaluru,Clothing,Jeans,5,2748.91,0.0,13744.53,9651.7,4092.83,Credit Card,29.78,April,Q2
+ORD100683,2025-03-17,CUST1288,Consumer,West,Mumbai,Office Supplies,Printer,5,4626.98,0.15,19664.65,19921.1,-256.45,Credit Card,-1.3,March,Q1
+ORD100684,2025-10-09,CUST1112,Corporate,East,Patna,Electronics,Smartphone,2,9779.07,0.1,17602.32,13557.22,4045.1,UPI,22.98,October,Q4
+ORD100685,2025-04-19,CUST1024,Consumer,South,Kochi,Furniture,Bookshelf,7,12912.41,0.05,85867.5,70431.44,15436.06,Net Banking,17.98,April,Q2
+ORD100686,2025-07-07,CUST1291,Small Business,North,Jaipur,Office Supplies,Stapler,1,4568.36,0.05,4339.95,2999.25,1340.7,UPI,30.89,July,Q3
+ORD100687,2025-07-18,CUST1339,Consumer,North,Lucknow,Electronics,Monitor,6,56880.86,0.05,324220.88,210951.78,113269.1,Credit Card,34.94,July,Q3
+ORD100688,2025-10-30,CUST1326,Corporate,South,Kochi,Furniture,Office Chair,6,14340.57,0.0,86043.4,51416.18,34627.22,Credit Card,40.24,October,Q4
+ORD100689,2025-11-23,CUST1168,Corporate,West,Ahmedabad,Electronics,Headphones,7,26228.26,0.0,183597.79,123308.69,60289.1,UPI,32.84,November,Q4
+ORD100690,2025-06-03,CUST1109,Corporate,North,Lucknow,Electronics,Smartphone,4,34178.42,0.0,136713.67,85760.25,50953.42,Net Banking,37.27,June,Q2
+ORD100691,2025-02-09,CUST1190,Consumer,North,Lucknow,Furniture,Bookshelf,1,21523.14,0.0,21523.14,13607.0,7916.14,UPI,36.78,February,Q1
+ORD100692,2025-05-13,CUST1196,Small Business,North,Jaipur,Electronics,Monitor,2,52533.54,0.15,89307.02,84918.14,4388.88,UPI,4.91,May,Q2
+ORD100693,2025-05-12,CUST1033,Consumer,South,Chennai,Office Supplies,Stapler,7,2597.97,0.0,18185.82,10634.18,7551.64,Credit Card,41.52,May,Q2
+ORD100694,2025-10-06,CUST1205,Corporate,East,Kolkata,Clothing,T-Shirt,2,1066.76,0.0,2133.53,1594.48,539.05,Credit Card,25.27,October,Q4
+ORD100695,2025-12-28,CUST1312,Consumer,North,Delhi,Clothing,T-Shirt,5,423.42,0.05,2011.23,1468.91,542.32,Credit Card,26.96,December,Q4
+ORD100696,2025-03-25,CUST1182,Consumer,East,Ranchi,Electronics,Monitor,4,86913.24,0.15,295505.02,254469.8,41035.22,Debit Card,13.89,March,Q1
+ORD100697,2025-08-30,CUST1147,Corporate,West,Ahmedabad,Electronics,Smartphone,3,37043.82,0.0,111131.47,83220.7,27910.77,UPI,25.12,August,Q3
+ORD100698,2025-04-26,CUST1268,Consumer,North,Chandigarh,Electronics,Smartphone,2,56273.11,0.0,112546.22,75857.31,36688.91,UPI,32.6,April,Q2
+ORD100699,2025-04-19,CUST1011,Consumer,North,Delhi,Office Supplies,Pen Set,7,444.59,0.05,2956.52,2080.56,875.96,Net Banking,29.63,April,Q2
+ORD100700,2025-08-09,CUST1070,Consumer,West,Pune,Clothing,Shoes,4,5559.98,0.1,20015.93,17792.39,2223.54,UPI,11.11,August,Q3
+ORD100701,2025-02-10,CUST1256,Consumer,North,Delhi,Electronics,Monitor,1,84268.17,0.05,80054.76,70901.81,9152.95,Net Banking,11.43,February,Q1
+ORD100702,2025-05-27,CUST1219,Corporate,East,Ranchi,Groceries,Rice,7,1481.6,0.15,8815.5,6614.47,2201.03,UPI,24.97,May,Q2
+ORD100703,2025-04-22,CUST1297,Small Business,South,Bengaluru,Electronics,Smartphone,5,15719.8,0.2,62879.21,47889.25,14989.96,Net Banking,23.84,April,Q2
+ORD100704,2025-04-13,CUST1259,Consumer,East,Ranchi,Office Supplies,Stapler,6,2929.52,0.1,15819.42,14928.94,890.48,UPI,5.63,April,Q2
+ORD100705,2025-02-15,CUST1003,Consumer,South,Kochi,Clothing,T-Shirt,1,6200.87,0.1,5580.79,4247.4,1333.39,Credit Card,23.89,February,Q1
+ORD100706,2025-11-20,CUST1084,Consumer,South,Kochi,Groceries,Cooking Oil,2,1075.4,0.05,2043.26,1603.2,440.06,UPI,21.54,November,Q4
+ORD100707,2025-09-28,CUST1156,Consumer,East,Ranchi,Clothing,Shoes,2,7074.75,0.0,14149.5,9732.92,4416.58,UPI,31.21,September,Q3
+ORD100708,2025-07-14,CUST1151,Corporate,East,Kolkata,Clothing,Jeans,1,5294.86,0.2,4235.89,3270.85,965.04,UPI,22.78,July,Q3
+ORD100709,2025-10-07,CUST1176,Corporate,East,Ranchi,Furniture,Desk,2,22632.35,0.05,43001.46,34256.3,8745.16,UPI,20.34,October,Q4
+ORD100710,2025-10-10,CUST1195,Consumer,East,Ranchi,Clothing,T-Shirt,7,5100.99,0.0,35706.94,26335.37,9371.57,UPI,26.25,October,Q4
+ORD100711,2025-02-09,CUST1107,Consumer,West,Ahmedabad,Electronics,Laptop,4,16159.48,0.1,58174.12,41426.31,16747.81,Credit Card,28.79,February,Q1
+ORD100712,2025-07-08,CUST1134,Consumer,North,Chandigarh,Groceries,Snacks,2,843.26,0.0,1686.52,1206.81,479.71,Credit Card,28.44,July,Q3
+ORD100713,2025-06-13,CUST1276,Small Business,South,Bengaluru,Office Supplies,Stapler,5,1048.88,0.05,4982.2,4295.63,686.57,Debit Card,13.78,June,Q2
+ORD100714,2025-01-24,CUST1155,Small Business,East,Ranchi,Clothing,Jeans,4,7297.96,0.05,27732.26,22101.97,5630.29,Debit Card,20.3,January,Q1
+ORD100715,2025-01-24,CUST1277,Consumer,East,Bhubaneswar,Furniture,Office Chair,7,19369.4,0.05,128806.52,82581.95,46224.57,Credit Card,35.89,January,Q1
+ORD100716,2025-01-04,CUST1236,Consumer,East,Bhubaneswar,Office Supplies,Pen Set,3,3398.17,0.15,8665.34,7588.86,1076.48,Credit Card,12.42,January,Q1
+ORD100717,2025-11-19,CUST1240,Small Business,West,Surat,Office Supplies,Pen Set,2,1539.78,0.0,3079.57,2435.39,644.18,Credit Card,20.92,November,Q4
+ORD100718,2025-10-17,CUST1013,Small Business,East,Bhubaneswar,Clothing,Jeans,2,1717.14,0.05,3262.58,2808.6,453.98,Credit Card,13.91,October,Q4
+ORD100719,2025-06-30,CUST1342,Consumer,East,Bhubaneswar,Electronics,Smartphone,5,69298.34,0.05,329167.13,266360.4,62806.73,Net Banking,19.08,June,Q2
+ORD100720,2025-09-05,CUST1035,Consumer,East,Kolkata,Electronics,Headphones,7,45303.43,0.1,285411.58,198455.38,86956.2,UPI,30.47,September,Q3
+ORD100721,2025-04-26,CUST1047,Consumer,North,Lucknow,Electronics,Laptop,5,24192.11,0.1,108864.5,95928.01,12936.49,UPI,11.88,April,Q2
+ORD100722,2025-10-06,CUST1214,Corporate,West,Pune,Electronics,Headphones,6,57412.87,0.05,327253.35,269795.43,57457.92,Debit Card,17.56,October,Q4
+ORD100723,2025-12-31,CUST1146,Consumer,East,Bhubaneswar,Groceries,Cooking Oil,7,196.8,0.1,1239.85,809.11,430.74,UPI,34.74,December,Q4
+ORD100724,2025-03-10,CUST1159,Consumer,South,Hyderabad,Electronics,Monitor,1,32724.47,0.0,32724.47,23022.46,9702.01,Net Banking,29.65,March,Q1
+ORD100725,2025-12-17,CUST1125,Corporate,South,Hyderabad,Groceries,Rice,1,1224.54,0.15,1040.86,832.54,208.32,Net Banking,20.01,December,Q4
+ORD100726,2025-09-11,CUST1110,Consumer,South,Chennai,Furniture,Office Chair,1,4977.02,0.05,4728.17,3886.18,841.99,UPI,17.81,September,Q3
+ORD100727,2025-06-30,CUST1037,Corporate,West,Surat,Electronics,Laptop,5,88695.63,0.1,399130.34,285972.78,113157.56,UPI,28.35,June,Q2
+ORD100728,2025-11-14,CUST1277,Consumer,West,Pune,Clothing,Shoes,1,1910.05,0.0,1910.05,1446.41,463.64,Credit Card,24.27,November,Q4
+ORD100729,2025-06-18,CUST1014,Consumer,South,Kochi,Office Supplies,Pen Set,7,695.25,0.0,4866.74,4156.01,710.73,Credit Card,14.6,June,Q2
+ORD100730,2025-11-09,CUST1347,Corporate,East,Ranchi,Office Supplies,Printer,1,1057.5,0.05,1004.62,866.45,138.17,UPI,13.75,November,Q4
+ORD100731,2025-09-06,CUST1232,Consumer,West,Surat,Office Supplies,Pen Set,3,3856.85,0.15,9834.97,9909.46,-74.49,Debit Card,-0.76,September,Q3
+ORD100732,2025-07-07,CUST1316,Small Business,South,Hyderabad,Clothing,Jacket,1,3576.39,0.05,3397.57,3124.17,273.4,Credit Card,8.05,July,Q3
+ORD100733,2025-02-23,CUST1124,Corporate,South,Chennai,Electronics,Headphones,2,53060.35,0.15,90202.6,61889.71,28312.89,UPI,31.39,February,Q1
+ORD100734,2025-11-22,CUST1279,Consumer,East,Bhubaneswar,Groceries,Coffee,6,150.42,0.05,857.41,692.08,165.33,UPI,19.28,November,Q4
+ORD100735,2025-12-23,CUST1111,Corporate,North,Delhi,Groceries,Cooking Oil,5,182.64,0.05,867.52,642.74,224.78,Debit Card,25.91,December,Q4
+ORD100736,2025-11-09,CUST1124,Consumer,West,Ahmedabad,Office Supplies,Notebook,4,2256.84,0.0,9027.35,7564.52,1462.83,UPI,16.2,November,Q4
+ORD100737,2025-05-18,CUST1030,Small Business,East,Kolkata,Electronics,Monitor,6,74415.7,0.15,379520.05,292696.76,86823.29,Net Banking,22.88,May,Q2
+ORD100738,2025-06-17,CUST1115,Consumer,South,Bengaluru,Clothing,Jeans,3,7116.34,0.0,21349.02,18665.64,2683.38,Credit Card,12.57,June,Q2
+ORD100739,2025-04-13,CUST1090,Corporate,South,Kochi,Electronics,Smartphone,5,12370.06,0.15,52572.75,47260.57,5312.18,Credit Card,10.1,April,Q2
+ORD100740,2025-03-26,CUST1212,Consumer,East,Patna,Electronics,Headphones,7,50760.86,0.15,302027.14,290678.46,11348.68,Net Banking,3.76,March,Q1
+ORD100741,2025-11-13,CUST1038,Consumer,West,Mumbai,Electronics,Monitor,5,82624.52,0.15,351154.22,250220.05,100934.17,Net Banking,28.74,November,Q4
+ORD100742,2025-07-31,CUST1083,Small Business,North,Jaipur,Office Supplies,Stapler,2,1970.47,0.05,3743.88,2502.64,1241.24,UPI,33.15,July,Q3
+ORD100743,2025-01-03,CUST1027,Small Business,North,Delhi,Groceries,Cooking Oil,7,2090.96,0.1,13173.04,11819.45,1353.59,UPI,10.28,January,Q1
+ORD100744,2025-06-28,CUST1217,Consumer,South,Hyderabad,Clothing,Jacket,6,1329.46,0.1,7179.07,4679.12,2499.95,Debit Card,34.82,June,Q2
+ORD100745,2025-12-08,CUST1215,Consumer,West,Pune,Clothing,Jacket,6,7502.54,0.0,45015.23,37140.41,7874.82,Credit Card,17.49,December,Q4
+ORD100746,2025-10-30,CUST1221,Small Business,North,Jaipur,Furniture,Desk,1,19158.45,0.1,17242.6,11192.07,6050.53,UPI,35.09,October,Q4
+ORD100747,2025-11-28,CUST1015,Small Business,West,Pune,Furniture,Office Chair,7,23621.36,0.0,165349.51,128499.0,36850.51,Net Banking,22.29,November,Q4
+ORD100748,2025-02-07,CUST1259,Consumer,West,Surat,Furniture,Table,2,17400.5,0.05,33060.96,23996.28,9064.68,UPI,27.42,February,Q1
+ORD100749,2025-08-27,CUST1266,Consumer,South,Chennai,Groceries,Cooking Oil,1,972.17,0.0,972.17,742.2,229.97,UPI,23.66,August,Q3
+ORD100750,2025-06-18,CUST1120,Consumer,North,Chandigarh,Electronics,Laptop,1,84745.4,0.0,84745.4,66847.97,17897.43,UPI,21.12,June,Q2
+ORD100751,2025-12-09,CUST1128,Small Business,East,Ranchi,Groceries,Cooking Oil,5,761.36,0.05,3616.46,2599.07,1017.39,Credit Card,28.13,December,Q4
+ORD100752,2025-11-10,CUST1211,Consumer,South,Bengaluru,Office Supplies,Pen Set,6,1694.25,0.05,9657.25,6225.25,3432.0,Debit Card,35.54,November,Q4
+ORD100753,2025-11-02,CUST1011,Consumer,North,Delhi,Furniture,Bookshelf,1,17969.0,0.1,16172.1,10797.46,5374.64,UPI,33.23,November,Q4
+ORD100754,2025-01-30,CUST1176,Corporate,North,Jaipur,Clothing,Shoes,3,6192.94,0.0,18578.81,14058.23,4520.58,UPI,24.33,January,Q1
+ORD100755,2025-07-09,CUST1133,Consumer,North,Lucknow,Office Supplies,Pen Set,3,4650.55,0.05,13254.06,10271.15,2982.91,UPI,22.51,July,Q3
+ORD100756,2025-12-23,CUST1325,Consumer,North,Jaipur,Groceries,Snacks,6,591.53,0.0,3549.15,2848.77,700.38,Debit Card,19.73,December,Q4
+ORD100757,2025-01-25,CUST1320,Consumer,North,Delhi,Groceries,Cooking Oil,3,2015.2,0.05,5743.31,4430.93,1312.38,UPI,22.85,January,Q1
+ORD100758,2025-04-22,CUST1014,Consumer,West,Pune,Furniture,Desk,5,18855.83,0.1,84851.25,66630.26,18220.99,Net Banking,21.47,April,Q2
+ORD100759,2025-07-25,CUST1050,Consumer,South,Bengaluru,Electronics,Laptop,2,10422.54,0.05,19802.82,14579.59,5223.23,UPI,26.38,July,Q3
+ORD100760,2025-07-04,CUST1072,Corporate,West,Pune,Office Supplies,Pen Set,4,1966.75,0.1,7080.32,4625.29,2455.03,Cash,34.67,July,Q3
+ORD100761,2025-02-16,CUST1069,Consumer,East,Patna,Groceries,Rice,1,778.64,0.0,778.64,529.99,248.65,UPI,31.93,February,Q1
+ORD100762,2025-08-16,CUST1016,Corporate,North,Jaipur,Electronics,Headphones,4,30881.69,0.1,111174.07,107814.89,3359.18,Debit Card,3.02,August,Q3
+ORD100763,2025-02-08,CUST1334,Small Business,South,Hyderabad,Office Supplies,Pen Set,2,4915.59,0.05,9339.62,8278.5,1061.12,UPI,11.36,February,Q1
+ORD100764,2025-01-16,CUST1056,Corporate,North,Lucknow,Office Supplies,Notebook,2,3231.75,0.05,6140.32,4387.51,1752.81,UPI,28.55,January,Q1
+ORD100765,2025-01-22,CUST1105,Consumer,South,Chennai,Clothing,Jacket,5,5826.11,0.1,26217.48,22032.55,4184.93,Net Banking,15.96,January,Q1
+ORD100766,2025-08-01,CUST1132,Consumer,West,Ahmedabad,Electronics,Laptop,3,88012.5,0.0,264037.5,220257.18,43780.32,Net Banking,16.58,August,Q3
+ORD100767,2025-11-06,CUST1048,Consumer,South,Hyderabad,Clothing,T-Shirt,3,3204.45,0.1,8652.03,6848.39,1803.64,Credit Card,20.85,November,Q4
+ORD100768,2025-05-29,CUST1248,Consumer,East,Kolkata,Groceries,Coffee,2,2024.42,0.1,3643.95,2370.14,1273.81,Debit Card,34.96,May,Q2
+ORD100769,2025-08-29,CUST1273,Consumer,East,Kolkata,Electronics,Smartphone,5,41935.13,0.0,209675.66,126298.79,83376.87,Credit Card,39.76,August,Q3
+ORD100770,2025-09-29,CUST1111,Corporate,South,Hyderabad,Electronics,Monitor,5,78910.36,0.0,394551.81,289252.96,105298.85,Net Banking,26.69,September,Q3
+ORD100771,2025-02-28,CUST1326,Consumer,South,Kochi,Groceries,Rice,6,533.58,0.0,3201.47,2787.94,413.53,UPI,12.92,February,Q1
+ORD100772,2025-10-14,CUST1336,Consumer,South,Chennai,Electronics,Monitor,7,85553.33,0.15,509042.28,471889.9,37152.38,Credit Card,7.3,October,Q4
+ORD100773,2025-07-21,CUST1349,Consumer,South,Hyderabad,Groceries,Cooking Oil,1,625.05,0.1,562.55,375.83,186.72,Credit Card,33.19,July,Q3
+ORD100774,2025-02-01,CUST1038,Corporate,East,Bhubaneswar,Office Supplies,Notebook,7,1664.79,0.0,11653.54,7421.07,4232.47,UPI,36.32,February,Q1
+ORD100775,2025-06-11,CUST1240,Consumer,North,Delhi,Electronics,Headphones,3,69276.34,0.05,197437.57,168631.83,28805.74,Net Banking,14.59,June,Q2
+ORD100776,2025-09-12,CUST1318,Corporate,South,Chennai,Groceries,Coffee,2,1045.01,0.05,1985.52,1739.8,245.72,UPI,12.38,September,Q3
+ORD100777,2025-09-11,CUST1121,Consumer,South,Hyderabad,Furniture,Bookshelf,6,15792.97,0.15,80544.13,72518.94,8025.19,UPI,9.96,September,Q3
+ORD100778,2025-01-09,CUST1048,Small Business,East,Patna,Office Supplies,Stapler,4,2250.64,0.0,9002.56,6961.92,2040.64,Credit Card,22.67,January,Q1
+ORD100779,2025-05-19,CUST1010,Small Business,East,Patna,Furniture,Office Chair,3,18945.69,0.0,56837.08,33448.69,23388.39,Debit Card,41.15,May,Q2
+ORD100780,2025-01-10,CUST1233,Consumer,West,Ahmedabad,Office Supplies,Pen Set,1,1180.24,0.15,1003.2,977.9,25.3,UPI,2.52,January,Q1
+ORD100781,2025-08-02,CUST1036,Consumer,South,Kochi,Electronics,Smartphone,5,9968.93,0.0,49844.64,40697.28,9147.36,Credit Card,18.35,August,Q3
+ORD100782,2025-09-30,CUST1004,Consumer,West,Surat,Furniture,Bookshelf,2,8548.34,0.0,17096.68,11244.67,5852.01,Net Banking,34.23,September,Q3
+ORD100783,2025-11-20,CUST1044,Consumer,East,Ranchi,Groceries,Coffee,3,1238.34,0.2,2972.02,2944.54,27.48,UPI,0.92,November,Q4
+ORD100784,2025-02-17,CUST1056,Corporate,East,Patna,Electronics,Smartphone,4,19281.7,0.1,69414.14,49704.87,19709.27,Debit Card,28.39,February,Q1
+ORD100785,2025-04-21,CUST1042,Small Business,North,Chandigarh,Office Supplies,Pen Set,1,1806.25,0.0,1806.25,1069.48,736.77,Debit Card,40.79,April,Q2
+ORD100786,2025-06-02,CUST1255,Corporate,South,Chennai,Furniture,Bookshelf,1,10899.6,0.0,10899.6,6979.46,3920.14,Credit Card,35.97,June,Q2
+ORD100787,2025-05-03,CUST1228,Small Business,West,Ahmedabad,Clothing,Jacket,6,741.92,0.0,4451.5,2820.42,1631.08,Net Banking,36.64,May,Q2
+ORD100788,2025-12-23,CUST1114,Consumer,East,Kolkata,Electronics,Headphones,3,54581.12,0.0,163743.35,111562.34,52181.01,Debit Card,31.87,December,Q4
+ORD100789,2025-04-12,CUST1237,Consumer,East,Patna,Groceries,Snacks,4,2222.42,0.15,7556.24,6271.99,1284.25,Credit Card,17.0,April,Q2
+ORD100790,2025-08-29,CUST1174,Corporate,West,Pune,Furniture,Desk,1,5065.96,0.05,4812.66,3711.13,1101.53,Credit Card,22.89,August,Q3
+ORD100791,2025-11-17,CUST1255,Consumer,North,Chandigarh,Electronics,Monitor,2,55813.68,0.1,100464.63,80709.5,19755.13,Debit Card,19.66,November,Q4
+ORD100792,2025-07-10,CUST1277,Corporate,East,Patna,Electronics,Smartphone,1,61502.83,0.15,52277.41,40665.82,11611.59,Credit Card,22.21,July,Q3
+ORD100793,2025-08-05,CUST1335,Consumer,South,Kochi,Electronics,Smartphone,4,40643.45,0.05,154445.1,95715.51,58729.59,Net Banking,38.03,August,Q3
+ORD100794,2025-02-20,CUST1069,Consumer,East,Patna,Office Supplies,Printer,5,3520.43,0.0,17602.17,13404.59,4197.58,UPI,23.85,February,Q1
+ORD100795,2025-10-19,CUST1326,Small Business,South,Chennai,Furniture,Table,5,11152.19,0.05,52972.91,38961.49,14011.42,UPI,26.45,October,Q4
+ORD100796,2025-03-22,CUST1230,Consumer,West,Ahmedabad,Groceries,Coffee,6,1311.13,0.15,6686.76,5267.61,1419.15,UPI,21.22,March,Q1
+ORD100797,2025-03-29,CUST1067,Small Business,South,Kochi,Furniture,Table,3,1672.8,0.15,4265.63,4215.86,49.77,UPI,1.17,March,Q1
+ORD100798,2025-07-13,CUST1304,Small Business,West,Surat,Electronics,Smartphone,4,63796.21,0.0,255184.84,205174.48,50010.36,UPI,19.6,July,Q3
+ORD100799,2025-04-14,CUST1036,Corporate,South,Chennai,Office Supplies,Pen Set,6,3323.65,0.1,17947.69,16697.93,1249.76,Net Banking,6.96,April,Q2
+ORD100800,2025-09-28,CUST1159,Corporate,West,Ahmedabad,Clothing,Jacket,7,595.69,0.05,3961.32,3037.68,923.64,Debit Card,23.32,September,Q3
+ORD100801,2025-04-06,CUST1149,Corporate,South,Bengaluru,Electronics,Smartphone,1,36301.26,0.15,30856.07,22480.62,8375.45,Debit Card,27.14,April,Q2
+ORD100802,2025-07-17,CUST1027,Small Business,North,Lucknow,Electronics,Headphones,7,88217.71,0.0,617523.95,487143.91,130380.04,Credit Card,21.11,July,Q3
+ORD100803,2025-01-01,CUST1072,Consumer,South,Chennai,Electronics,Smartphone,1,40762.61,0.05,38724.48,26162.34,12562.14,Net Banking,32.44,January,Q1
+ORD100804,2025-06-16,CUST1248,Consumer,South,Bengaluru,Clothing,Jacket,5,4164.98,0.15,17701.16,14835.01,2866.15,Credit Card,16.19,June,Q2
+ORD100805,2025-05-06,CUST1101,Corporate,North,Jaipur,Clothing,Shoes,6,7306.46,0.05,41646.83,26281.35,15365.48,Net Banking,36.89,May,Q2
+ORD100806,2025-11-09,CUST1190,Consumer,East,Patna,Office Supplies,Notebook,5,3600.45,0.05,17102.12,14898.51,2203.61,UPI,12.89,November,Q4
+ORD100807,2025-03-22,CUST1096,Consumer,East,Kolkata,Groceries,Coffee,2,1496.97,0.0,2993.94,1849.6,1144.34,Net Banking,38.22,March,Q1
+ORD100808,2025-09-08,CUST1282,Consumer,South,Chennai,Clothing,Shoes,7,6443.1,0.0,45101.67,38378.33,6723.34,Debit Card,14.91,September,Q3
+ORD100809,2025-06-18,CUST1322,Corporate,North,Chandigarh,Office Supplies,Stapler,7,4328.61,0.0,30300.29,25430.1,4870.19,UPI,16.07,June,Q2
+ORD100810,2025-03-14,CUST1278,Small Business,South,Bengaluru,Groceries,Rice,5,1196.53,0.15,5085.26,4303.77,781.49,Credit Card,15.37,March,Q1
+ORD100811,2025-05-21,CUST1017,Consumer,West,Mumbai,Electronics,Smartphone,2,45384.21,0.0,90768.42,72915.22,17853.2,Credit Card,19.67,May,Q2
+ORD100812,2025-03-11,CUST1263,Small Business,West,Pune,Electronics,Smartphone,1,37814.33,0.05,35923.61,28959.48,6964.13,UPI,19.39,March,Q1
+ORD100813,2025-09-19,CUST1107,Corporate,South,Kochi,Electronics,Headphones,6,87170.02,0.1,470718.12,429359.09,41359.03,Credit Card,8.79,September,Q3
+ORD100814,2025-12-06,CUST1068,Small Business,East,Kolkata,Electronics,Smartphone,2,64259.13,0.0,128518.26,91189.05,37329.21,UPI,29.05,December,Q4
+ORD100815,2025-11-04,CUST1128,Corporate,East,Bhubaneswar,Office Supplies,Stapler,6,461.95,0.05,2633.14,2261.01,372.13,UPI,14.13,November,Q4
+ORD100816,2025-09-02,CUST1293,Corporate,South,Bengaluru,Groceries,Coffee,7,2171.1,0.1,13677.95,10923.17,2754.78,Net Banking,20.14,September,Q3
+ORD100817,2025-01-03,CUST1294,Consumer,South,Bengaluru,Electronics,Headphones,6,45847.59,0.15,233822.73,237203.46,-3380.73,Debit Card,-1.45,January,Q1
+ORD100818,2025-12-03,CUST1096,Small Business,West,Mumbai,Electronics,Smartphone,7,10844.08,0.1,68317.72,55102.92,13214.8,Net Banking,19.34,December,Q4
+ORD100819,2025-03-04,CUST1001,Consumer,East,Ranchi,Furniture,Bookshelf,2,14418.36,0.1,25953.04,20727.42,5225.62,Debit Card,20.13,March,Q1
+ORD100820,2025-02-18,CUST1298,Small Business,South,Hyderabad,Groceries,Snacks,7,1101.19,0.0,7708.36,6286.33,1422.03,UPI,18.45,February,Q1
+ORD100821,2025-03-17,CUST1180,Small Business,West,Ahmedabad,Furniture,Desk,3,22127.11,0.15,56424.13,54862.4,1561.73,Credit Card,2.77,March,Q1
+ORD100822,2025-06-24,CUST1181,Consumer,East,Ranchi,Office Supplies,Pen Set,7,1059.77,0.0,7418.41,5536.71,1881.7,Debit Card,25.37,June,Q2
+ORD100823,2025-04-19,CUST1235,Consumer,North,Chandigarh,Electronics,Laptop,5,75249.49,0.1,338622.71,238518.07,100104.64,Cash,29.56,April,Q2
+ORD100824,2025-07-02,CUST1319,Corporate,West,Pune,Electronics,Monitor,2,52403.54,0.0,104807.08,75495.42,29311.66,UPI,27.97,July,Q3
+ORD100825,2025-07-11,CUST1337,Consumer,East,Kolkata,Groceries,Cooking Oil,1,231.06,0.15,196.41,201.12,-4.71,Net Banking,-2.4,July,Q3
+ORD100826,2025-03-06,CUST1008,Small Business,East,Ranchi,Groceries,Coffee,6,2432.43,0.1,13135.12,11761.71,1373.41,Net Banking,10.46,March,Q1
+ORD100827,2025-12-03,CUST1027,Consumer,West,Pune,Electronics,Headphones,4,48572.3,0.1,174860.26,159967.76,14892.5,Debit Card,8.52,December,Q4
+ORD100828,2025-09-28,CUST1308,Consumer,North,Lucknow,Groceries,Rice,2,798.1,0.0,1596.21,941.52,654.69,Net Banking,41.02,September,Q3
+ORD100829,2025-04-10,CUST1146,Small Business,West,Ahmedabad,Office Supplies,Pen Set,5,2373.56,0.05,11274.43,8549.08,2725.35,Credit Card,24.17,April,Q2
+ORD100830,2025-02-01,CUST1091,Corporate,East,Patna,Groceries,Coffee,7,2158.86,0.1,13600.81,11696.49,1904.32,Cash,14.0,February,Q1
+ORD100831,2025-12-18,CUST1342,Small Business,South,Hyderabad,Furniture,Bookshelf,6,8665.22,0.1,46792.21,43101.33,3690.88,Debit Card,7.89,December,Q4
+ORD100832,2025-05-08,CUST1272,Consumer,South,Chennai,Office Supplies,Stapler,3,1003.75,0.0,3011.24,1791.03,1220.21,UPI,40.52,May,Q2
+ORD100833,2025-12-05,CUST1322,Corporate,West,Mumbai,Office Supplies,Pen Set,1,688.9,0.2,551.12,575.74,-24.62,Net Banking,-4.47,December,Q4
+ORD100834,2025-02-12,CUST1005,Corporate,East,Bhubaneswar,Clothing,T-Shirt,3,2593.52,0.15,6613.47,5792.78,820.69,Credit Card,12.41,February,Q1
+ORD100835,2025-03-19,CUST1082,Corporate,South,Bengaluru,Electronics,Monitor,4,71304.09,0.0,285216.35,182308.63,102907.72,Credit Card,36.08,March,Q1
+ORD100836,2025-11-10,CUST1219,Corporate,East,Patna,Electronics,Headphones,2,45088.24,0.15,76650.01,60885.05,15764.96,Credit Card,20.57,November,Q4
+ORD100837,2025-10-16,CUST1118,Corporate,West,Surat,Furniture,Bookshelf,6,6845.82,0.05,39021.16,27297.51,11723.65,UPI,30.04,October,Q4
+ORD100838,2025-09-27,CUST1081,Consumer,South,Kochi,Clothing,Shoes,2,1579.62,0.05,3001.29,2335.5,665.79,Credit Card,22.18,September,Q3
+ORD100839,2025-06-11,CUST1070,Consumer,East,Ranchi,Electronics,Smartphone,5,33282.01,0.0,166410.03,99098.12,67311.91,Net Banking,40.45,June,Q2
+ORD100840,2025-07-08,CUST1115,Corporate,South,Bengaluru,Clothing,Shoes,2,7537.42,0.05,14321.09,9460.38,4860.71,UPI,33.94,July,Q3
+ORD100841,2025-09-04,CUST1263,Consumer,West,Ahmedabad,Groceries,Rice,1,923.26,0.1,830.94,760.59,70.35,UPI,8.47,September,Q3
+ORD100842,2025-08-04,CUST1306,Corporate,East,Bhubaneswar,Electronics,Laptop,4,88990.55,0.05,338164.08,220618.67,117545.41,UPI,34.76,August,Q3
+ORD100843,2025-11-11,CUST1142,Consumer,South,Kochi,Clothing,T-Shirt,3,4036.27,0.1,10897.94,7870.96,3026.98,Credit Card,27.78,November,Q4
+ORD100844,2025-12-05,CUST1207,Corporate,West,Mumbai,Furniture,Table,4,5710.35,0.1,20557.27,16354.7,4202.57,Debit Card,20.44,December,Q4
+ORD100845,2025-06-17,CUST1111,Corporate,South,Kochi,Groceries,Cooking Oil,6,2238.74,0.1,12089.18,9874.66,2214.52,Debit Card,18.32,June,Q2
+ORD100846,2025-12-05,CUST1303,Consumer,South,Chennai,Electronics,Laptop,2,44130.21,0.0,88260.41,71410.01,16850.4,Net Banking,19.09,December,Q4
+ORD100847,2025-07-12,CUST1112,Consumer,North,Lucknow,Clothing,Jeans,6,5764.47,0.15,29398.79,24701.89,4696.9,Credit Card,15.98,July,Q3
+ORD100848,2025-10-10,CUST1043,Consumer,North,Jaipur,Groceries,Coffee,3,2460.91,0.05,7013.59,6031.39,982.2,UPI,14.0,October,Q4
+ORD100849,2025-12-02,CUST1347,Corporate,West,Ahmedabad,Groceries,Cooking Oil,6,220.42,0.0,1322.53,1012.4,310.13,Net Banking,23.45,December,Q4
+ORD100850,2025-01-13,CUST1285,Small Business,North,Lucknow,Clothing,T-Shirt,5,1044.55,0.0,5222.74,3206.4,2016.34,Debit Card,38.61,January,Q1
+ORD100851,2025-08-28,CUST1128,Consumer,West,Ahmedabad,Office Supplies,Stapler,4,3616.26,0.05,13741.79,9068.13,4673.66,Credit Card,34.01,August,Q3
+ORD100852,2025-11-16,CUST1185,Corporate,North,Chandigarh,Office Supplies,Stapler,3,1445.03,0.15,3684.84,3082.73,602.11,Debit Card,16.34,November,Q4
+ORD100853,2025-05-27,CUST1229,Consumer,South,Chennai,Groceries,Coffee,3,542.32,0.05,1545.62,1137.36,408.26,Net Banking,26.41,May,Q2
+ORD100854,2025-07-23,CUST1221,Consumer,West,Surat,Office Supplies,Printer,7,244.84,0.1,1542.5,1376.36,166.14,Debit Card,10.77,July,Q3
+ORD100855,2025-03-21,CUST1117,Small Business,West,Pune,Electronics,Headphones,3,6856.97,0.0,20570.91,15515.02,5055.89,UPI,24.58,March,Q1
+ORD100856,2025-02-12,CUST1070,Consumer,South,Bengaluru,Groceries,Coffee,7,1958.77,0.05,13025.79,9549.14,3476.65,Debit Card,26.69,February,Q1
+ORD100857,2025-03-30,CUST1070,Consumer,West,Mumbai,Clothing,Jacket,1,1335.14,0.2,1068.11,842.78,225.33,UPI,21.1,March,Q1
+ORD100858,2025-05-28,CUST1110,Consumer,West,Pune,Clothing,T-Shirt,7,3901.45,0.1,24579.13,17698.37,6880.76,Credit Card,27.99,May,Q2
+ORD100859,2025-04-05,CUST1132,Consumer,North,Jaipur,Electronics,Headphones,4,56501.23,0.0,226004.92,170102.67,55902.25,Credit Card,24.73,April,Q2
+ORD100860,2025-05-31,CUST1056,Consumer,West,Pune,Office Supplies,Printer,6,2170.34,0.05,12370.95,9207.0,3163.95,UPI,25.58,May,Q2
+ORD100861,2025-01-02,CUST1089,Consumer,East,Bhubaneswar,Furniture,Desk,7,2137.01,0.0,14959.04,10987.09,3971.95,UPI,26.55,January,Q1
+ORD100862,2025-01-22,CUST1137,Corporate,South,Hyderabad,Office Supplies,Notebook,3,3928.33,0.05,11195.75,7438.73,3757.02,UPI,33.56,January,Q1
+ORD100863,2025-11-09,CUST1131,Consumer,North,Chandigarh,Electronics,Monitor,4,5893.62,0.1,21217.05,18361.51,2855.54,Debit Card,13.46,November,Q4
+ORD100864,2025-11-24,CUST1218,Corporate,North,Lucknow,Office Supplies,Pen Set,7,3821.35,0.1,24074.54,22356.19,1718.35,Debit Card,7.14,November,Q4
+ORD100865,2025-01-07,CUST1176,Consumer,East,Ranchi,Groceries,Cooking Oil,7,2243.93,0.0,15707.52,10325.84,5381.68,Cash,34.26,January,Q1
+ORD100866,2025-07-25,CUST1171,Consumer,South,Kochi,Electronics,Monitor,3,41791.39,0.15,106568.05,91203.98,15364.07,UPI,14.42,July,Q3
+ORD100867,2025-04-24,CUST1100,Corporate,South,Kochi,Groceries,Cooking Oil,5,1385.3,0.05,6580.18,6044.48,535.7,Credit Card,8.14,April,Q2
+ORD100868,2025-09-29,CUST1129,Small Business,North,Lucknow,Furniture,Desk,5,12709.11,0.05,60368.27,43209.23,17159.04,Net Banking,28.42,September,Q3
+ORD100869,2025-03-24,CUST1057,Consumer,West,Pune,Groceries,Coffee,7,1034.1,0.05,6876.77,5490.66,1386.11,UPI,20.16,March,Q1
+ORD100870,2025-06-28,CUST1181,Small Business,North,Lucknow,Clothing,T-Shirt,5,7133.17,0.1,32099.26,21651.26,10448.0,Debit Card,32.55,June,Q2
+ORD100871,2025-07-29,CUST1246,Corporate,South,Hyderabad,Office Supplies,Printer,2,4474.97,0.05,8502.44,6818.11,1684.33,Debit Card,19.81,July,Q3
+ORD100872,2025-11-24,CUST1144,Corporate,East,Ranchi,Clothing,Jeans,3,2885.79,0.05,8224.49,5254.06,2970.43,UPI,36.12,November,Q4
+ORD100873,2025-05-04,CUST1051,Consumer,North,Delhi,Groceries,Coffee,2,1576.17,0.05,2994.72,2735.5,259.22,Net Banking,8.66,May,Q2
+ORD100874,2025-04-23,CUST1218,Consumer,South,Bengaluru,Furniture,Table,4,23282.33,0.0,93129.31,74009.75,19119.56,Net Banking,20.53,April,Q2
+ORD100875,2025-01-12,CUST1104,Consumer,North,Lucknow,Furniture,Bookshelf,2,24108.37,0.15,40984.24,39366.47,1617.77,UPI,3.95,January,Q1
+ORD100876,2025-05-06,CUST1055,Corporate,West,Surat,Clothing,Jacket,4,4218.98,0.05,16032.14,13352.77,2679.37,UPI,16.71,May,Q2
+ORD100877,2025-02-22,CUST1257,Consumer,North,Lucknow,Clothing,Jacket,7,3786.75,0.0,26507.26,20063.84,6443.42,UPI,24.31,February,Q1
+ORD100878,2025-11-27,CUST1346,Small Business,North,Lucknow,Clothing,Shoes,4,2445.95,0.1,8805.41,6995.15,1810.26,UPI,20.56,November,Q4
+ORD100879,2025-10-10,CUST1156,Consumer,South,Chennai,Clothing,T-Shirt,4,7683.31,0.15,26123.27,25739.47,383.8,Credit Card,1.47,October,Q4
+ORD100880,2025-05-20,CUST1053,Consumer,South,Kochi,Furniture,Desk,6,4856.14,0.15,24766.29,25263.1,-496.81,Credit Card,-2.01,May,Q2
+ORD100881,2025-04-07,CUST1329,Corporate,South,Bengaluru,Clothing,T-Shirt,2,4764.69,0.05,9052.91,6953.69,2099.22,UPI,23.19,April,Q2
+ORD100882,2025-01-05,CUST1187,Consumer,North,Delhi,Electronics,Monitor,6,29016.77,0.0,174100.64,149632.62,24468.02,Net Banking,14.05,January,Q1
+ORD100883,2025-02-26,CUST1150,Corporate,West,Mumbai,Office Supplies,Printer,7,1431.09,0.05,9516.76,7563.31,1953.45,UPI,20.53,February,Q1
+ORD100884,2025-11-30,CUST1264,Corporate,East,Patna,Electronics,Monitor,3,39422.33,0.0,118266.99,87696.78,30570.21,UPI,25.85,November,Q4
+ORD100885,2025-03-10,CUST1250,Small Business,East,Ranchi,Furniture,Bookshelf,2,24971.63,0.15,42451.78,35776.6,6675.18,UPI,15.72,March,Q1
+ORD100886,2025-04-28,CUST1298,Corporate,South,Chennai,Furniture,Bookshelf,3,2791.71,0.0,8375.12,5383.42,2991.7,Credit Card,35.72,April,Q2
+ORD100887,2025-02-28,CUST1211,Corporate,South,Bengaluru,Furniture,Table,3,15095.73,0.0,45287.2,26317.11,18970.09,Credit Card,41.89,February,Q1
+ORD100888,2025-02-02,CUST1025,Corporate,North,Chandigarh,Clothing,Jeans,4,935.81,0.05,3556.06,2442.27,1113.79,UPI,31.32,February,Q1
+ORD100889,2025-11-14,CUST1294,Small Business,East,Kolkata,Furniture,Desk,2,5131.24,0.05,9749.36,7521.54,2227.82,UPI,22.85,November,Q4
+ORD100890,2025-02-19,CUST1341,Consumer,South,Chennai,Furniture,Office Chair,3,11829.73,0.1,31940.27,24629.07,7311.2,Net Banking,22.89,February,Q1
+ORD100891,2025-01-19,CUST1152,Consumer,West,Surat,Electronics,Headphones,5,48389.11,0.05,229848.28,172881.12,56967.16,Cash,24.78,January,Q1
+ORD100892,2025-08-02,CUST1024,Consumer,West,Ahmedabad,Furniture,Office Chair,3,7581.62,0.0,22744.86,19883.43,2861.43,UPI,12.58,August,Q3
+ORD100893,2025-07-16,CUST1252,Consumer,South,Hyderabad,Electronics,Laptop,5,31898.86,0.0,159494.28,109266.61,50227.67,Credit Card,31.49,July,Q3
+ORD100894,2025-02-16,CUST1060,Corporate,South,Bengaluru,Electronics,Monitor,2,12392.2,0.05,23545.17,17737.07,5808.1,Credit Card,24.67,February,Q1
+ORD100895,2025-06-16,CUST1066,Corporate,East,Kolkata,Office Supplies,Stapler,7,1550.94,0.0,10856.57,6731.66,4124.91,Debit Card,37.99,June,Q2
+ORD100896,2025-10-16,CUST1053,Corporate,East,Ranchi,Clothing,T-Shirt,6,7742.5,0.1,41809.5,27612.26,14197.24,Credit Card,33.96,October,Q4
+ORD100897,2025-05-21,CUST1106,Consumer,North,Jaipur,Office Supplies,Pen Set,2,4726.3,0.05,8979.97,7681.4,1298.57,Net Banking,14.46,May,Q2
+ORD100898,2025-03-25,CUST1096,Corporate,East,Kolkata,Office Supplies,Stapler,6,1707.65,0.1,9221.3,7696.76,1524.54,Credit Card,16.53,March,Q1
+ORD100899,2025-07-01,CUST1176,Consumer,West,Surat,Furniture,Office Chair,6,14915.07,0.15,76066.84,72327.17,3739.67,Credit Card,4.92,July,Q3
+ORD100900,2025-03-20,CUST1039,Corporate,West,Pune,Groceries,Coffee,2,2283.03,0.15,3881.15,2853.6,1027.55,Debit Card,26.48,March,Q1
+ORD100901,2025-08-03,CUST1168,Corporate,South,Bengaluru,Office Supplies,Notebook,3,80.61,0.15,205.56,181.75,23.81,Cash,11.58,August,Q3
+ORD100902,2025-01-14,CUST1042,Consumer,East,Kolkata,Office Supplies,Notebook,1,4062.88,0.0,4062.88,2665.63,1397.25,Debit Card,34.39,January,Q1
+ORD100903,2025-08-03,CUST1104,Consumer,North,Chandigarh,Electronics,Laptop,3,85611.41,0.0,256834.24,166536.08,90298.16,UPI,35.16,August,Q3
+ORD100904,2025-05-08,CUST1333,Consumer,West,Mumbai,Furniture,Office Chair,3,3646.15,0.0,10938.46,6382.13,4556.33,UPI,41.65,May,Q2
+ORD100905,2025-11-06,CUST1204,Small Business,West,Ahmedabad,Furniture,Table,7,5294.02,0.15,31499.42,22942.78,8556.64,Credit Card,27.16,November,Q4
+ORD100906,2025-09-05,CUST1008,Small Business,North,Jaipur,Furniture,Bookshelf,4,24077.54,0.2,77048.12,64795.59,12252.53,UPI,15.9,September,Q3
+ORD100907,2025-01-29,CUST1282,Corporate,North,Jaipur,Office Supplies,Notebook,4,2710.82,0.15,9216.8,6669.32,2547.48,Debit Card,27.64,January,Q1
+ORD100908,2025-10-07,CUST1043,Consumer,West,Ahmedabad,Office Supplies,Printer,3,120.27,0.0,360.82,315.99,44.83,Net Banking,12.42,October,Q4
+ORD100909,2025-12-04,CUST1110,Consumer,West,Surat,Office Supplies,Stapler,5,1325.28,0.15,5632.43,4456.84,1175.59,Debit Card,20.87,December,Q4
+ORD100910,2025-11-15,CUST1210,Corporate,North,Lucknow,Clothing,Shoes,7,3764.57,0.05,25034.37,16314.43,8719.94,Cash,34.83,November,Q4
+ORD100911,2025-07-21,CUST1237,Corporate,West,Ahmedabad,Clothing,T-Shirt,6,5635.4,0.0,33812.39,21630.62,12181.77,UPI,36.03,July,Q3
+ORD100912,2025-12-27,CUST1319,Consumer,South,Chennai,Clothing,Shoes,4,5945.33,0.05,22592.27,17986.09,4606.18,Net Banking,20.39,December,Q4
+ORD100913,2025-02-26,CUST1049,Consumer,South,Kochi,Groceries,Coffee,3,2489.01,0.0,7467.03,4474.34,2992.69,Debit Card,40.08,February,Q1
+ORD100914,2025-08-06,CUST1115,Corporate,North,Delhi,Electronics,Headphones,7,29438.45,0.05,195765.71,172836.44,22929.27,UPI,11.71,August,Q3
+ORD100915,2025-03-03,CUST1155,Consumer,East,Patna,Electronics,Headphones,1,50748.71,0.0,50748.71,44072.71,6676.0,Debit Card,13.16,March,Q1
+ORD100916,2025-06-06,CUST1137,Consumer,North,Lucknow,Electronics,Monitor,5,50332.5,0.05,239079.38,164593.38,74486.0,UPI,31.16,June,Q2
+ORD100917,2025-07-21,CUST1167,Consumer,North,Chandigarh,Office Supplies,Stapler,2,2057.94,0.1,3704.3,2942.98,761.32,Debit Card,20.55,July,Q3
+ORD100918,2025-01-17,CUST1321,Corporate,East,Patna,Groceries,Rice,3,505.99,0.15,1290.27,890.5,399.77,Credit Card,30.98,January,Q1
+ORD100919,2025-11-18,CUST1199,Small Business,East,Ranchi,Electronics,Monitor,7,88083.81,0.1,554927.99,476136.27,78791.72,UPI,14.2,November,Q4
+ORD100920,2025-01-06,CUST1071,Small Business,East,Kolkata,Groceries,Rice,3,2147.96,0.05,6121.69,4537.64,1584.05,Debit Card,25.88,January,Q1
+ORD100921,2025-02-27,CUST1007,Corporate,South,Kochi,Electronics,Headphones,6,47358.31,0.15,241527.37,187828.03,53699.34,Debit Card,22.23,February,Q1
+ORD100922,2025-11-21,CUST1200,Consumer,West,Mumbai,Groceries,Snacks,5,1547.79,0.15,6578.1,4968.8,1609.3,UPI,24.46,November,Q4
+ORD100923,2025-11-14,CUST1336,Consumer,South,Kochi,Furniture,Office Chair,4,6840.63,0.0,27362.54,21238.99,6123.55,UPI,22.38,November,Q4
+ORD100924,2025-06-18,CUST1067,Corporate,West,Ahmedabad,Electronics,Headphones,4,51221.9,0.05,194643.22,144418.12,50225.1,Credit Card,25.8,June,Q2
+ORD100925,2025-03-23,CUST1138,Consumer,South,Bengaluru,Office Supplies,Printer,4,3490.1,0.0,13960.41,8849.47,5110.94,Credit Card,36.61,March,Q1
+ORD100926,2025-08-07,CUST1242,Corporate,West,Ahmedabad,Electronics,Monitor,2,48789.2,0.0,97578.39,76768.12,20810.27,Net Banking,21.33,August,Q3
+ORD100927,2025-06-26,CUST1213,Consumer,South,Bengaluru,Furniture,Office Chair,7,24771.7,0.1,156061.72,129968.49,26093.23,Net Banking,16.72,June,Q2
+ORD100928,2025-07-23,CUST1181,Consumer,East,Ranchi,Furniture,Desk,5,15866.53,0.15,67432.75,66449.15,983.6,Credit Card,1.46,July,Q3
+ORD100929,2025-03-12,CUST1254,Consumer,North,Chandigarh,Clothing,Shoes,5,3156.5,0.0,15782.49,9710.06,6072.43,Debit Card,38.48,March,Q1
+ORD100930,2025-09-23,CUST1101,Consumer,South,Kochi,Office Supplies,Notebook,4,3872.15,0.15,13165.32,12634.06,531.26,Credit Card,4.04,September,Q3
+ORD100931,2025-04-08,CUST1087,Consumer,West,Pune,Furniture,Bookshelf,4,5505.87,0.15,18719.95,17223.57,1496.38,Debit Card,7.99,April,Q2
+ORD100932,2025-12-11,CUST1185,Consumer,East,Bhubaneswar,Office Supplies,Printer,6,1953.35,0.15,9962.1,7202.05,2760.05,UPI,27.71,December,Q4
+ORD100933,2025-10-18,CUST1091,Small Business,South,Bengaluru,Clothing,Shoes,1,2971.58,0.0,2971.58,2342.93,628.65,UPI,21.16,October,Q4
+ORD100934,2025-07-27,CUST1248,Consumer,South,Chennai,Electronics,Laptop,1,41703.6,0.15,35448.06,29712.32,5735.74,Debit Card,16.18,July,Q3
+ORD100935,2025-01-02,CUST1214,Corporate,East,Ranchi,Furniture,Office Chair,3,19871.83,0.0,59615.48,51477.69,8137.79,UPI,13.65,January,Q1
+ORD100936,2025-05-04,CUST1249,Small Business,South,Chennai,Electronics,Headphones,3,46154.71,0.05,131540.92,86191.62,45349.3,Debit Card,34.48,May,Q2
+ORD100937,2025-10-07,CUST1126,Small Business,North,Jaipur,Electronics,Monitor,5,72491.23,0.0,362456.14,280124.24,82331.9,Net Banking,22.71,October,Q4
+ORD100938,2025-03-15,CUST1004,Corporate,South,Hyderabad,Clothing,Jacket,5,4738.96,0.0,23694.82,16458.28,7236.54,Credit Card,30.54,March,Q1
+ORD100939,2025-06-15,CUST1088,Small Business,North,Delhi,Electronics,Headphones,2,34075.9,0.1,61336.62,59090.64,2245.98,Credit Card,3.66,June,Q2
+ORD100940,2025-01-22,CUST1151,Consumer,North,Delhi,Office Supplies,Stapler,2,4059.39,0.05,7712.85,5512.6,2200.25,Net Banking,28.53,January,Q1
+ORD100941,2025-06-03,CUST1176,Consumer,East,Kolkata,Clothing,Shoes,1,2134.83,0.0,2134.83,1854.43,280.4,Debit Card,13.13,June,Q2
+ORD100942,2025-10-22,CUST1211,Consumer,South,Chennai,Electronics,Monitor,3,24072.55,0.0,72217.66,61417.2,10800.46,UPI,14.96,October,Q4
+ORD100943,2025-08-07,CUST1259,Corporate,East,Ranchi,Office Supplies,Printer,1,2547.29,0.1,2292.56,1684.05,608.51,UPI,26.54,August,Q3
+ORD100944,2025-06-06,CUST1091,Corporate,South,Hyderabad,Electronics,Monitor,1,27172.19,0.0,27172.19,22310.06,4862.13,Debit Card,17.89,June,Q2
+ORD100945,2025-08-18,CUST1259,Consumer,South,Bengaluru,Groceries,Coffee,3,121.81,0.15,310.61,321.09,-10.48,Credit Card,-3.37,August,Q3
+ORD100946,2025-01-20,CUST1191,Consumer,West,Pune,Office Supplies,Pen Set,7,3259.07,0.0,22813.51,14961.07,7852.44,UPI,34.42,January,Q1
+ORD100947,2025-02-10,CUST1081,Corporate,South,Kochi,Clothing,Jeans,2,4235.42,0.0,8470.84,6023.05,2447.79,UPI,28.9,February,Q1
+ORD100948,2025-05-28,CUST1138,Consumer,East,Patna,Office Supplies,Stapler,6,2255.31,0.05,12855.29,9960.2,2895.09,Net Banking,22.52,May,Q2
+ORD100949,2025-04-18,CUST1350,Corporate,North,Lucknow,Electronics,Smartphone,6,87192.32,0.05,496996.25,349717.6,147278.65,Debit Card,29.63,April,Q2
+ORD100950,2025-03-25,CUST1126,Corporate,South,Bengaluru,Office Supplies,Stapler,6,2877.44,0.05,16401.38,10092.54,6308.84,Cash,38.47,March,Q1
+ORD100951,2025-11-18,CUST1309,Corporate,West,Mumbai,Groceries,Rice,3,2172.24,0.0,6516.71,4210.05,2306.66,Debit Card,35.4,November,Q4
+ORD100952,2025-11-05,CUST1343,Corporate,East,Ranchi,Office Supplies,Pen Set,4,740.28,0.2,2368.89,1967.9,400.99,Net Banking,16.93,November,Q4
+ORD100953,2025-10-17,CUST1230,Small Business,South,Chennai,Clothing,Jacket,4,4682.89,0.1,16858.4,13357.1,3501.3,UPI,20.77,October,Q4
+ORD100954,2025-11-19,CUST1345,Consumer,East,Ranchi,Groceries,Coffee,4,2183.15,0.0,8732.6,5513.16,3219.44,Debit Card,36.87,November,Q4
+ORD100955,2025-05-14,CUST1310,Corporate,West,Mumbai,Electronics,Laptop,5,54563.99,0.05,259178.95,229707.93,29471.02,UPI,11.37,May,Q2
+ORD100956,2025-07-26,CUST1020,Corporate,West,Surat,Electronics,Monitor,2,66031.21,0.15,112253.05,104523.88,7729.17,Debit Card,6.89,July,Q3
+ORD100957,2025-10-10,CUST1049,Consumer,East,Bhubaneswar,Office Supplies,Pen Set,2,1891.62,0.0,3783.23,2290.97,1492.26,Credit Card,39.44,October,Q4
+ORD100958,2025-09-23,CUST1135,Consumer,South,Hyderabad,Furniture,Desk,7,3672.56,0.0,25707.95,19924.37,5783.58,UPI,22.5,September,Q3
+ORD100959,2025-03-14,CUST1029,Consumer,North,Lucknow,Groceries,Rice,7,1198.96,0.1,7553.45,6513.57,1039.88,Net Banking,13.77,March,Q1
+ORD100960,2025-12-18,CUST1048,Consumer,West,Ahmedabad,Groceries,Rice,5,1046.75,0.1,4710.38,4536.96,173.42,Net Banking,3.68,December,Q4
+ORD100961,2025-02-17,CUST1269,Corporate,South,Hyderabad,Furniture,Office Chair,1,21875.91,0.05,20782.12,12707.86,8074.26,UPI,38.85,February,Q1
+ORD100962,2025-11-22,CUST1003,Small Business,South,Bengaluru,Electronics,Smartphone,7,25739.6,0.0,180177.2,117904.31,62272.89,Credit Card,34.56,November,Q4
+ORD100963,2025-08-21,CUST1258,Consumer,North,Delhi,Clothing,T-Shirt,6,7743.85,0.0,46463.12,39881.04,6582.08,UPI,14.17,August,Q3
+ORD100964,2025-04-10,CUST1016,Consumer,West,Pune,Electronics,Laptop,4,86441.74,0.1,311190.26,297235.17,13955.09,Credit Card,4.48,April,Q2
+ORD100965,2025-02-28,CUST1094,Small Business,West,Pune,Groceries,Cooking Oil,6,694.32,0.0,4165.9,3316.79,849.11,Net Banking,20.38,February,Q1
+ORD100966,2025-09-15,CUST1134,Consumer,South,Chennai,Furniture,Desk,4,9679.22,0.05,36781.04,31350.18,5430.86,UPI,14.77,September,Q3
+ORD100967,2025-03-06,CUST1301,Consumer,South,Chennai,Clothing,Jeans,6,7195.78,0.05,41015.94,26226.24,14789.7,Net Banking,36.06,March,Q1
+ORD100968,2025-03-24,CUST1327,Corporate,North,Chandigarh,Electronics,Headphones,1,87162.89,0.0,87162.89,63991.75,23171.14,UPI,26.58,March,Q1
+ORD100969,2025-06-03,CUST1133,Corporate,North,Jaipur,Office Supplies,Stapler,6,2245.02,0.15,11449.62,8748.52,2701.1,Debit Card,23.59,June,Q2
+ORD100970,2025-09-23,CUST1312,Consumer,West,Ahmedabad,Furniture,Bookshelf,6,9043.43,0.15,46121.5,34421.04,11700.46,Debit Card,25.37,September,Q3
+ORD100971,2025-11-05,CUST1032,Consumer,East,Patna,Office Supplies,Stapler,3,2654.17,0.1,7166.25,6553.86,612.39,UPI,8.55,November,Q4
+ORD100972,2025-03-20,CUST1305,Consumer,West,Ahmedabad,Electronics,Smartphone,6,63460.38,0.0,380762.3,236267.36,144494.94,UPI,37.95,March,Q1
+ORD100973,2025-11-11,CUST1269,Corporate,South,Kochi,Clothing,T-Shirt,3,2405.75,0.0,7217.26,5200.73,2016.53,Net Banking,27.94,November,Q4
+ORD100974,2025-05-30,CUST1025,Corporate,West,Pune,Groceries,Coffee,2,1867.54,0.05,3548.32,3218.04,330.28,Debit Card,9.31,May,Q2
+ORD100975,2025-02-17,CUST1316,Consumer,East,Patna,Electronics,Laptop,5,9390.88,0.0,46954.38,29851.23,17103.15,UPI,36.43,February,Q1
+ORD100976,2025-09-05,CUST1059,Corporate,North,Lucknow,Electronics,Laptop,6,9190.03,0.2,44112.15,48159.33,-4047.18,Credit Card,-9.17,September,Q3
+ORD100977,2025-10-05,CUST1213,Small Business,East,Patna,Electronics,Laptop,2,37834.45,0.0,75668.91,66458.97,9209.94,UPI,12.17,October,Q4
+ORD100978,2025-12-22,CUST1156,Consumer,East,Patna,Office Supplies,Pen Set,7,1799.69,0.05,11967.95,9406.62,2561.33,UPI,21.4,December,Q4
+ORD100979,2025-04-08,CUST1314,Consumer,East,Kolkata,Office Supplies,Stapler,7,1612.38,0.05,10722.36,7122.39,3599.97,Credit Card,33.57,April,Q2
+ORD100980,2025-01-25,CUST1276,Corporate,North,Jaipur,Office Supplies,Printer,3,2480.55,0.1,6697.48,5021.86,1675.62,UPI,25.02,January,Q1
+ORD100981,2025-10-11,CUST1210,Consumer,East,Bhubaneswar,Electronics,Headphones,6,32262.35,0.0,193574.13,136924.24,56649.89,Net Banking,29.27,October,Q4
+ORD100982,2025-10-28,CUST1057,Consumer,East,Ranchi,Furniture,Table,6,6018.06,0.05,34302.95,24293.61,10009.34,Debit Card,29.18,October,Q4
+ORD100983,2025-03-09,CUST1185,Corporate,East,Kolkata,Office Supplies,Notebook,1,1581.87,0.0,1581.87,1050.67,531.2,Net Banking,33.58,March,Q1
+ORD100984,2025-01-07,CUST1054,Small Business,South,Kochi,Office Supplies,Stapler,2,4875.78,0.15,8288.82,8500.12,-211.3,Debit Card,-2.55,January,Q1
+ORD100985,2025-11-01,CUST1209,Small Business,East,Patna,Groceries,Cooking Oil,4,1086.67,0.0,4346.69,2721.07,1625.62,Net Banking,37.4,November,Q4
+ORD100986,2025-05-17,CUST1342,Corporate,North,Chandigarh,Electronics,Laptop,4,42800.59,0.15,145521.99,136961.6,8560.39,Credit Card,5.88,May,Q2
+ORD100987,2025-06-13,CUST1293,Corporate,East,Patna,Clothing,T-Shirt,1,4739.4,0.15,4028.49,2749.43,1279.06,Credit Card,31.75,June,Q2
+ORD100988,2025-03-24,CUST1340,Consumer,East,Patna,Furniture,Office Chair,3,24608.51,0.0,73825.52,56022.85,17802.67,Cash,24.11,March,Q1
+ORD100989,2025-05-18,CUST1304,Corporate,North,Jaipur,Furniture,Desk,4,7177.63,0.1,25839.47,24541.26,1298.21,Debit Card,5.02,May,Q2
+ORD100990,2025-03-14,CUST1252,Consumer,East,Bhubaneswar,Clothing,T-Shirt,4,5545.87,0.0,22183.49,14782.64,7400.85,UPI,33.36,March,Q1
+ORD100991,2025-08-25,CUST1304,Consumer,North,Jaipur,Clothing,Jeans,7,5813.08,0.2,32553.26,25865.92,6687.34,Debit Card,20.54,August,Q3
+ORD100992,2025-02-15,CUST1112,Corporate,East,Bhubaneswar,Groceries,Coffee,7,1557.58,0.05,10357.9,8455.36,1902.54,Net Banking,18.37,February,Q1
+ORD100993,2025-04-16,CUST1006,Corporate,North,Jaipur,Electronics,Smartphone,5,12529.16,0.0,62645.79,49727.01,12918.78,Debit Card,20.62,April,Q2
+ORD100994,2025-10-15,CUST1191,Consumer,East,Kolkata,Electronics,Monitor,2,62534.14,0.05,118814.87,98354.85,20460.02,Credit Card,17.22,October,Q4
+ORD100995,2025-09-19,CUST1334,Small Business,East,Bhubaneswar,Clothing,Jacket,3,793.53,0.0,2380.59,1608.79,771.8,Debit Card,32.42,September,Q3
+ORD100996,2025-06-25,CUST1279,Consumer,South,Kochi,Office Supplies,Stapler,6,3000.91,0.2,14404.35,11805.46,2598.89,Cash,18.04,June,Q2
+ORD100997,2025-06-15,CUST1340,Consumer,South,Hyderabad,Electronics,Monitor,2,67864.4,0.0,135728.8,117646.42,18082.38,UPI,13.32,June,Q2
+ORD100998,2025-05-25,CUST1013,Consumer,East,Bhubaneswar,Electronics,Laptop,3,22932.44,0.1,61917.59,58958.61,2958.98,Debit Card,4.78,May,Q2
+ORD100999,2025-11-26,CUST1303,Corporate,East,Kolkata,Electronics,Smartphone,4,76537.87,0.05,290843.91,219570.31,71273.6,UPI,24.51,November,Q4
+ORD101000,2025-10-10,CUST1044,Corporate,West,Surat,Groceries,Snacks,5,172.85,0.15,734.61,720.66,13.95,Debit Card,1.9,October,Q4
+ORD101001,2025-02-23,CUST1105,Consumer,North,Chandigarh,Electronics,Laptop,2,76724.09,0.0,153448.19,109822.41,43625.78,Credit Card,28.43,February,Q1
+ORD101002,2025-06-27,CUST1160,Corporate,West,Ahmedabad,Furniture,Office Chair,4,12317.73,0.05,46807.38,34850.15,11957.23,UPI,25.55,June,Q2
+ORD101003,2025-09-01,CUST1154,Consumer,South,Kochi,Electronics,Laptop,3,23494.97,0.05,66960.68,44196.08,22764.6,UPI,34.0,September,Q3
+ORD101004,2025-12-07,CUST1242,Corporate,South,Kochi,Furniture,Table,2,4643.79,0.1,8358.82,6574.88,1783.94,Credit Card,21.34,December,Q4
+ORD101005,2025-05-07,CUST1181,Consumer,South,Kochi,Electronics,Smartphone,6,86031.11,0.0,516186.66,382610.5,133576.16,UPI,25.88,May,Q2
+ORD101006,2025-09-28,CUST1014,Consumer,South,Kochi,Office Supplies,Printer,2,409.69,0.0,819.39,480.78,338.61,UPI,41.32,September,Q3
+ORD101007,2025-05-12,CUST1180,Small Business,East,Kolkata,Electronics,Headphones,4,21922.94,0.0,87691.76,62544.74,25147.02,Net Banking,28.68,May,Q2
+ORD101008,2025-04-03,CUST1292,Consumer,South,Hyderabad,Clothing,Jeans,2,2978.23,0.1,5360.82,4850.99,509.83,UPI,9.51,April,Q2
+ORD101009,2025-03-14,CUST1264,Consumer,East,Bhubaneswar,Electronics,Smartphone,6,57719.96,0.0,346319.77,271519.49,74800.28,Credit Card,21.6,March,Q1
+ORD101010,2025-09-05,CUST1168,Corporate,East,Ranchi,Office Supplies,Notebook,5,2746.77,0.05,13047.14,10582.56,2464.58,Net Banking,18.89,September,Q3
+ORD101011,2025-12-14,CUST1214,Small Business,South,Bengaluru,Groceries,Coffee,5,401.54,0.0,2007.72,1712.32,295.4,UPI,14.71,December,Q4
+ORD101012,2025-09-30,CUST1150,Consumer,South,Hyderabad,Office Supplies,Stapler,4,1484.15,0.15,5046.12,3475.35,1570.77,Credit Card,31.13,September,Q3
+ORD101013,2025-02-12,CUST1016,Consumer,North,Jaipur,Office Supplies,Notebook,3,1231.82,0.15,3141.14,2760.93,380.21,Credit Card,12.1,February,Q1
+ORD101014,2025-02-10,CUST1091,Consumer,West,Ahmedabad,Furniture,Office Chair,4,6518.26,0.05,24769.38,21280.93,3488.45,Debit Card,14.08,February,Q1
+ORD101015,2025-06-19,CUST1120,Consumer,South,Bengaluru,Furniture,Office Chair,5,11161.89,0.05,53018.99,41432.98,11586.01,Net Banking,21.85,June,Q2
+ORD101016,2025-07-31,CUST1253,Consumer,North,Delhi,Clothing,T-Shirt,1,5721.04,0.0,5721.04,3874.11,1846.93,Net Banking,32.28,July,Q3
+ORD101017,2025-06-17,CUST1060,Corporate,North,Delhi,Groceries,Cooking Oil,1,621.89,0.0,621.89,386.11,235.78,Debit Card,37.91,June,Q2
+ORD101018,2025-02-08,CUST1266,Small Business,West,Surat,Clothing,T-Shirt,2,3123.43,0.0,6246.85,5286.52,960.33,UPI,15.37,February,Q1
+ORD101019,2025-09-02,CUST1031,Consumer,East,Kolkata,Office Supplies,Pen Set,6,1985.04,0.1,10719.22,8590.01,2129.21,UPI,19.86,September,Q3
+ORD101020,2025-05-31,CUST1021,Consumer,South,Chennai,Clothing,Jacket,7,7818.72,0.05,51994.46,46162.02,5832.44,Credit Card,11.22,May,Q2
+ORD101021,2025-04-21,CUST1219,Consumer,West,Surat,Office Supplies,Pen Set,7,4775.6,0.15,28414.81,25264.3,3150.51,UPI,11.09,April,Q2
+ORD101022,2025-02-16,CUST1081,Consumer,South,Hyderabad,Electronics,Headphones,7,73011.69,0.05,485527.77,399797.69,85730.08,Debit Card,17.66,February,Q1
+ORD101023,2025-03-04,CUST1289,Small Business,North,Jaipur,Office Supplies,Notebook,2,1246.21,0.1,2243.18,2046.97,196.21,Debit Card,8.75,March,Q1
+ORD101024,2025-08-13,CUST1031,Consumer,North,Chandigarh,Groceries,Snacks,1,263.29,0.05,250.13,204.77,45.36,UPI,18.13,August,Q3
+ORD101025,2025-03-10,CUST1234,Consumer,East,Kolkata,Electronics,Laptop,5,31936.85,0.05,151700.05,111685.8,40014.25,Net Banking,26.38,March,Q1
+ORD101026,2025-10-26,CUST1036,Corporate,North,Lucknow,Clothing,Shoes,2,2354.32,0.0,4708.64,3456.56,1252.08,UPI,26.59,October,Q4
+ORD101027,2025-10-17,CUST1132,Consumer,North,Delhi,Electronics,Headphones,7,48003.69,0.05,319224.56,275848.21,43376.35,Credit Card,13.59,October,Q4
+ORD101028,2025-10-23,CUST1324,Corporate,West,Pune,Office Supplies,Printer,7,3899.75,0.05,25933.36,18893.0,7040.36,Debit Card,27.15,October,Q4
+ORD101029,2025-07-22,CUST1346,Consumer,South,Chennai,Electronics,Headphones,4,77957.45,0.1,280646.82,217169.63,63477.19,Credit Card,22.62,July,Q3
+ORD101030,2025-03-02,CUST1132,Small Business,South,Kochi,Furniture,Bookshelf,7,21354.31,0.15,127058.12,90989.61,36068.51,Credit Card,28.39,March,Q1
+ORD101031,2025-11-14,CUST1009,Small Business,West,Pune,Clothing,T-Shirt,6,3069.5,0.0,18417.01,15735.04,2681.97,UPI,14.56,November,Q4
+ORD101032,2025-11-10,CUST1030,Corporate,East,Patna,Furniture,Bookshelf,7,17650.01,0.0,123550.05,75033.29,48516.76,Credit Card,39.27,November,Q4
+ORD101033,2025-06-10,CUST1115,Small Business,South,Kochi,Clothing,Jeans,4,2708.82,0.05,10293.53,8391.53,1902.0,Debit Card,18.48,June,Q2
+ORD101034,2025-11-27,CUST1301,Consumer,North,Lucknow,Clothing,T-Shirt,7,768.97,0.05,5113.67,3789.27,1324.4,Net Banking,25.9,November,Q4
+ORD101035,2025-01-16,CUST1004,Consumer,South,Bengaluru,Groceries,Coffee,6,1783.76,0.0,10702.54,7509.82,3192.72,Credit Card,29.83,January,Q1
+ORD101036,2025-12-04,CUST1325,Corporate,North,Lucknow,Electronics,Monitor,5,5835.34,0.1,26259.04,22870.62,3388.42,Credit Card,12.9,December,Q4
+ORD101037,2025-04-04,CUST1237,Corporate,East,Patna,Furniture,Table,2,11115.79,0.2,17785.27,13341.8,4443.47,Debit Card,24.98,April,Q2
+ORD101038,2025-10-31,CUST1023,Consumer,West,Pune,Electronics,Headphones,6,32997.24,0.15,168285.91,150093.56,18192.35,Net Banking,10.81,October,Q4
+ORD101039,2025-05-18,CUST1016,Consumer,South,Bengaluru,Groceries,Cooking Oil,4,1764.11,0.0,7056.42,5727.06,1329.36,UPI,18.84,May,Q2
+ORD101040,2025-12-04,CUST1022,Consumer,West,Pune,Groceries,Cooking Oil,2,1938.99,0.15,3296.28,3212.76,83.52,Credit Card,2.53,December,Q4
+ORD101041,2025-02-07,CUST1072,Consumer,South,Bengaluru,Office Supplies,Stapler,2,1555.27,0.1,2799.48,1963.24,836.24,Debit Card,29.87,February,Q1
+ORD101042,2025-05-07,CUST1304,Consumer,North,Delhi,Groceries,Coffee,4,2047.9,0.05,7782.04,6956.53,825.51,Credit Card,10.61,May,Q2
+ORD101043,2025-10-02,CUST1230,Corporate,West,Ahmedabad,Office Supplies,Notebook,1,1504.89,0.05,1429.64,1169.06,260.58,UPI,18.23,October,Q4
+ORD101044,2025-06-13,CUST1107,Consumer,South,Chennai,Office Supplies,Notebook,7,2259.32,0.15,13442.93,13356.84,86.09,Credit Card,0.64,June,Q2
+ORD101045,2025-11-15,CUST1208,Consumer,North,Lucknow,Electronics,Monitor,6,66796.57,0.05,380740.48,290799.24,89941.24,UPI,23.62,November,Q4
+ORD101046,2025-03-18,CUST1208,Corporate,West,Ahmedabad,Clothing,T-Shirt,4,5635.49,0.05,21414.85,16739.87,4674.98,Credit Card,21.83,March,Q1
+ORD101047,2025-06-23,CUST1263,Corporate,West,Ahmedabad,Electronics,Monitor,5,88926.32,0.05,422400.02,380476.37,41923.65,Credit Card,9.93,June,Q2
+ORD101048,2025-12-24,CUST1051,Small Business,South,Bengaluru,Groceries,Coffee,3,640.39,0.05,1825.1,1632.93,192.17,Net Banking,10.53,December,Q4
+ORD101049,2025-11-17,CUST1065,Corporate,South,Chennai,Clothing,T-Shirt,4,5399.85,0.0,21599.39,15431.65,6167.74,Credit Card,28.56,November,Q4
+ORD101050,2025-04-01,CUST1265,Consumer,South,Chennai,Clothing,Jeans,7,4994.55,0.15,29717.58,23156.07,6561.51,UPI,22.08,April,Q2
+ORD101051,2025-08-26,CUST1338,Small Business,North,Lucknow,Electronics,Headphones,7,82783.37,0.1,521535.22,404451.22,117084.0,UPI,22.45,August,Q3
+ORD101052,2025-09-21,CUST1301,Corporate,South,Bengaluru,Furniture,Table,2,5174.51,0.1,9314.12,7206.33,2107.79,Net Banking,22.63,September,Q3
+ORD101053,2025-06-28,CUST1175,Consumer,West,Pune,Electronics,Smartphone,2,68902.84,0.0,137805.69,91786.87,46018.82,UPI,33.39,June,Q2
+ORD101054,2025-07-28,CUST1152,Corporate,West,Surat,Furniture,Office Chair,4,14854.31,0.1,53475.52,39249.48,14226.04,Credit Card,26.6,July,Q3
+ORD101055,2025-03-14,CUST1266,Small Business,South,Chennai,Electronics,Monitor,3,28346.6,0.0,85039.8,71290.47,13749.33,UPI,16.17,March,Q1
+ORD101056,2025-04-17,CUST1329,Consumer,South,Hyderabad,Groceries,Coffee,4,1238.64,0.0,4954.58,2977.49,1977.09,Debit Card,39.9,April,Q2
+ORD101057,2025-12-11,CUST1304,Consumer,East,Ranchi,Office Supplies,Pen Set,3,1702.19,0.05,4851.25,3999.9,851.35,Credit Card,17.55,December,Q4
+ORD101058,2025-10-22,CUST1163,Consumer,West,Mumbai,Furniture,Desk,3,15113.86,0.05,43074.52,28648.91,14425.61,UPI,33.49,October,Q4
+ORD101059,2025-10-11,CUST1343,Consumer,North,Chandigarh,Furniture,Bookshelf,7,22391.51,0.05,148903.57,107108.97,41794.6,UPI,28.07,October,Q4
+ORD101060,2025-12-19,CUST1238,Consumer,East,Ranchi,Furniture,Desk,7,14878.67,0.0,104150.67,62330.31,41820.36,Net Banking,40.15,December,Q4
+ORD101061,2025-07-01,CUST1199,Corporate,South,Hyderabad,Office Supplies,Notebook,7,3177.03,0.05,21127.22,14699.92,6427.3,Credit Card,30.42,July,Q3
+ORD101062,2025-02-06,CUST1016,Consumer,South,Chennai,Office Supplies,Pen Set,5,2617.8,0.0,13089.01,10608.99,2480.02,Debit Card,18.95,February,Q1
+ORD101063,2025-05-17,CUST1309,Small Business,West,Mumbai,Groceries,Snacks,7,222.8,0.2,1247.66,1318.63,-70.97,Net Banking,-5.69,May,Q2
+ORD101064,2025-12-04,CUST1296,Corporate,South,Kochi,Office Supplies,Notebook,6,1202.65,0.05,6855.1,4664.78,2190.32,Net Banking,31.95,December,Q4
+ORD101065,2025-02-25,CUST1276,Corporate,North,Lucknow,Groceries,Snacks,2,1280.8,0.1,2305.45,1841.96,463.49,UPI,20.1,February,Q1
+ORD101066,2025-07-06,CUST1239,Small Business,West,Pune,Groceries,Cooking Oil,2,844.56,0.0,1689.13,1218.03,471.1,Cash,27.89,July,Q3
+ORD101067,2025-12-07,CUST1069,Consumer,South,Kochi,Electronics,Smartphone,3,20449.91,0.0,61349.72,51660.92,9688.8,UPI,15.79,December,Q4
+ORD101068,2025-09-15,CUST1301,Consumer,West,Ahmedabad,Groceries,Rice,2,1309.92,0.2,2095.87,2119.03,-23.16,UPI,-1.11,September,Q3
+ORD101069,2025-02-27,CUST1006,Corporate,South,Hyderabad,Electronics,Smartphone,1,32438.83,0.0,32438.83,23807.61,8631.22,Net Banking,26.61,February,Q1
+ORD101070,2025-12-29,CUST1220,Small Business,South,Hyderabad,Clothing,Shoes,3,2287.43,0.05,6519.17,5360.98,1158.19,UPI,17.77,December,Q4
+ORD101071,2025-05-03,CUST1254,Corporate,South,Bengaluru,Furniture,Desk,2,12403.66,0.1,22326.58,20694.42,1632.16,UPI,7.31,May,Q2
+ORD101072,2025-07-07,CUST1295,Consumer,North,Jaipur,Groceries,Coffee,1,419.88,0.0,419.88,244.73,175.15,UPI,41.71,July,Q3
+ORD101073,2025-08-18,CUST1107,Small Business,North,Chandigarh,Groceries,Snacks,5,2326.59,0.15,9888.01,8153.15,1734.86,Credit Card,17.55,August,Q3
+ORD101074,2025-06-17,CUST1295,Consumer,West,Pune,Clothing,Shoes,2,6981.31,0.05,13264.48,11898.56,1365.92,Credit Card,10.3,June,Q2
+ORD101075,2025-04-24,CUST1118,Small Business,South,Chennai,Clothing,Jeans,1,5748.68,0.0,5748.68,4610.98,1137.7,Debit Card,19.79,April,Q2
+ORD101076,2025-09-09,CUST1168,Small Business,South,Kochi,Furniture,Office Chair,4,3996.02,0.0,15984.1,11873.83,4110.27,Net Banking,25.71,September,Q3
+ORD101077,2025-04-17,CUST1251,Consumer,North,Jaipur,Electronics,Headphones,6,70949.57,0.0,425697.4,314544.98,111152.42,Debit Card,26.11,April,Q2
+ORD101078,2025-02-06,CUST1082,Corporate,South,Bengaluru,Furniture,Bookshelf,4,20487.0,0.15,69655.79,56079.55,13576.24,UPI,19.49,February,Q1
+ORD101079,2025-12-01,CUST1054,Consumer,North,Chandigarh,Electronics,Monitor,1,70259.99,0.1,63233.99,51722.33,11511.66,Net Banking,18.2,December,Q4
+ORD101080,2025-04-02,CUST1240,Consumer,South,Kochi,Clothing,Shoes,3,1177.54,0.0,3532.61,2743.48,789.13,UPI,22.34,April,Q2
+ORD101081,2025-01-18,CUST1012,Consumer,West,Ahmedabad,Furniture,Table,7,16631.84,0.0,116422.86,82137.36,34285.5,UPI,29.45,January,Q1
+ORD101082,2025-12-20,CUST1209,Corporate,South,Chennai,Groceries,Coffee,7,2102.38,0.1,13244.99,11688.64,1556.35,UPI,11.75,December,Q4
+ORD101083,2025-03-04,CUST1165,Small Business,South,Kochi,Office Supplies,Notebook,7,2907.9,0.05,19337.53,17065.26,2272.27,Credit Card,11.75,March,Q1
+ORD101084,2025-05-30,CUST1294,Corporate,East,Ranchi,Groceries,Cooking Oil,3,1651.38,0.05,4706.43,3103.3,1603.13,UPI,34.06,May,Q2
+ORD101085,2025-05-19,CUST1007,Consumer,North,Delhi,Electronics,Smartphone,2,43960.9,0.05,83525.7,62904.89,20620.81,UPI,24.69,May,Q2
+ORD101086,2025-07-05,CUST1078,Small Business,South,Hyderabad,Groceries,Snacks,7,1368.9,0.0,9582.28,6730.65,2851.63,UPI,29.76,July,Q3
+ORD101087,2025-07-04,CUST1065,Small Business,South,Kochi,Groceries,Snacks,4,182.5,0.1,657.02,573.97,83.05,UPI,12.64,July,Q3
+ORD101088,2025-07-24,CUST1102,Consumer,East,Kolkata,Office Supplies,Notebook,3,3212.87,0.2,7710.88,6312.9,1397.98,Credit Card,18.13,July,Q3
+ORD101089,2025-09-17,CUST1300,Small Business,East,Ranchi,Office Supplies,Pen Set,3,453.16,0.0,1359.49,1049.63,309.86,Net Banking,22.79,September,Q3
+ORD101090,2025-08-02,CUST1287,Consumer,North,Chandigarh,Clothing,Jeans,7,3649.61,0.05,24269.92,21542.67,2727.25,Debit Card,11.24,August,Q3
+ORD101091,2025-09-13,CUST1171,Small Business,East,Ranchi,Electronics,Headphones,4,29875.68,0.05,113527.6,84301.95,29225.65,UPI,25.74,September,Q3
+ORD101092,2025-05-15,CUST1077,Consumer,West,Mumbai,Office Supplies,Notebook,5,2749.87,0.05,13061.87,11732.38,1329.49,UPI,10.18,May,Q2
+ORD101093,2025-03-02,CUST1048,Consumer,East,Bhubaneswar,Furniture,Office Chair,3,4635.28,0.0,13905.85,12208.63,1697.22,Cash,12.21,March,Q1
+ORD101094,2025-12-29,CUST1255,Consumer,West,Surat,Electronics,Smartphone,7,63789.69,0.15,379548.65,273198.05,106350.6,UPI,28.02,December,Q4
+ORD101095,2025-11-06,CUST1082,Corporate,North,Chandigarh,Furniture,Desk,6,20182.77,0.05,115041.8,78702.63,36339.17,Net Banking,31.59,November,Q4
+ORD101096,2025-03-29,CUST1209,Consumer,North,Jaipur,Electronics,Headphones,1,18885.13,0.05,17940.87,16337.79,1603.08,UPI,8.94,March,Q1
+ORD101097,2025-11-20,CUST1209,Consumer,North,Chandigarh,Electronics,Headphones,2,13866.61,0.0,27733.22,24058.53,3674.69,Net Banking,13.25,November,Q4
+ORD101098,2025-07-26,CUST1084,Corporate,North,Lucknow,Electronics,Laptop,3,17368.82,0.0,52106.45,31749.09,20357.36,UPI,39.07,July,Q3
+ORD101099,2025-05-09,CUST1010,Small Business,North,Chandigarh,Groceries,Rice,6,2205.11,0.0,13230.64,7733.3,5497.34,Credit Card,41.55,May,Q2
+ORD101100,2025-11-07,CUST1029,Consumer,West,Ahmedabad,Office Supplies,Printer,6,2664.54,0.1,14388.5,10045.25,4343.25,Debit Card,30.19,November,Q4
+ORD101101,2025-01-03,CUST1304,Consumer,West,Pune,Groceries,Rice,3,1221.43,0.0,3664.28,3220.18,444.1,Credit Card,12.12,January,Q1
+ORD101102,2025-08-30,CUST1116,Consumer,North,Delhi,Furniture,Bookshelf,5,4007.73,0.1,18034.77,12704.49,5330.28,UPI,29.56,August,Q3
+ORD101103,2025-05-01,CUST1269,Consumer,East,Bhubaneswar,Furniture,Desk,1,16764.57,0.05,15926.34,12250.95,3675.39,Credit Card,23.08,May,Q2
+ORD101104,2025-04-12,CUST1047,Small Business,South,Kochi,Office Supplies,Notebook,2,4346.6,0.05,8258.54,7254.69,1003.85,Debit Card,12.16,April,Q2
+ORD101105,2025-02-07,CUST1091,Small Business,North,Lucknow,Furniture,Office Chair,3,20962.37,0.05,59742.75,36859.42,22883.33,UPI,38.3,February,Q1
+ORD101106,2025-12-07,CUST1053,Corporate,East,Kolkata,Electronics,Headphones,2,58214.65,0.05,110607.84,88643.06,21964.78,UPI,19.86,December,Q4
+ORD101107,2025-05-13,CUST1218,Consumer,South,Kochi,Office Supplies,Stapler,4,422.63,0.0,1690.52,1121.0,569.52,Credit Card,33.69,May,Q2
+ORD101108,2025-07-21,CUST1348,Corporate,North,Delhi,Electronics,Headphones,6,14553.75,0.0,87322.48,73237.41,14085.07,UPI,16.13,July,Q3
+ORD101109,2025-12-14,CUST1077,Corporate,North,Delhi,Office Supplies,Stapler,6,294.08,0.1,1588.03,1173.44,414.59,Debit Card,26.11,December,Q4
+ORD101110,2025-01-21,CUST1204,Small Business,West,Surat,Office Supplies,Printer,3,1324.52,0.1,3576.21,3123.33,452.88,UPI,12.66,January,Q1
+ORD101111,2025-08-30,CUST1044,Corporate,South,Chennai,Electronics,Headphones,3,16531.22,0.0,49593.67,38795.44,10798.23,Credit Card,21.77,August,Q3
+ORD101112,2025-04-19,CUST1156,Corporate,South,Kochi,Electronics,Laptop,4,27104.08,0.05,102995.52,70085.53,32909.99,UPI,31.95,April,Q2
+ORD101113,2025-10-30,CUST1002,Corporate,East,Ranchi,Clothing,Jeans,5,3264.95,0.0,16324.74,9638.77,6685.97,Credit Card,40.96,October,Q4
+ORD101114,2025-03-25,CUST1313,Consumer,West,Pune,Furniture,Office Chair,3,23660.1,0.0,70980.29,49883.16,21097.13,UPI,29.72,March,Q1
+ORD101115,2025-03-24,CUST1057,Small Business,West,Ahmedabad,Electronics,Smartphone,6,56881.97,0.0,341291.79,227559.01,113732.78,UPI,33.32,March,Q1
+ORD101116,2025-10-18,CUST1290,Corporate,West,Surat,Groceries,Snacks,2,2103.94,0.15,3576.69,3461.79,114.9,UPI,3.21,October,Q4
+ORD101117,2025-03-10,CUST1058,Corporate,West,Mumbai,Electronics,Monitor,1,65379.88,0.0,65379.88,53618.64,11761.24,Cash,17.99,March,Q1
+ORD101118,2025-05-09,CUST1254,Consumer,South,Kochi,Clothing,Jeans,7,1166.27,0.0,8163.92,5854.4,2309.52,UPI,28.29,May,Q2
+ORD101119,2025-07-15,CUST1180,Corporate,South,Kochi,Groceries,Cooking Oil,2,1866.21,0.0,3732.42,2843.93,888.49,Debit Card,23.8,July,Q3
+ORD101120,2025-05-20,CUST1157,Corporate,North,Delhi,Electronics,Smartphone,5,28383.4,0.0,141917.02,108038.29,33878.73,UPI,23.87,May,Q2
+ORD101121,2025-10-10,CUST1035,Consumer,North,Jaipur,Electronics,Laptop,1,59324.17,0.1,53391.75,49129.16,4262.59,UPI,7.98,October,Q4
+ORD101122,2025-11-08,CUST1075,Consumer,West,Ahmedabad,Electronics,Laptop,2,33981.77,0.0,67963.54,48084.25,19879.29,Credit Card,29.25,November,Q4
+ORD101123,2025-08-22,CUST1289,Corporate,West,Ahmedabad,Furniture,Desk,2,24945.3,0.0,49890.6,33059.21,16831.39,Credit Card,33.74,August,Q3
+ORD101124,2025-01-23,CUST1075,Corporate,West,Mumbai,Electronics,Monitor,4,27401.88,0.1,98646.75,72287.3,26359.45,Cash,26.72,January,Q1
+ORD101125,2025-06-02,CUST1329,Corporate,North,Jaipur,Clothing,Jacket,7,2449.3,0.0,17145.13,12702.1,4443.03,Net Banking,25.91,June,Q2
+ORD101126,2025-10-04,CUST1078,Consumer,East,Ranchi,Electronics,Headphones,5,84107.14,0.1,378482.14,300575.57,77906.57,Debit Card,20.58,October,Q4
+ORD101127,2025-03-02,CUST1255,Corporate,East,Ranchi,Office Supplies,Notebook,6,171.99,0.05,980.34,734.78,245.56,Credit Card,25.05,March,Q1
+ORD101128,2025-11-15,CUST1265,Consumer,North,Chandigarh,Groceries,Snacks,4,1772.05,0.0,7088.21,4304.96,2783.25,Credit Card,39.27,November,Q4
+ORD101129,2025-02-21,CUST1304,Consumer,North,Chandigarh,Clothing,T-Shirt,1,5885.01,0.1,5296.51,4682.01,614.5,UPI,11.6,February,Q1
+ORD101130,2025-12-10,CUST1067,Consumer,North,Chandigarh,Office Supplies,Pen Set,7,4190.07,0.0,29330.52,18892.4,10438.12,Net Banking,35.59,December,Q4
+ORD101131,2025-06-02,CUST1221,Consumer,North,Delhi,Furniture,Desk,6,24399.32,0.05,139076.15,93559.61,45516.54,Credit Card,32.73,June,Q2
+ORD101132,2025-08-25,CUST1164,Consumer,North,Chandigarh,Office Supplies,Notebook,4,4879.23,0.05,18541.07,13736.54,4804.53,Credit Card,25.91,August,Q3
+ORD101133,2025-11-07,CUST1220,Consumer,North,Chandigarh,Office Supplies,Notebook,7,373.12,0.0,2611.84,1693.34,918.5,UPI,35.17,November,Q4
+ORD101134,2025-10-29,CUST1172,Consumer,West,Pune,Furniture,Desk,5,20813.22,0.1,93659.51,78586.31,15073.2,UPI,16.09,October,Q4
+ORD101135,2025-02-01,CUST1254,Consumer,West,Surat,Electronics,Laptop,3,59936.34,0.15,152837.68,124326.98,28510.7,Net Banking,18.65,February,Q1
+ORD101136,2025-02-24,CUST1210,Consumer,West,Ahmedabad,Groceries,Snacks,3,1653.62,0.2,3968.69,3545.4,423.29,UPI,10.67,February,Q1
+ORD101137,2025-12-18,CUST1188,Consumer,West,Mumbai,Furniture,Bookshelf,1,4516.22,0.1,4064.6,3347.2,717.4,Credit Card,17.65,December,Q4
+ORD101138,2025-02-05,CUST1191,Consumer,North,Delhi,Electronics,Laptop,3,60265.91,0.05,171757.84,115902.31,55855.53,UPI,32.52,February,Q1
+ORD101139,2025-04-20,CUST1215,Small Business,East,Kolkata,Furniture,Bookshelf,4,24588.34,0.0,98353.36,61640.56,36712.8,Net Banking,37.33,April,Q2
+ORD101140,2025-06-26,CUST1086,Consumer,South,Hyderabad,Furniture,Table,1,22927.74,0.0,22927.74,19353.91,3573.83,UPI,15.59,June,Q2
+ORD101141,2025-12-28,CUST1106,Consumer,North,Chandigarh,Groceries,Coffee,6,1153.91,0.05,6577.31,4916.48,1660.83,Net Banking,25.25,December,Q4
+ORD101142,2025-11-10,CUST1332,Consumer,South,Bengaluru,Clothing,Jeans,5,607.6,0.05,2886.1,2137.62,748.48,UPI,25.93,November,Q4
+ORD101143,2025-10-22,CUST1296,Consumer,East,Patna,Clothing,Shoes,1,3089.66,0.15,2626.21,1825.01,801.2,Net Banking,30.51,October,Q4
+ORD101144,2025-12-02,CUST1019,Corporate,West,Pune,Electronics,Laptop,6,75243.18,0.05,428886.11,329291.03,99595.08,Debit Card,23.22,December,Q4
+ORD101145,2025-04-07,CUST1047,Corporate,East,Ranchi,Furniture,Desk,1,17985.23,0.05,17085.97,13421.49,3664.48,UPI,21.45,April,Q2
+ORD101146,2025-08-01,CUST1065,Small Business,North,Lucknow,Office Supplies,Pen Set,2,2323.75,0.05,4415.13,3474.72,940.41,Credit Card,21.3,August,Q3
+ORD101147,2025-11-13,CUST1146,Corporate,West,Surat,Electronics,Smartphone,2,9683.63,0.15,16462.17,15340.99,1121.18,UPI,6.81,November,Q4
+ORD101148,2025-05-17,CUST1286,Small Business,North,Jaipur,Electronics,Monitor,1,41286.05,0.1,37157.45,26144.17,11013.28,UPI,29.64,May,Q2
+ORD101149,2025-01-06,CUST1066,Consumer,West,Ahmedabad,Clothing,Jacket,7,3911.49,0.1,24642.4,17952.45,6689.95,Net Banking,27.15,January,Q1
+ORD101150,2025-04-19,CUST1005,Consumer,South,Kochi,Electronics,Laptop,3,83927.22,0.0,251781.66,207271.48,44510.18,Credit Card,17.68,April,Q2
+ORD101151,2025-02-04,CUST1093,Consumer,South,Hyderabad,Office Supplies,Pen Set,2,3223.38,0.15,5479.74,5570.97,-91.23,Credit Card,-1.66,February,Q1
+ORD101152,2025-02-08,CUST1094,Consumer,South,Bengaluru,Electronics,Laptop,7,31490.5,0.0,220433.49,136840.66,83592.83,UPI,37.92,February,Q1
+ORD101153,2025-05-30,CUST1106,Corporate,East,Ranchi,Electronics,Laptop,7,49652.05,0.15,295429.71,253476.91,41952.8,Credit Card,14.2,May,Q2
+ORD101154,2025-04-28,CUST1133,Corporate,North,Lucknow,Electronics,Smartphone,5,10614.7,0.05,50419.83,34192.76,16227.07,Net Banking,32.18,April,Q2
+ORD101155,2025-09-18,CUST1341,Consumer,East,Kolkata,Groceries,Rice,6,2434.16,0.05,13874.73,8734.1,5140.63,UPI,37.05,September,Q3
+ORD101156,2025-03-28,CUST1314,Small Business,South,Chennai,Clothing,Jeans,4,3072.46,0.05,11675.35,8328.23,3347.12,Cash,28.67,March,Q1
+ORD101157,2025-03-17,CUST1079,Small Business,North,Chandigarh,Groceries,Cooking Oil,2,1246.88,0.1,2244.39,1553.88,690.51,Net Banking,30.77,March,Q1
+ORD101158,2025-11-09,CUST1212,Consumer,South,Kochi,Office Supplies,Stapler,1,1808.66,0.0,1808.66,1434.23,374.43,UPI,20.7,November,Q4
+ORD101159,2025-08-02,CUST1008,Consumer,East,Bhubaneswar,Electronics,Smartphone,3,63013.5,0.15,160684.42,139912.2,20772.22,UPI,12.93,August,Q3
+ORD101160,2025-10-12,CUST1159,Consumer,East,Kolkata,Office Supplies,Stapler,4,3328.05,0.05,12646.59,8295.5,4351.09,Net Banking,34.41,October,Q4
+ORD101161,2025-08-27,CUST1268,Consumer,East,Bhubaneswar,Furniture,Bookshelf,6,18310.07,0.0,109860.45,64023.64,45836.81,Credit Card,41.72,August,Q3
+ORD101162,2025-06-14,CUST1149,Consumer,South,Kochi,Groceries,Snacks,7,743.54,0.0,5204.81,4280.68,924.13,UPI,17.76,June,Q2
+ORD101163,2025-03-28,CUST1350,Consumer,North,Lucknow,Electronics,Monitor,6,31831.82,0.05,181441.38,120870.2,60571.18,UPI,33.38,March,Q1
+ORD101164,2025-05-21,CUST1091,Consumer,North,Delhi,Office Supplies,Stapler,2,669.99,0.05,1272.99,1020.89,252.1,Credit Card,19.8,May,Q2
+ORD101165,2025-06-09,CUST1236,Consumer,South,Bengaluru,Electronics,Headphones,6,60718.35,0.05,346094.58,248123.06,97971.52,Debit Card,28.31,June,Q2
+ORD101166,2025-02-15,CUST1289,Small Business,North,Delhi,Furniture,Office Chair,6,2435.23,0.1,13150.26,11041.04,2109.22,UPI,16.04,February,Q1
+ORD101167,2025-04-22,CUST1168,Corporate,South,Chennai,Clothing,Jacket,3,4902.15,0.05,13971.14,9922.39,4048.75,UPI,28.98,April,Q2
+ORD101168,2025-02-14,CUST1193,Small Business,North,Jaipur,Office Supplies,Pen Set,7,4354.99,0.2,24387.97,18476.38,5911.59,Net Banking,24.24,February,Q1
+ORD101169,2025-09-04,CUST1187,Consumer,West,Ahmedabad,Furniture,Table,3,22434.56,0.05,63938.48,43537.73,20400.75,Debit Card,31.91,September,Q3
+ORD101170,2025-04-14,CUST1271,Consumer,West,Ahmedabad,Furniture,Bookshelf,3,12052.39,0.15,30733.59,23011.05,7722.54,Credit Card,25.13,April,Q2
+ORD101171,2025-03-26,CUST1114,Corporate,East,Kolkata,Furniture,Table,1,12293.64,0.0,12293.64,8708.88,3584.76,Debit Card,29.16,March,Q1
+ORD101172,2025-05-14,CUST1011,Consumer,West,Ahmedabad,Clothing,Shoes,6,892.66,0.05,5088.18,4164.19,923.99,Credit Card,18.16,May,Q2
+ORD101173,2025-04-18,CUST1055,Consumer,West,Pune,Groceries,Rice,6,1709.84,0.0,10259.02,6762.15,3496.87,Debit Card,34.09,April,Q2
+ORD101174,2025-01-18,CUST1258,Corporate,West,Ahmedabad,Groceries,Snacks,6,2071.02,0.05,11804.83,7252.15,4552.68,UPI,38.57,January,Q1
+ORD101175,2025-04-04,CUST1065,Corporate,South,Chennai,Clothing,T-Shirt,5,2183.84,0.15,9281.34,8033.06,1248.28,UPI,13.45,April,Q2
+ORD101176,2025-05-30,CUST1172,Consumer,West,Ahmedabad,Furniture,Desk,3,11400.57,0.0,34201.71,26052.4,8149.31,Debit Card,23.83,May,Q2
+ORD101177,2025-09-03,CUST1272,Consumer,West,Surat,Clothing,Shoes,4,6759.06,0.0,27036.25,23490.75,3545.5,Credit Card,13.11,September,Q3
+ORD101178,2025-10-16,CUST1150,Consumer,East,Bhubaneswar,Furniture,Table,2,22112.33,0.15,37590.96,33471.05,4119.91,Cash,10.96,October,Q4
+ORD101179,2025-07-28,CUST1146,Consumer,West,Surat,Electronics,Laptop,7,25670.3,0.0,179692.09,129621.21,50070.88,UPI,27.86,July,Q3
+ORD101180,2025-05-06,CUST1209,Consumer,West,Pune,Groceries,Cooking Oil,4,1421.37,0.1,5116.93,4275.6,841.33,Net Banking,16.44,May,Q2
+ORD101181,2025-08-23,CUST1286,Consumer,North,Lucknow,Electronics,Headphones,7,21361.92,0.05,142056.75,128355.03,13701.72,Net Banking,9.65,August,Q3
+ORD101182,2025-05-02,CUST1010,Consumer,East,Ranchi,Groceries,Rice,1,344.51,0.15,292.83,285.43,7.4,UPI,2.53,May,Q2
+ORD101183,2025-05-18,CUST1227,Small Business,East,Patna,Office Supplies,Stapler,1,4560.05,0.0,4560.05,3086.67,1473.38,Debit Card,32.31,May,Q2
+ORD101184,2025-04-25,CUST1186,Corporate,East,Bhubaneswar,Office Supplies,Stapler,7,4111.51,0.0,28780.59,18741.24,10039.35,Credit Card,34.88,April,Q2
+ORD101185,2025-06-11,CUST1062,Corporate,East,Ranchi,Office Supplies,Notebook,6,3812.17,0.05,21729.38,15068.53,6660.85,Net Banking,30.65,June,Q2
+ORD101186,2025-07-20,CUST1085,Consumer,East,Kolkata,Groceries,Snacks,4,217.04,0.15,737.93,634.91,103.02,Credit Card,13.96,July,Q3
+ORD101187,2025-08-22,CUST1134,Consumer,East,Patna,Office Supplies,Stapler,6,4226.46,0.05,24090.81,20368.52,3722.29,Debit Card,15.45,August,Q3
+ORD101188,2025-01-28,CUST1323,Consumer,South,Chennai,Office Supplies,Notebook,5,2218.32,0.0,11091.59,8107.57,2984.02,Credit Card,26.9,January,Q1
+ORD101189,2025-01-11,CUST1297,Consumer,West,Surat,Electronics,Monitor,1,34103.59,0.1,30693.23,20473.71,10219.52,UPI,33.3,January,Q1
+ORD101190,2025-07-25,CUST1171,Consumer,East,Patna,Office Supplies,Notebook,1,2755.06,0.15,2341.8,2195.99,145.81,UPI,6.23,July,Q3
+ORD101191,2025-06-16,CUST1213,Corporate,West,Surat,Electronics,Laptop,4,12765.03,0.15,43401.09,41960.73,1440.36,Credit Card,3.32,June,Q2
+ORD101192,2025-09-04,CUST1018,Corporate,West,Ahmedabad,Clothing,Jacket,1,6126.18,0.2,4900.94,4085.24,815.7,Debit Card,16.64,September,Q3
+ORD101193,2025-02-16,CUST1314,Corporate,South,Hyderabad,Office Supplies,Stapler,5,2933.05,0.0,14665.27,11427.73,3237.54,Credit Card,22.08,February,Q1
+ORD101194,2025-09-03,CUST1060,Consumer,East,Patna,Clothing,Jacket,5,1736.74,0.0,8683.72,6147.88,2535.84,Debit Card,29.2,September,Q3
+ORD101195,2025-05-07,CUST1088,Small Business,North,Chandigarh,Electronics,Laptop,5,20999.74,0.1,94498.82,88906.15,5592.67,UPI,5.92,May,Q2
+ORD101196,2025-05-27,CUST1027,Consumer,South,Kochi,Electronics,Smartphone,2,20661.14,0.15,35123.93,34444.91,679.02,Credit Card,1.93,May,Q2
+ORD101197,2025-04-28,CUST1068,Consumer,North,Lucknow,Clothing,Shoes,5,738.92,0.0,3694.59,2725.24,969.35,UPI,26.24,April,Q2
+ORD101198,2025-06-01,CUST1278,Consumer,West,Mumbai,Electronics,Smartphone,5,54962.87,0.0,274814.34,216403.01,58411.33,Net Banking,21.25,June,Q2
+ORD101199,2025-03-13,CUST1040,Corporate,West,Mumbai,Electronics,Monitor,2,76429.6,0.1,137573.27,129166.77,8406.5,Cash,6.11,March,Q1
+ORD101200,2025-12-29,CUST1109,Small Business,South,Bengaluru,Electronics,Headphones,6,6487.35,0.0,38924.09,28364.57,10559.52,Credit Card,27.13,December,Q4
